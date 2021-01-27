@@ -45,5 +45,3 @@
 9. Military
 10. what are the factors that indic
 11. WID - World Inequality Database
-
-10 - 20 years
