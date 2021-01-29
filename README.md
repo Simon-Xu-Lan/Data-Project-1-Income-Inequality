@@ -1,5 +1,7 @@
 # Union Income Inequality:
 
+![image](./images/Unions_inequality.png)
+
 ## The effect of labor unions on income inequality in OECD countries from 2000 - 2020.
 
 ## Interests and Intent:
