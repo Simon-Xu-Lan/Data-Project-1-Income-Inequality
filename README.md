@@ -69,5 +69,3 @@
 | Sat     | January 30 | Field Work                      |
 | Fri     | January 29 | Field Work                      |
 | Thurs   | January 28 | Proposal Submitted and Approved |
-
-## Test confilict
