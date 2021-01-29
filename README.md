@@ -1,47 +1,69 @@
-# Data-Project-1-Income-Inequality
+# Union Income Inequality:
 
-## Project Proposal
+## The effect of labor unions on income inequality in OECD countries from 2000 - 2020.
 
-### Union membership in Germany vs. United States
+## Interests and Intent:
 
-- Levels of inequality
-  - Race
-  - Gender
-- Unemployment
-- Is there an impact on the value of currency?
-- Structure of unions in each location.
-- Government involvement
+- Gini coefficient (proportion of income / total population)
+- What impact does union membership have on income equality within countries in the OECD?
+- Is there a correlation between the volume of unions and value of currency?
+- Create the summary table statistics associated with union vs. nonunion income.
+- Graphical representation of the types of unions OECD, including membership quantity.
+- Discover the distribution of government funding ( i.e. education, military, healthcare).
+- Summarize the GDP of the countries OECD.
+- How does the political environment foster or hinder union development?
+- Average age of workforce?
+- Diversity of workforce, including race and gender.
+- Participation of labor unions over time
 
-### Income Equality
+## Group 1: Tricia, Eli
 
-### What the factors that indicate equality in a country?
+- Gini coefficient (proportion of income / total population)Summarize the GDP of the countries OECD
+- Value of currency /inequality
 
-## Data
+## Group 2: Renuka
 
-### Census data
+- Average age of workforce?
+- Diversity of workforce, including race and gender.
 
-- Income
-- Gender
-- Ethnicity10 - 20 years
-- Union
-- Nonunion
+## Group 3: Anna
 
-### Map data
+- Discover the distribution of government funding ( i.e. education, military, healthcare).
 
-- Populate census data by city
+## Group 4: Matt, Simon
 
-### WID - World Inequality Database
+- Union participation in OECD
+- Create the summary table statistics associated with union vs. nonunion income.
+- What impact does union membership have on income equality within countries in the OECD? (output will rely on Union participation and gini coefficient).
+- Graphical representation of the types of unions OECD, including membership quantity.
+- Participation of labor unions over time
 
-## Questions
+## Group 5: Bonus, Matt
 
-1. Do higher rates of union membership lead to equality?
-2. Does gender distribution have a relationship with equality?
-3. Is there an impact on the value of currency?
-4. Average income within union / types of jobs?
-5. How does each government spend money?Education spending?
-6. GDP
-7. Tax policies
-8. Average age of workforce?
-9. Military
-10. what are the factors that indic
-11. WID - World Inequality Database
+- How does the political environment foster or hinder union development?
+
+## Resources:
+
+- WID - World Inequality Database
+- World Bank
+- OECD
+- OECD Statistics
+- US Bureau of Labor Statistics
+- US Census
+- Eurostat
+- ILOstat
+
+## Timeline:
+
+| Weekday | Date       | Plan                            |
+| ------- | ---------- | ------------------------------- |
+| Sat     | February 6 | Class Presentation              |
+| Fri     | February 5 | Draft Presentation              |
+| Thurs   | February 4 | Draft Presentation / Class      |
+| Wed     | February 3 | Field Work / Code Complete      |
+| Tues    | February 2 | Study Group / Class             |
+| Mon     | February 1 | Field Work                      |
+| Sun     | January 31 | Study Group                     |
+| Sat     | January 30 | Field Work                      |
+| Fri     | January 29 | Field Work                      |
+| Thurs   | January 28 | Proposal Submitted and Approved |
