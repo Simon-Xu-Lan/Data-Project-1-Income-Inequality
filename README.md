@@ -20,7 +20,8 @@
 
 ## Group 1: Tricia, Eli
 
-- Gini coefficient (proportion of income / total population)Summarize the GDP of the countries OECD
+- Gini coefficient (proportion of income / total population)
+- Summarize the GDP of the countries OECD
 - Value of currency /inequality
 
 ## Group 2: Renuka
