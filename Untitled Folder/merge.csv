@@ -1,0 +1,1791 @@
+,Country,Year,Value_union_x,MEASURE_x,Age group_x,Value_gini_cpi_x,Value_union_y,MEASURE_y,Age group_y,Value_gini_cpi_y
+0,Hungary,2009,11.9,GINI,Total population,0.241,11.9,CPI2010,Total population,95.36930448
+1,Hungary,2009,11.9,GINI,Total population,0.241,11.9,CPI2010,Total population,95.36930448
+2,Hungary,2009,11.9,GINI,Total population,0.241,11.9,CPI2015,Total population,85.62177
+3,Hungary,2009,11.9,GINI,Total population,0.241,11.9,CPI2015,Total population,85.62177
+4,Hungary,2009,11.9,GINI,Total population,0.272,11.9,CPI2010,Total population,95.36930448
+5,Hungary,2009,11.9,GINI,Total population,0.272,11.9,CPI2010,Total population,95.36930448
+6,Hungary,2009,11.9,GINI,Total population,0.272,11.9,CPI2015,Total population,85.62177
+7,Hungary,2009,11.9,GINI,Total population,0.272,11.9,CPI2015,Total population,85.62177
+8,Hungary,2015,9.0,GINI,Total population,0.284,9.0,CPI2010,Total population,111.3844113
+9,Hungary,2015,9.0,GINI,Total population,0.284,9.0,CPI2015,Total population,100.0
+10,Hungary,2015,9.0,GINI,Total population,0.284,9.4,CPI2010,Total population,111.3844113
+11,Hungary,2015,9.0,GINI,Total population,0.284,9.4,CPI2015,Total population,100.0
+12,Hungary,2015,9.4,GINI,Total population,0.284,9.0,CPI2010,Total population,111.3844113
+13,Hungary,2015,9.4,GINI,Total population,0.284,9.0,CPI2015,Total population,100.0
+14,Hungary,2015,9.4,GINI,Total population,0.284,9.4,CPI2010,Total population,111.3844113
+15,Hungary,2015,9.4,GINI,Total population,0.284,9.4,CPI2015,Total population,100.0
+16,Poland,2009,16.3,GINI,Total population,0.303,16.3,CPI2010,Total population,97.48422593
+17,Poland,2009,16.3,GINI,Total population,0.303,16.3,CPI2010,Total population,97.48422593
+18,Poland,2009,16.3,GINI,Total population,0.303,16.3,CPI2015,Total population,90.15737
+19,Poland,2009,16.3,GINI,Total population,0.303,16.3,CPI2015,Total population,90.15737
+20,Poland,2009,16.3,GINI,Total population,0.306,16.3,CPI2010,Total population,97.48422593
+21,Poland,2009,16.3,GINI,Total population,0.306,16.3,CPI2010,Total population,97.48422593
+22,Poland,2009,16.3,GINI,Total population,0.306,16.3,CPI2015,Total population,90.15737
+23,Poland,2009,16.3,GINI,Total population,0.306,16.3,CPI2015,Total population,90.15737
+24,Poland,2010,18.3,GINI,Total population,0.304,18.3,CPI2010,Total population,100.0
+25,Poland,2010,18.3,GINI,Total population,0.304,18.3,CPI2010,Total population,100.0
+26,Poland,2010,18.3,GINI,Total population,0.304,18.3,CPI2015,Total population,92.48406
+27,Poland,2010,18.3,GINI,Total population,0.304,18.3,CPI2015,Total population,92.48406
+28,Poland,2010,18.3,GINI,Total population,0.307,18.3,CPI2010,Total population,100.0
+29,Poland,2010,18.3,GINI,Total population,0.307,18.3,CPI2010,Total population,100.0
+30,Poland,2010,18.3,GINI,Total population,0.307,18.3,CPI2015,Total population,92.48406
+31,Poland,2010,18.3,GINI,Total population,0.307,18.3,CPI2015,Total population,92.48406
+32,Poland,2011,17.0,GINI,Total population,0.301,17.0,CPI2010,Total population,104.2394008
+33,Poland,2011,17.0,GINI,Total population,0.301,17.0,CPI2010,Total population,104.2394008
+34,Poland,2011,17.0,GINI,Total population,0.301,17.0,CPI2015,Total population,96.40483
+35,Poland,2011,17.0,GINI,Total population,0.301,17.0,CPI2015,Total population,96.40483
+36,Poland,2011,17.0,GINI,Total population,0.303,17.0,CPI2010,Total population,104.2394008
+37,Poland,2011,17.0,GINI,Total population,0.303,17.0,CPI2010,Total population,104.2394008
+38,Poland,2011,17.0,GINI,Total population,0.303,17.0,CPI2015,Total population,96.40483
+39,Poland,2011,17.0,GINI,Total population,0.303,17.0,CPI2015,Total population,96.40483
+40,Poland,2012,15.4,GINI,Total population,0.298,15.4,CPI2010,Total population,107.9507106
+41,Poland,2012,15.4,GINI,Total population,0.298,15.4,CPI2010,Total population,107.9507106
+42,Poland,2012,15.4,GINI,Total population,0.298,15.4,CPI2015,Total population,99.8372
+43,Poland,2012,15.4,GINI,Total population,0.298,15.4,CPI2015,Total population,99.8372
+44,Poland,2012,15.4,GINI,Total population,0.3,15.4,CPI2010,Total population,107.9507106
+45,Poland,2012,15.4,GINI,Total population,0.3,15.4,CPI2010,Total population,107.9507106
+46,Poland,2012,15.4,GINI,Total population,0.3,15.4,CPI2015,Total population,99.8372
+47,Poland,2012,15.4,GINI,Total population,0.3,15.4,CPI2015,Total population,99.8372
+48,Poland,2014,15.0,GINI,Total population,0.297,15.0,CPI2010,Total population,109.08020259999998
+49,Poland,2014,15.0,GINI,Total population,0.297,15.0,CPI2015,Total population,100.8818
+50,Poland,2016,12.7,GINI,Total population,0.285,12.7,CPI2010,Total population,107.4079577
+51,Poland,2016,12.7,GINI,Total population,0.285,12.7,CPI2015,Total population,99.33524
+52,Mexico,2010,13.8,GINI,Total population,0.466,13.8,CPI2010,Total population,100.0
+53,Mexico,2010,13.8,GINI,Total population,0.466,13.8,CPI2015,Total population,83.74461
+54,Mexico,2010,13.8,GINI,Total population,0.466,14.5,CPI2010,Total population,100.0
+55,Mexico,2010,13.8,GINI,Total population,0.466,14.5,CPI2015,Total population,83.74461
+56,Mexico,2010,14.5,GINI,Total population,0.466,13.8,CPI2010,Total population,100.0
+57,Mexico,2010,14.5,GINI,Total population,0.466,13.8,CPI2015,Total population,83.74461
+58,Mexico,2010,14.5,GINI,Total population,0.466,14.5,CPI2010,Total population,100.0
+59,Mexico,2010,14.5,GINI,Total population,0.466,14.5,CPI2015,Total population,83.74461
+60,Sweden,2009,70.8,GINI,Total population,0.2689999999999999,70.8,CPI2010,Total population,98.8552772
+61,Sweden,2009,70.8,GINI,Total population,0.2689999999999999,70.8,CPI2015,Total population,95.42492
+62,Sweden,2009,70.8,GINI,Total population,0.2689999999999999,68.4,CPI2010,Total population,98.8552772
+63,Sweden,2009,70.8,GINI,Total population,0.2689999999999999,68.4,CPI2015,Total population,95.42492
+64,Sweden,2009,68.4,GINI,Total population,0.2689999999999999,70.8,CPI2010,Total population,98.8552772
+65,Sweden,2009,68.4,GINI,Total population,0.2689999999999999,70.8,CPI2015,Total population,95.42492
+66,Sweden,2009,68.4,GINI,Total population,0.2689999999999999,68.4,CPI2010,Total population,98.8552772
+67,Sweden,2009,68.4,GINI,Total population,0.2689999999999999,68.4,CPI2015,Total population,95.42492
+68,Sweden,2010,70.2,GINI,Total population,0.2689999999999999,70.2,CPI2010,Total population,100.0
+69,Sweden,2010,70.2,GINI,Total population,0.2689999999999999,70.2,CPI2015,Total population,96.52992
+70,Sweden,2010,70.2,GINI,Total population,0.2689999999999999,68.2,CPI2010,Total population,100.0
+71,Sweden,2010,70.2,GINI,Total population,0.2689999999999999,68.2,CPI2015,Total population,96.52992
+72,Sweden,2010,68.2,GINI,Total population,0.2689999999999999,70.2,CPI2010,Total population,100.0
+73,Sweden,2010,68.2,GINI,Total population,0.2689999999999999,70.2,CPI2015,Total population,96.52992
+74,Sweden,2010,68.2,GINI,Total population,0.2689999999999999,68.2,CPI2010,Total population,100.0
+75,Sweden,2010,68.2,GINI,Total population,0.2689999999999999,68.2,CPI2015,Total population,96.52992
+76,Sweden,2011,68.3,GINI,Total population,0.273,68.3,CPI2010,Total population,102.9611544
+77,Sweden,2011,68.3,GINI,Total population,0.273,68.3,CPI2015,Total population,99.38832
+78,Sweden,2011,68.3,GINI,Total population,0.273,67.5,CPI2010,Total population,102.9611544
+79,Sweden,2011,68.3,GINI,Total population,0.273,67.5,CPI2015,Total population,99.38832
+80,Sweden,2011,67.5,GINI,Total population,0.273,68.3,CPI2010,Total population,102.9611544
+81,Sweden,2011,67.5,GINI,Total population,0.273,68.3,CPI2015,Total population,99.38832
+82,Sweden,2011,67.5,GINI,Total population,0.273,67.5,CPI2010,Total population,102.9611544
+83,Sweden,2011,67.5,GINI,Total population,0.273,67.5,CPI2015,Total population,99.38832
+84,Sweden,2013,68.0,GINI,Total population,0.268,68.0,CPI2010,Total population,103.8298799
+85,Sweden,2013,68.0,GINI,Total population,0.268,68.0,CPI2015,Total population,100.2269
+86,Sweden,2013,68.0,GINI,Total population,0.268,67.7,CPI2010,Total population,103.8298799
+87,Sweden,2013,68.0,GINI,Total population,0.268,67.7,CPI2015,Total population,100.2269
+88,Sweden,2013,67.7,GINI,Total population,0.268,68.0,CPI2010,Total population,103.8298799
+89,Sweden,2013,67.7,GINI,Total population,0.268,68.0,CPI2015,Total population,100.2269
+90,Sweden,2013,67.7,GINI,Total population,0.268,67.7,CPI2010,Total population,103.8298799
+91,Sweden,2013,67.7,GINI,Total population,0.268,67.7,CPI2015,Total population,100.2269
+92,Sweden,2014,67.7,GINI,Total population,0.2739999999999999,67.7,CPI2010,Total population,103.6433056
+93,Sweden,2014,67.7,GINI,Total population,0.2739999999999999,67.7,CPI2015,Total population,100.0468
+94,Sweden,2014,67.7,GINI,Total population,0.2739999999999999,67.3,CPI2010,Total population,103.6433056
+95,Sweden,2014,67.7,GINI,Total population,0.2739999999999999,67.3,CPI2015,Total population,100.0468
+96,Sweden,2014,67.3,GINI,Total population,0.2739999999999999,67.7,CPI2010,Total population,103.6433056
+97,Sweden,2014,67.3,GINI,Total population,0.2739999999999999,67.7,CPI2015,Total population,100.0468
+98,Sweden,2014,67.3,GINI,Total population,0.2739999999999999,67.3,CPI2010,Total population,103.6433056
+99,Sweden,2014,67.3,GINI,Total population,0.2739999999999999,67.3,CPI2015,Total population,100.0468
+100,Sweden,2015,67.8,GINI,Total population,0.278,67.8,CPI2010,Total population,103.5948232
+101,Sweden,2015,67.8,GINI,Total population,0.278,67.8,CPI2015,Total population,100.0
+102,Sweden,2015,67.8,GINI,Total population,0.278,67.0,CPI2010,Total population,103.5948232
+103,Sweden,2015,67.8,GINI,Total population,0.278,67.0,CPI2015,Total population,100.0
+104,Sweden,2015,67.0,GINI,Total population,0.278,67.8,CPI2010,Total population,103.5948232
+105,Sweden,2015,67.0,GINI,Total population,0.278,67.8,CPI2015,Total population,100.0
+106,Sweden,2015,67.0,GINI,Total population,0.278,67.0,CPI2010,Total population,103.5948232
+107,Sweden,2015,67.0,GINI,Total population,0.278,67.0,CPI2015,Total population,100.0
+108,Sweden,2016,66.9,GINI,Total population,0.282,66.9,CPI2010,Total population,104.6145071
+109,Sweden,2016,66.9,GINI,Total population,0.282,66.9,CPI2015,Total population,100.9843
+110,Sweden,2016,66.9,GINI,Total population,0.282,66.7,CPI2010,Total population,104.6145071
+111,Sweden,2016,66.9,GINI,Total population,0.282,66.7,CPI2015,Total population,100.9843
+112,Sweden,2016,66.7,GINI,Total population,0.282,66.9,CPI2010,Total population,104.6145071
+113,Sweden,2016,66.7,GINI,Total population,0.282,66.9,CPI2015,Total population,100.9843
+114,Sweden,2016,66.7,GINI,Total population,0.282,66.7,CPI2010,Total population,104.6145071
+115,Sweden,2016,66.7,GINI,Total population,0.282,66.7,CPI2015,Total population,100.9843
+116,Sweden,2017,65.6,GINI,Total population,0.282,65.6,CPI2010,Total population,106.4917489
+117,Sweden,2017,65.6,GINI,Total population,0.282,65.6,CPI2015,Total population,102.7964
+118,Sweden,2017,65.6,GINI,Total population,0.282,66.1,CPI2010,Total population,106.4917489
+119,Sweden,2017,65.6,GINI,Total population,0.282,66.1,CPI2015,Total population,102.7964
+120,Sweden,2017,66.1,GINI,Total population,0.282,65.6,CPI2010,Total population,106.4917489
+121,Sweden,2017,66.1,GINI,Total population,0.282,65.6,CPI2015,Total population,102.7964
+122,Sweden,2017,66.1,GINI,Total population,0.282,66.1,CPI2010,Total population,106.4917489
+123,Sweden,2017,66.1,GINI,Total population,0.282,66.1,CPI2015,Total population,102.7964
+124,France,2009,8.8,GINI,Total population,0.293,8.8,CPI2010,Total population,98.49197065
+125,France,2009,8.8,GINI,Total population,0.293,8.8,CPI2015,Total population,93.28667
+126,France,2010,9.0,GINI,Total population,0.303,9.0,CPI2010,Total population,100.0
+127,France,2010,9.0,GINI,Total population,0.303,9.0,CPI2015,Total population,94.715
+128,France,2010,9.0,GINI,Total population,0.303,10.8,CPI2010,Total population,100.0
+129,France,2010,9.0,GINI,Total population,0.303,10.8,CPI2015,Total population,94.715
+130,France,2010,10.8,GINI,Total population,0.303,9.0,CPI2010,Total population,100.0
+131,France,2010,10.8,GINI,Total population,0.303,9.0,CPI2015,Total population,94.715
+132,France,2010,10.8,GINI,Total population,0.303,10.8,CPI2010,Total population,100.0
+133,France,2010,10.8,GINI,Total population,0.303,10.8,CPI2015,Total population,94.715
+134,France,2011,9.1,GINI,Total population,0.309,9.1,CPI2010,Total population,102.111598
+135,France,2011,9.1,GINI,Total population,0.309,9.1,CPI2015,Total population,96.715
+136,France,2012,9.1,GINI,Total population,0.305,9.1,CPI2010,Total population,104.107058
+137,France,2012,9.1,GINI,Total population,0.305,9.1,CPI2015,Total population,98.605
+138,France,2013,9.0,GINI,Total population,0.291,9.0,CPI2010,Total population,105.0062503
+139,France,2013,9.0,GINI,Total population,0.291,9.0,CPI2015,Total population,99.45667
+140,France,2013,9.0,GINI,Total population,0.291,11.0,CPI2010,Total population,105.0062503
+141,France,2013,9.0,GINI,Total population,0.291,11.0,CPI2015,Total population,99.45667
+142,France,2013,11.0,GINI,Total population,0.291,9.0,CPI2010,Total population,105.0062503
+143,France,2013,11.0,GINI,Total population,0.291,9.0,CPI2015,Total population,99.45667
+144,France,2013,11.0,GINI,Total population,0.291,11.0,CPI2010,Total population,105.0062503
+145,France,2013,11.0,GINI,Total population,0.291,11.0,CPI2015,Total population,99.45667
+146,France,2014,9.0,GINI,Total population,0.293,9.0,CPI2010,Total population,105.5394288
+147,France,2014,9.0,GINI,Total population,0.293,9.0,CPI2015,Total population,99.96167
+148,France,2015,9.0,GINI,Total population,0.295,9.0,CPI2010,Total population,105.5790213
+149,France,2015,9.0,GINI,Total population,0.295,9.0,CPI2015,Total population,99.99917
+150,France,2016,9.0,GINI,Total population,0.291,9.0,CPI2010,Total population,105.7725809
+151,France,2016,9.0,GINI,Total population,0.291,9.0,CPI2015,Total population,100.1825
+152,France,2016,9.0,GINI,Total population,0.291,10.8,CPI2010,Total population,105.7725809
+153,France,2016,9.0,GINI,Total population,0.291,10.8,CPI2015,Total population,100.1825
+154,France,2016,10.8,GINI,Total population,0.291,9.0,CPI2010,Total population,105.7725809
+155,France,2016,10.8,GINI,Total population,0.291,9.0,CPI2015,Total population,100.1825
+156,France,2016,10.8,GINI,Total population,0.291,10.8,CPI2010,Total population,105.7725809
+157,France,2016,10.8,GINI,Total population,0.291,10.8,CPI2015,Total population,100.1825
+158,France,2017,8.9,GINI,Total population,0.292,8.9,CPI2010,Total population,106.8644882
+159,France,2017,8.9,GINI,Total population,0.292,8.9,CPI2015,Total population,101.2167
+160,France,2018,8.8,GINI,Total population,0.301,8.8,CPI2010,Total population,108.84231640000002
+161,France,2018,8.8,GINI,Total population,0.301,8.8,CPI2015,Total population,103.09
+162,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2010,Total population,97.63821201
+163,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2010,Total population,97.63821201
+164,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2015,Total population,89.91666
+165,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2015,Total population,89.91666
+166,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2010,Total population,97.63821201
+167,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2010,Total population,97.63821201
+168,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2015,Total population,89.91666
+169,Norway,2009,49.8,GINI,Total population,0.245,49.8,CPI2015,Total population,89.91666
+170,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2010,Total population,100.0
+171,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2010,Total population,100.0
+172,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2015,Total population,92.09167
+173,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2015,Total population,92.09167
+174,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2010,Total population,100.0
+175,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2010,Total population,100.0
+176,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2015,Total population,92.09167
+177,Norway,2010,50.0,GINI,Total population,0.249,50.0,CPI2015,Total population,92.09167
+178,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2010,Total population,101.2849479
+179,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2010,Total population,101.2849479
+180,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2015,Total population,93.275
+181,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2015,Total population,93.275
+182,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2010,Total population,101.2849479
+183,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2010,Total population,101.2849479
+184,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2015,Total population,93.275
+185,Norway,2011,49.3,GINI,Total population,0.25,49.3,CPI2015,Total population,93.275
+186,Norway,2012,49.3,GINI,Total population,0.253,49.3,CPI2010,Total population,101.9907664
+187,Norway,2012,49.3,GINI,Total population,0.253,49.3,CPI2015,Total population,93.925
+188,Norway,2013,49.3,GINI,Total population,0.252,49.3,CPI2010,Total population,104.1534593
+189,Norway,2013,49.3,GINI,Total population,0.252,49.3,CPI2015,Total population,95.91666
+190,Norway,2013,49.3,GINI,Total population,0.252,52.0,CPI2010,Total population,104.1534593
+191,Norway,2013,49.3,GINI,Total population,0.252,52.0,CPI2015,Total population,95.91666
+192,Norway,2013,52.0,GINI,Total population,0.252,49.3,CPI2010,Total population,104.1534593
+193,Norway,2013,52.0,GINI,Total population,0.252,49.3,CPI2015,Total population,95.91666
+194,Norway,2013,52.0,GINI,Total population,0.252,52.0,CPI2010,Total population,104.1534593
+195,Norway,2013,52.0,GINI,Total population,0.252,52.0,CPI2015,Total population,95.91666
+196,Norway,2014,49.7,GINI,Total population,0.257,49.7,CPI2010,Total population,106.2799708
+197,Norway,2014,49.7,GINI,Total population,0.257,49.7,CPI2015,Total population,97.875
+198,Norway,2014,49.7,GINI,Total population,0.257,54.0,CPI2010,Total population,106.2799708
+199,Norway,2014,49.7,GINI,Total population,0.257,54.0,CPI2015,Total population,97.875
+200,Norway,2014,54.0,GINI,Total population,0.257,49.7,CPI2010,Total population,106.2799708
+201,Norway,2014,54.0,GINI,Total population,0.257,49.7,CPI2015,Total population,97.875
+202,Norway,2014,54.0,GINI,Total population,0.257,54.0,CPI2010,Total population,106.2799708
+203,Norway,2014,54.0,GINI,Total population,0.257,54.0,CPI2015,Total population,97.875
+204,Norway,2015,49.3,GINI,Total population,0.272,49.3,CPI2010,Total population,108.5874542
+205,Norway,2015,49.3,GINI,Total population,0.272,49.3,CPI2015,Total population,100.0
+206,Norway,2016,49.3,GINI,Total population,0.262,49.3,CPI2010,Total population,112.4423088
+207,Norway,2016,49.3,GINI,Total population,0.262,49.3,CPI2015,Total population,103.55
+208,Norway,2016,49.3,GINI,Total population,0.262,52.0,CPI2010,Total population,112.4423088
+209,Norway,2016,49.3,GINI,Total population,0.262,52.0,CPI2015,Total population,103.55
+210,Norway,2016,52.0,GINI,Total population,0.262,49.3,CPI2010,Total population,112.4423088
+211,Norway,2016,52.0,GINI,Total population,0.262,49.3,CPI2015,Total population,103.55
+212,Norway,2016,52.0,GINI,Total population,0.262,52.0,CPI2010,Total population,112.4423088
+213,Norway,2016,52.0,GINI,Total population,0.262,52.0,CPI2015,Total population,103.55
+214,Norway,2017,49.3,GINI,Total population,0.262,49.3,CPI2010,Total population,114.5507514
+215,Norway,2017,49.3,GINI,Total population,0.262,49.3,CPI2015,Total population,105.4917
+216,Norway,2017,49.3,GINI,Total population,0.262,51.3,CPI2010,Total population,114.5507514
+217,Norway,2017,49.3,GINI,Total population,0.262,51.3,CPI2015,Total population,105.4917
+218,Norway,2017,51.3,GINI,Total population,0.262,49.3,CPI2010,Total population,114.5507514
+219,Norway,2017,51.3,GINI,Total population,0.262,49.3,CPI2015,Total population,105.4917
+220,Norway,2017,51.3,GINI,Total population,0.262,51.3,CPI2010,Total population,114.5507514
+221,Norway,2017,51.3,GINI,Total population,0.262,51.3,CPI2015,Total population,105.4917
+222,Norway,2018,49.2,GINI,Total population,0.262,49.2,CPI2010,Total population,117.7178131
+223,Norway,2018,49.2,GINI,Total population,0.262,49.2,CPI2015,Total population,108.4083
+224,Iceland,2011,83.4,GINI,Total population,0.252,83.4,CPI2010,Total population,104.0010243
+225,Iceland,2011,83.4,GINI,Total population,0.252,83.4,CPI2010,Total population,104.0010243
+226,Iceland,2011,83.4,GINI,Total population,0.252,83.4,CPI2015,Total population,88.25061
+227,Iceland,2011,83.4,GINI,Total population,0.252,83.4,CPI2015,Total population,88.25061
+228,Iceland,2011,83.4,GINI,Total population,0.252,85.0,CPI2010,Total population,104.0010243
+229,Iceland,2011,83.4,GINI,Total population,0.252,85.0,CPI2010,Total population,104.0010243
+230,Iceland,2011,83.4,GINI,Total population,0.252,85.0,CPI2015,Total population,88.25061
+231,Iceland,2011,83.4,GINI,Total population,0.252,85.0,CPI2015,Total population,88.25061
+232,Iceland,2011,83.4,GINI,Total population,0.25,83.4,CPI2010,Total population,104.0010243
+233,Iceland,2011,83.4,GINI,Total population,0.25,83.4,CPI2010,Total population,104.0010243
+234,Iceland,2011,83.4,GINI,Total population,0.25,83.4,CPI2015,Total population,88.25061
+235,Iceland,2011,83.4,GINI,Total population,0.25,83.4,CPI2015,Total population,88.25061
+236,Iceland,2011,83.4,GINI,Total population,0.25,85.0,CPI2010,Total population,104.0010243
+237,Iceland,2011,83.4,GINI,Total population,0.25,85.0,CPI2010,Total population,104.0010243
+238,Iceland,2011,83.4,GINI,Total population,0.25,85.0,CPI2015,Total population,88.25061
+239,Iceland,2011,83.4,GINI,Total population,0.25,85.0,CPI2015,Total population,88.25061
+240,Iceland,2011,85.0,GINI,Total population,0.252,83.4,CPI2010,Total population,104.0010243
+241,Iceland,2011,85.0,GINI,Total population,0.252,83.4,CPI2010,Total population,104.0010243
+242,Iceland,2011,85.0,GINI,Total population,0.252,83.4,CPI2015,Total population,88.25061
+243,Iceland,2011,85.0,GINI,Total population,0.252,83.4,CPI2015,Total population,88.25061
+244,Iceland,2011,85.0,GINI,Total population,0.252,85.0,CPI2010,Total population,104.0010243
+245,Iceland,2011,85.0,GINI,Total population,0.252,85.0,CPI2010,Total population,104.0010243
+246,Iceland,2011,85.0,GINI,Total population,0.252,85.0,CPI2015,Total population,88.25061
+247,Iceland,2011,85.0,GINI,Total population,0.252,85.0,CPI2015,Total population,88.25061
+248,Iceland,2011,85.0,GINI,Total population,0.25,83.4,CPI2010,Total population,104.0010243
+249,Iceland,2011,85.0,GINI,Total population,0.25,83.4,CPI2010,Total population,104.0010243
+250,Iceland,2011,85.0,GINI,Total population,0.25,83.4,CPI2015,Total population,88.25061
+251,Iceland,2011,85.0,GINI,Total population,0.25,83.4,CPI2015,Total population,88.25061
+252,Iceland,2011,85.0,GINI,Total population,0.25,85.0,CPI2010,Total population,104.0010243
+253,Iceland,2011,85.0,GINI,Total population,0.25,85.0,CPI2010,Total population,104.0010243
+254,Iceland,2011,85.0,GINI,Total population,0.25,85.0,CPI2015,Total population,88.25061
+255,Iceland,2011,85.0,GINI,Total population,0.25,85.0,CPI2015,Total population,88.25061
+256,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+257,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+258,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+259,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+260,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+261,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+262,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+263,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+264,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+265,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+266,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+267,Iceland,2013,87.8,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+268,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+269,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+270,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+271,Iceland,2013,87.8,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+272,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+273,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+274,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+275,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+276,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+277,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+278,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+279,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+280,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+281,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2010,Total population,113.6304627
+282,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+283,Iceland,2013,88.9,GINI,Total population,0.24,87.8,CPI2015,Total population,96.42172
+284,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+285,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2010,Total population,113.6304627
+286,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+287,Iceland,2013,88.9,GINI,Total population,0.24,88.9,CPI2015,Total population,96.42172
+288,Iceland,2015,90.0,GINI,Total population,0.257,90.0,CPI2010,Total population,117.8473716
+289,Iceland,2015,90.0,GINI,Total population,0.257,90.0,CPI2015,Total population,100.0
+290,Iceland,2015,90.0,GINI,Total population,0.257,91.6,CPI2010,Total population,117.8473716
+291,Iceland,2015,90.0,GINI,Total population,0.257,91.6,CPI2015,Total population,100.0
+292,Iceland,2015,91.6,GINI,Total population,0.257,90.0,CPI2010,Total population,117.8473716
+293,Iceland,2015,91.6,GINI,Total population,0.257,90.0,CPI2015,Total population,100.0
+294,Iceland,2015,91.6,GINI,Total population,0.257,91.6,CPI2010,Total population,117.8473716
+295,Iceland,2015,91.6,GINI,Total population,0.257,91.6,CPI2015,Total population,100.0
+296,Iceland,2016,89.8,GINI,Total population,0.264,89.8,CPI2010,Total population,119.8471237
+297,Iceland,2016,89.8,GINI,Total population,0.264,89.8,CPI2015,Total population,101.6969
+298,Iceland,2016,89.8,GINI,Total population,0.264,90.4,CPI2010,Total population,119.8471237
+299,Iceland,2016,89.8,GINI,Total population,0.264,90.4,CPI2015,Total population,101.6969
+300,Iceland,2016,90.4,GINI,Total population,0.264,89.8,CPI2010,Total population,119.8471237
+301,Iceland,2016,90.4,GINI,Total population,0.264,89.8,CPI2015,Total population,101.6969
+302,Iceland,2016,90.4,GINI,Total population,0.264,90.4,CPI2010,Total population,119.8471237
+303,Iceland,2016,90.4,GINI,Total population,0.264,90.4,CPI2015,Total population,101.6969
+304,Latvia,2009,15.1,GINI,Total population,0.354,15.1,CPI2010,Total population,101.0965275
+305,Latvia,2009,15.1,GINI,Total population,0.354,15.1,CPI2010,Total population,101.0965275
+306,Latvia,2009,15.1,GINI,Total population,0.354,15.1,CPI2015,Total population,94.00404
+307,Latvia,2009,15.1,GINI,Total population,0.354,15.1,CPI2015,Total population,94.00404
+308,Latvia,2009,15.1,GINI,Total population,0.362,15.1,CPI2010,Total population,101.0965275
+309,Latvia,2009,15.1,GINI,Total population,0.362,15.1,CPI2010,Total population,101.0965275
+310,Latvia,2009,15.1,GINI,Total population,0.362,15.1,CPI2015,Total population,94.00404
+311,Latvia,2009,15.1,GINI,Total population,0.362,15.1,CPI2015,Total population,94.00404
+312,Latvia,2010,15.0,GINI,Total population,0.346,15.0,CPI2010,Total population,100.0
+313,Latvia,2010,15.0,GINI,Total population,0.346,15.0,CPI2010,Total population,100.0
+314,Latvia,2010,15.0,GINI,Total population,0.346,15.0,CPI2015,Total population,92.98444
+315,Latvia,2010,15.0,GINI,Total population,0.346,15.0,CPI2015,Total population,92.98444
+316,Latvia,2010,15.0,GINI,Total population,0.355,15.0,CPI2010,Total population,100.0
+317,Latvia,2010,15.0,GINI,Total population,0.355,15.0,CPI2010,Total population,100.0
+318,Latvia,2010,15.0,GINI,Total population,0.355,15.0,CPI2015,Total population,92.98444
+319,Latvia,2010,15.0,GINI,Total population,0.355,15.0,CPI2015,Total population,92.98444
+320,Latvia,2011,13.6,GINI,Total population,0.351,13.6,CPI2010,Total population,104.370742
+321,Latvia,2011,13.6,GINI,Total population,0.351,13.6,CPI2010,Total population,104.370742
+322,Latvia,2011,13.6,GINI,Total population,0.351,13.6,CPI2015,Total population,97.04855
+323,Latvia,2011,13.6,GINI,Total population,0.351,13.6,CPI2015,Total population,97.04855
+324,Latvia,2011,13.6,GINI,Total population,0.361,13.6,CPI2010,Total population,104.370742
+325,Latvia,2011,13.6,GINI,Total population,0.361,13.6,CPI2010,Total population,104.370742
+326,Latvia,2011,13.6,GINI,Total population,0.361,13.6,CPI2015,Total population,97.04855
+327,Latvia,2011,13.6,GINI,Total population,0.361,13.6,CPI2015,Total population,97.04855
+328,Latvia,2012,13.1,GINI,Total population,0.346,13.1,CPI2010,Total population,106.7272116
+329,Latvia,2012,13.1,GINI,Total population,0.346,13.1,CPI2010,Total population,106.7272116
+330,Latvia,2012,13.1,GINI,Total population,0.346,13.1,CPI2015,Total population,99.2397
+331,Latvia,2012,13.1,GINI,Total population,0.346,13.1,CPI2015,Total population,99.2397
+332,Latvia,2012,13.1,GINI,Total population,0.355,13.1,CPI2010,Total population,106.7272116
+333,Latvia,2012,13.1,GINI,Total population,0.355,13.1,CPI2010,Total population,106.7272116
+334,Latvia,2012,13.1,GINI,Total population,0.355,13.1,CPI2015,Total population,99.2397
+335,Latvia,2012,13.1,GINI,Total population,0.355,13.1,CPI2015,Total population,99.2397
+336,Latvia,2013,12.8,GINI,Total population,0.351,12.8,CPI2010,Total population,106.6957762
+337,Latvia,2013,12.8,GINI,Total population,0.351,12.8,CPI2010,Total population,106.6957762
+338,Latvia,2013,12.8,GINI,Total population,0.351,12.8,CPI2015,Total population,99.21047
+339,Latvia,2013,12.8,GINI,Total population,0.351,12.8,CPI2015,Total population,99.21047
+340,Latvia,2013,12.8,GINI,Total population,0.36,12.8,CPI2010,Total population,106.6957762
+341,Latvia,2013,12.8,GINI,Total population,0.36,12.8,CPI2010,Total population,106.6957762
+342,Latvia,2013,12.8,GINI,Total population,0.36,12.8,CPI2015,Total population,99.21047
+343,Latvia,2013,12.8,GINI,Total population,0.36,12.8,CPI2015,Total population,99.21047
+344,Latvia,2014,12.7,GINI,Total population,0.349,12.7,CPI2010,Total population,107.35782240000002
+345,Latvia,2014,12.7,GINI,Total population,0.349,12.7,CPI2015,Total population,99.82607
+346,Latvia,2015,12.6,GINI,Total population,0.346,12.6,CPI2010,Total population,107.5448753
+347,Latvia,2015,12.6,GINI,Total population,0.346,12.6,CPI2015,Total population,100.0
+348,Latvia,2016,12.3,GINI,Total population,0.346,12.3,CPI2010,Total population,107.69608329999998
+349,Latvia,2016,12.3,GINI,Total population,0.346,12.3,CPI2015,Total population,100.1406
+350,Latvia,2017,12.2,GINI,Total population,0.355,12.2,CPI2010,Total population,110.8519877
+351,Latvia,2017,12.2,GINI,Total population,0.355,12.2,CPI2015,Total population,103.0751
+352,Latvia,2018,11.9,GINI,Total population,0.351,11.9,CPI2010,Total population,113.66149
+353,Latvia,2018,11.9,GINI,Total population,0.351,11.9,CPI2015,Total population,105.6875
+354,Estonia,2009,7.6,GINI,Total population,0.309,7.6,CPI2010,Total population,97.11373393
+355,Estonia,2009,7.6,GINI,Total population,0.309,7.6,CPI2015,Total population,87.11739
+356,Estonia,2009,7.6,GINI,Total population,0.309,7.7,CPI2010,Total population,97.11373393
+357,Estonia,2009,7.6,GINI,Total population,0.309,7.7,CPI2015,Total population,87.11739
+358,Estonia,2009,7.7,GINI,Total population,0.309,7.6,CPI2010,Total population,97.11373393
+359,Estonia,2009,7.7,GINI,Total population,0.309,7.6,CPI2015,Total population,87.11739
+360,Estonia,2009,7.7,GINI,Total population,0.309,7.7,CPI2010,Total population,97.11373393
+361,Estonia,2009,7.7,GINI,Total population,0.309,7.7,CPI2015,Total population,87.11739
+362,Estonia,2010,8.2,GINI,Total population,0.317,8.2,CPI2010,Total population,100.0
+363,Estonia,2010,8.2,GINI,Total population,0.317,8.2,CPI2015,Total population,89.70656
+364,Estonia,2010,8.2,GINI,Total population,0.317,8.1,CPI2010,Total population,100.0
+365,Estonia,2010,8.2,GINI,Total population,0.317,8.1,CPI2015,Total population,89.70656
+366,Estonia,2010,8.1,GINI,Total population,0.317,8.2,CPI2010,Total population,100.0
+367,Estonia,2010,8.1,GINI,Total population,0.317,8.2,CPI2015,Total population,89.70656
+368,Estonia,2010,8.1,GINI,Total population,0.317,8.1,CPI2010,Total population,100.0
+369,Estonia,2010,8.1,GINI,Total population,0.317,8.1,CPI2015,Total population,89.70656
+370,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2010,Total population,104.9818988
+371,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2015,Total population,94.17565
+372,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2010,Total population,104.9818988
+373,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2015,Total population,94.17565
+374,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2010,Total population,104.9818988
+375,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2015,Total population,94.17565
+376,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2010,Total population,104.9818988
+377,Estonia,2011,7.0,GINI,Total population,0.3229999999999999,7.0,CPI2015,Total population,94.17565
+378,Estonia,2012,6.0,GINI,Total population,0.326,6.0,CPI2010,Total population,109.1112623
+379,Estonia,2012,6.0,GINI,Total population,0.326,6.0,CPI2015,Total population,97.87996
+380,Estonia,2012,6.0,GINI,Total population,0.326,6.1,CPI2010,Total population,109.1112623
+381,Estonia,2012,6.0,GINI,Total population,0.326,6.1,CPI2015,Total population,97.87996
+382,Estonia,2012,6.1,GINI,Total population,0.326,6.0,CPI2010,Total population,109.1112623
+383,Estonia,2012,6.1,GINI,Total population,0.326,6.0,CPI2015,Total population,97.87996
+384,Estonia,2012,6.1,GINI,Total population,0.326,6.1,CPI2010,Total population,109.1112623
+385,Estonia,2012,6.1,GINI,Total population,0.326,6.1,CPI2015,Total population,97.87996
+386,Estonia,2013,5.6,GINI,Total population,0.356,5.6,CPI2010,Total population,112.1451987
+387,Estonia,2013,5.6,GINI,Total population,0.356,5.6,CPI2010,Total population,112.1451987
+388,Estonia,2013,5.6,GINI,Total population,0.356,5.6,CPI2015,Total population,100.6016
+389,Estonia,2013,5.6,GINI,Total population,0.356,5.6,CPI2015,Total population,100.6016
+390,Estonia,2013,5.6,GINI,Total population,0.356,5.7,CPI2010,Total population,112.1451987
+391,Estonia,2013,5.6,GINI,Total population,0.356,5.7,CPI2010,Total population,112.1451987
+392,Estonia,2013,5.6,GINI,Total population,0.356,5.7,CPI2015,Total population,100.6016
+393,Estonia,2013,5.6,GINI,Total population,0.356,5.7,CPI2015,Total population,100.6016
+394,Estonia,2013,5.6,GINI,Total population,0.355,5.6,CPI2010,Total population,112.1451987
+395,Estonia,2013,5.6,GINI,Total population,0.355,5.6,CPI2010,Total population,112.1451987
+396,Estonia,2013,5.6,GINI,Total population,0.355,5.6,CPI2015,Total population,100.6016
+397,Estonia,2013,5.6,GINI,Total population,0.355,5.6,CPI2015,Total population,100.6016
+398,Estonia,2013,5.6,GINI,Total population,0.355,5.7,CPI2010,Total population,112.1451987
+399,Estonia,2013,5.6,GINI,Total population,0.355,5.7,CPI2010,Total population,112.1451987
+400,Estonia,2013,5.6,GINI,Total population,0.355,5.7,CPI2015,Total population,100.6016
+401,Estonia,2013,5.6,GINI,Total population,0.355,5.7,CPI2015,Total population,100.6016
+402,Estonia,2013,5.7,GINI,Total population,0.356,5.6,CPI2010,Total population,112.1451987
+403,Estonia,2013,5.7,GINI,Total population,0.356,5.6,CPI2010,Total population,112.1451987
+404,Estonia,2013,5.7,GINI,Total population,0.356,5.6,CPI2015,Total population,100.6016
+405,Estonia,2013,5.7,GINI,Total population,0.356,5.6,CPI2015,Total population,100.6016
+406,Estonia,2013,5.7,GINI,Total population,0.356,5.7,CPI2010,Total population,112.1451987
+407,Estonia,2013,5.7,GINI,Total population,0.356,5.7,CPI2010,Total population,112.1451987
+408,Estonia,2013,5.7,GINI,Total population,0.356,5.7,CPI2015,Total population,100.6016
+409,Estonia,2013,5.7,GINI,Total population,0.356,5.7,CPI2015,Total population,100.6016
+410,Estonia,2013,5.7,GINI,Total population,0.355,5.6,CPI2010,Total population,112.1451987
+411,Estonia,2013,5.7,GINI,Total population,0.355,5.6,CPI2010,Total population,112.1451987
+412,Estonia,2013,5.7,GINI,Total population,0.355,5.6,CPI2015,Total population,100.6016
+413,Estonia,2013,5.7,GINI,Total population,0.355,5.6,CPI2015,Total population,100.6016
+414,Estonia,2013,5.7,GINI,Total population,0.355,5.7,CPI2010,Total population,112.1451987
+415,Estonia,2013,5.7,GINI,Total population,0.355,5.7,CPI2010,Total population,112.1451987
+416,Estonia,2013,5.7,GINI,Total population,0.355,5.7,CPI2015,Total population,100.6016
+417,Estonia,2013,5.7,GINI,Total population,0.355,5.7,CPI2015,Total population,100.6016
+418,Estonia,2014,5.3,GINI,Total population,0.346,5.3,CPI2010,Total population,112.0261439
+419,Estonia,2014,5.3,GINI,Total population,0.346,5.3,CPI2015,Total population,100.4948
+420,Estonia,2014,5.3,GINI,Total population,0.346,5.5,CPI2010,Total population,112.0261439
+421,Estonia,2014,5.3,GINI,Total population,0.346,5.5,CPI2015,Total population,100.4948
+422,Estonia,2014,5.5,GINI,Total population,0.346,5.3,CPI2010,Total population,112.0261439
+423,Estonia,2014,5.5,GINI,Total population,0.346,5.3,CPI2015,Total population,100.4948
+424,Estonia,2014,5.5,GINI,Total population,0.346,5.5,CPI2010,Total population,112.0261439
+425,Estonia,2014,5.5,GINI,Total population,0.346,5.5,CPI2015,Total population,100.4948
+426,Estonia,2015,4.5,GINI,Total population,0.33,4.5,CPI2010,Total population,111.4745677
+427,Estonia,2015,4.5,GINI,Total population,0.33,4.5,CPI2015,Total population,100.0
+428,Estonia,2015,4.5,GINI,Total population,0.33,4.7,CPI2010,Total population,111.4745677
+429,Estonia,2015,4.5,GINI,Total population,0.33,4.7,CPI2015,Total population,100.0
+430,Estonia,2015,4.7,GINI,Total population,0.33,4.5,CPI2010,Total population,111.4745677
+431,Estonia,2015,4.7,GINI,Total population,0.33,4.5,CPI2015,Total population,100.0
+432,Estonia,2015,4.7,GINI,Total population,0.33,4.7,CPI2010,Total population,111.4745677
+433,Estonia,2015,4.7,GINI,Total population,0.33,4.7,CPI2015,Total population,100.0
+434,Estonia,2016,5.0,GINI,Total population,0.314,5.0,CPI2010,Total population,111.6403304
+435,Estonia,2016,5.0,GINI,Total population,0.314,5.0,CPI2015,Total population,100.1487
+436,Estonia,2016,5.0,GINI,Total population,0.314,4.4,CPI2010,Total population,111.6403304
+437,Estonia,2016,5.0,GINI,Total population,0.314,4.4,CPI2015,Total population,100.1487
+438,Estonia,2016,4.4,GINI,Total population,0.314,5.0,CPI2010,Total population,111.6403304
+439,Estonia,2016,4.4,GINI,Total population,0.314,5.0,CPI2015,Total population,100.1487
+440,Estonia,2016,4.4,GINI,Total population,0.314,4.4,CPI2010,Total population,111.6403304
+441,Estonia,2016,4.4,GINI,Total population,0.314,4.4,CPI2015,Total population,100.1487
+442,Estonia,2017,4.7,GINI,Total population,0.309,4.7,CPI2010,Total population,115.4553246
+443,Estonia,2017,4.7,GINI,Total population,0.309,4.7,CPI2015,Total population,103.571
+444,Estonia,2017,4.7,GINI,Total population,0.309,4.3,CPI2010,Total population,115.4553246
+445,Estonia,2017,4.7,GINI,Total population,0.309,4.3,CPI2015,Total population,103.571
+446,Estonia,2017,4.3,GINI,Total population,0.309,4.7,CPI2010,Total population,115.4553246
+447,Estonia,2017,4.3,GINI,Total population,0.309,4.7,CPI2015,Total population,103.571
+448,Estonia,2017,4.3,GINI,Total population,0.309,4.3,CPI2010,Total population,115.4553246
+449,Estonia,2017,4.3,GINI,Total population,0.309,4.3,CPI2015,Total population,103.571
+450,Switzerland,2009,17.3,GINI,Total population,0.297,17.3,CPI2010,Total population,99.31643012
+451,Switzerland,2009,17.3,GINI,Total population,0.297,17.3,CPI2010,Total population,99.31643012
+452,Switzerland,2009,17.3,GINI,Total population,0.297,17.3,CPI2015,Total population,101.166
+453,Switzerland,2009,17.3,GINI,Total population,0.297,17.3,CPI2015,Total population,101.166
+454,Switzerland,2009,17.3,GINI,Total population,0.298,17.3,CPI2010,Total population,99.31643012
+455,Switzerland,2009,17.3,GINI,Total population,0.298,17.3,CPI2010,Total population,99.31643012
+456,Switzerland,2009,17.3,GINI,Total population,0.298,17.3,CPI2015,Total population,101.166
+457,Switzerland,2009,17.3,GINI,Total population,0.298,17.3,CPI2015,Total population,101.166
+458,Switzerland,2010,17.6,GINI,Total population,0.298,17.6,CPI2010,Total population,100.0
+459,Switzerland,2010,17.6,GINI,Total population,0.298,17.6,CPI2015,Total population,101.8623
+460,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2010,Total population,100.2312926
+461,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2010,Total population,100.2312926
+462,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2015,Total population,102.0979
+463,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2015,Total population,102.0979
+464,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2010,Total population,100.2312926
+465,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2010,Total population,100.2312926
+466,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2015,Total population,102.0979
+467,Switzerland,2011,17.0,GINI,Total population,0.289,17.0,CPI2015,Total population,102.0979
+468,Switzerland,2012,16.6,GINI,Total population,0.285,16.6,CPI2010,Total population,99.53721838
+469,Switzerland,2012,16.6,GINI,Total population,0.285,16.6,CPI2015,Total population,101.3909
+470,Switzerland,2013,16.6,GINI,Total population,0.295,16.6,CPI2010,Total population,99.32084785
+471,Switzerland,2013,16.6,GINI,Total population,0.295,16.6,CPI2015,Total population,101.1705
+472,Switzerland,2014,16.1,GINI,Total population,0.297,16.1,CPI2010,Total population,99.30769284
+473,Switzerland,2014,16.1,GINI,Total population,0.297,16.1,CPI2015,Total population,101.1571
+474,Switzerland,2015,15.7,GINI,Total population,0.296,15.7,CPI2010,Total population,98.17174755
+475,Switzerland,2015,15.7,GINI,Total population,0.296,15.7,CPI2015,Total population,100.0
+476,Switzerland,2016,15.3,GINI,Total population,0.302,15.3,CPI2010,Total population,97.74508331
+477,Switzerland,2016,15.3,GINI,Total population,0.302,15.3,CPI2015,Total population,99.56539
+478,Switzerland,2017,14.9,GINI,Total population,0.299,14.9,CPI2010,Total population,98.26687597
+479,Switzerland,2017,14.9,GINI,Total population,0.299,14.9,CPI2015,Total population,100.0969
+480,Belgium,2009,54.9,GINI,Total population,0.2689999999999999,54.9,CPI2010,Total population,97.85760515
+481,Belgium,2009,54.9,GINI,Total population,0.2689999999999999,54.9,CPI2015,Total population,90.08366
+482,Belgium,2010,53.8,GINI,Total population,0.264,53.8,CPI2010,Total population,100.0
+483,Belgium,2010,53.8,GINI,Total population,0.264,53.8,CPI2015,Total population,92.05586
+484,Belgium,2011,55.1,GINI,Total population,0.266,55.1,CPI2010,Total population,103.5320837
+485,Belgium,2011,55.1,GINI,Total population,0.266,55.1,CPI2015,Total population,95.30735
+486,Belgium,2012,55.0,GINI,Total population,0.262,55.0,CPI2010,Total population,106.4720486
+487,Belgium,2012,55.0,GINI,Total population,0.262,55.0,CPI2015,Total population,98.01376
+488,Belgium,2013,55.1,GINI,Total population,0.261,55.1,CPI2010,Total population,107.6571768
+489,Belgium,2013,55.1,GINI,Total population,0.261,55.1,CPI2015,Total population,99.10474
+490,Belgium,2018,50.3,GINI,Total population,0.258,50.3,CPI2010,Total population,115.4516399
+491,Belgium,2018,50.3,GINI,Total population,0.258,50.3,CPI2015,Total population,106.28
+492,Israel,2012,23.4,GINI,Total population,0.371,23.4,CPI2010,Total population,105.2100122
+493,Israel,2012,23.4,GINI,Total population,0.371,23.4,CPI2015,Total population,98.60134
+494,Israel,2012,23.4,GINI,Total population,0.371,22.8,CPI2010,Total population,105.2100122
+495,Israel,2012,23.4,GINI,Total population,0.371,22.8,CPI2015,Total population,98.60134
+496,Israel,2012,22.8,GINI,Total population,0.371,23.4,CPI2010,Total population,105.2100122
+497,Israel,2012,22.8,GINI,Total population,0.371,23.4,CPI2015,Total population,98.60134
+498,Israel,2012,22.8,GINI,Total population,0.371,22.8,CPI2010,Total population,105.2100122
+499,Israel,2012,22.8,GINI,Total population,0.371,22.8,CPI2015,Total population,98.60134
+500,Canada,2009,30.7,GINI,Total population,0.316,30.7,CPI2010,Total population,98.25414078
+501,Canada,2009,30.7,GINI,Total population,0.316,30.7,CPI2010,Total population,98.25414078
+502,Canada,2009,30.7,GINI,Total population,0.316,30.7,CPI2015,Total population,90.41348
+503,Canada,2009,30.7,GINI,Total population,0.316,30.7,CPI2015,Total population,90.41348
+504,Canada,2009,30.7,GINI,Total population,0.316,27.3,CPI2010,Total population,98.25414078
+505,Canada,2009,30.7,GINI,Total population,0.316,27.3,CPI2010,Total population,98.25414078
+506,Canada,2009,30.7,GINI,Total population,0.316,27.3,CPI2015,Total population,90.41348
+507,Canada,2009,30.7,GINI,Total population,0.316,27.3,CPI2015,Total population,90.41348
+508,Canada,2009,30.7,GINI,Total population,0.32,30.7,CPI2010,Total population,98.25414078
+509,Canada,2009,30.7,GINI,Total population,0.32,30.7,CPI2010,Total population,98.25414078
+510,Canada,2009,30.7,GINI,Total population,0.32,30.7,CPI2015,Total population,90.41348
+511,Canada,2009,30.7,GINI,Total population,0.32,30.7,CPI2015,Total population,90.41348
+512,Canada,2009,30.7,GINI,Total population,0.32,27.3,CPI2010,Total population,98.25414078
+513,Canada,2009,30.7,GINI,Total population,0.32,27.3,CPI2010,Total population,98.25414078
+514,Canada,2009,30.7,GINI,Total population,0.32,27.3,CPI2015,Total population,90.41348
+515,Canada,2009,30.7,GINI,Total population,0.32,27.3,CPI2015,Total population,90.41348
+516,Canada,2009,27.3,GINI,Total population,0.316,30.7,CPI2010,Total population,98.25414078
+517,Canada,2009,27.3,GINI,Total population,0.316,30.7,CPI2010,Total population,98.25414078
+518,Canada,2009,27.3,GINI,Total population,0.316,30.7,CPI2015,Total population,90.41348
+519,Canada,2009,27.3,GINI,Total population,0.316,30.7,CPI2015,Total population,90.41348
+520,Canada,2009,27.3,GINI,Total population,0.316,27.3,CPI2010,Total population,98.25414078
+521,Canada,2009,27.3,GINI,Total population,0.316,27.3,CPI2010,Total population,98.25414078
+522,Canada,2009,27.3,GINI,Total population,0.316,27.3,CPI2015,Total population,90.41348
+523,Canada,2009,27.3,GINI,Total population,0.316,27.3,CPI2015,Total population,90.41348
+524,Canada,2009,27.3,GINI,Total population,0.32,30.7,CPI2010,Total population,98.25414078
+525,Canada,2009,27.3,GINI,Total population,0.32,30.7,CPI2010,Total population,98.25414078
+526,Canada,2009,27.3,GINI,Total population,0.32,30.7,CPI2015,Total population,90.41348
+527,Canada,2009,27.3,GINI,Total population,0.32,30.7,CPI2015,Total population,90.41348
+528,Canada,2009,27.3,GINI,Total population,0.32,27.3,CPI2010,Total population,98.25414078
+529,Canada,2009,27.3,GINI,Total population,0.32,27.3,CPI2010,Total population,98.25414078
+530,Canada,2009,27.3,GINI,Total population,0.32,27.3,CPI2015,Total population,90.41348
+531,Canada,2009,27.3,GINI,Total population,0.32,27.3,CPI2015,Total population,90.41348
+532,Canada,2010,30.1,GINI,Total population,0.316,30.1,CPI2010,Total population,100.0
+533,Canada,2010,30.1,GINI,Total population,0.316,30.1,CPI2010,Total population,100.0
+534,Canada,2010,30.1,GINI,Total population,0.316,30.1,CPI2015,Total population,92.02002
+535,Canada,2010,30.1,GINI,Total population,0.316,30.1,CPI2015,Total population,92.02002
+536,Canada,2010,30.1,GINI,Total population,0.316,27.2,CPI2010,Total population,100.0
+537,Canada,2010,30.1,GINI,Total population,0.316,27.2,CPI2010,Total population,100.0
+538,Canada,2010,30.1,GINI,Total population,0.316,27.2,CPI2015,Total population,92.02002
+539,Canada,2010,30.1,GINI,Total population,0.316,27.2,CPI2015,Total population,92.02002
+540,Canada,2010,30.1,GINI,Total population,0.319,30.1,CPI2010,Total population,100.0
+541,Canada,2010,30.1,GINI,Total population,0.319,30.1,CPI2010,Total population,100.0
+542,Canada,2010,30.1,GINI,Total population,0.319,30.1,CPI2015,Total population,92.02002
+543,Canada,2010,30.1,GINI,Total population,0.319,30.1,CPI2015,Total population,92.02002
+544,Canada,2010,30.1,GINI,Total population,0.319,27.2,CPI2010,Total population,100.0
+545,Canada,2010,30.1,GINI,Total population,0.319,27.2,CPI2010,Total population,100.0
+546,Canada,2010,30.1,GINI,Total population,0.319,27.2,CPI2015,Total population,92.02002
+547,Canada,2010,30.1,GINI,Total population,0.319,27.2,CPI2015,Total population,92.02002
+548,Canada,2010,27.2,GINI,Total population,0.316,30.1,CPI2010,Total population,100.0
+549,Canada,2010,27.2,GINI,Total population,0.316,30.1,CPI2010,Total population,100.0
+550,Canada,2010,27.2,GINI,Total population,0.316,30.1,CPI2015,Total population,92.02002
+551,Canada,2010,27.2,GINI,Total population,0.316,30.1,CPI2015,Total population,92.02002
+552,Canada,2010,27.2,GINI,Total population,0.316,27.2,CPI2010,Total population,100.0
+553,Canada,2010,27.2,GINI,Total population,0.316,27.2,CPI2010,Total population,100.0
+554,Canada,2010,27.2,GINI,Total population,0.316,27.2,CPI2015,Total population,92.02002
+555,Canada,2010,27.2,GINI,Total population,0.316,27.2,CPI2015,Total population,92.02002
+556,Canada,2010,27.2,GINI,Total population,0.319,30.1,CPI2010,Total population,100.0
+557,Canada,2010,27.2,GINI,Total population,0.319,30.1,CPI2010,Total population,100.0
+558,Canada,2010,27.2,GINI,Total population,0.319,30.1,CPI2015,Total population,92.02002
+559,Canada,2010,27.2,GINI,Total population,0.319,30.1,CPI2015,Total population,92.02002
+560,Canada,2010,27.2,GINI,Total population,0.319,27.2,CPI2010,Total population,100.0
+561,Canada,2010,27.2,GINI,Total population,0.319,27.2,CPI2010,Total population,100.0
+562,Canada,2010,27.2,GINI,Total population,0.319,27.2,CPI2015,Total population,92.02002
+563,Canada,2010,27.2,GINI,Total population,0.319,27.2,CPI2015,Total population,92.02002
+564,Canada,2011,29.8,GINI,Total population,0.313,29.8,CPI2010,Total population,102.9121272
+565,Canada,2011,29.8,GINI,Total population,0.313,29.8,CPI2010,Total population,102.9121272
+566,Canada,2011,29.8,GINI,Total population,0.313,29.8,CPI2015,Total population,94.69976
+567,Canada,2011,29.8,GINI,Total population,0.313,29.8,CPI2015,Total population,94.69976
+568,Canada,2011,29.8,GINI,Total population,0.313,26.9,CPI2010,Total population,102.9121272
+569,Canada,2011,29.8,GINI,Total population,0.313,26.9,CPI2010,Total population,102.9121272
+570,Canada,2011,29.8,GINI,Total population,0.313,26.9,CPI2015,Total population,94.69976
+571,Canada,2011,29.8,GINI,Total population,0.313,26.9,CPI2015,Total population,94.69976
+572,Canada,2011,29.8,GINI,Total population,0.316,29.8,CPI2010,Total population,102.9121272
+573,Canada,2011,29.8,GINI,Total population,0.316,29.8,CPI2010,Total population,102.9121272
+574,Canada,2011,29.8,GINI,Total population,0.316,29.8,CPI2015,Total population,94.69976
+575,Canada,2011,29.8,GINI,Total population,0.316,29.8,CPI2015,Total population,94.69976
+576,Canada,2011,29.8,GINI,Total population,0.316,26.9,CPI2010,Total population,102.9121272
+577,Canada,2011,29.8,GINI,Total population,0.316,26.9,CPI2010,Total population,102.9121272
+578,Canada,2011,29.8,GINI,Total population,0.316,26.9,CPI2015,Total population,94.69976
+579,Canada,2011,29.8,GINI,Total population,0.316,26.9,CPI2015,Total population,94.69976
+580,Canada,2011,26.9,GINI,Total population,0.313,29.8,CPI2010,Total population,102.9121272
+581,Canada,2011,26.9,GINI,Total population,0.313,29.8,CPI2010,Total population,102.9121272
+582,Canada,2011,26.9,GINI,Total population,0.313,29.8,CPI2015,Total population,94.69976
+583,Canada,2011,26.9,GINI,Total population,0.313,29.8,CPI2015,Total population,94.69976
+584,Canada,2011,26.9,GINI,Total population,0.313,26.9,CPI2010,Total population,102.9121272
+585,Canada,2011,26.9,GINI,Total population,0.313,26.9,CPI2010,Total population,102.9121272
+586,Canada,2011,26.9,GINI,Total population,0.313,26.9,CPI2015,Total population,94.69976
+587,Canada,2011,26.9,GINI,Total population,0.313,26.9,CPI2015,Total population,94.69976
+588,Canada,2011,26.9,GINI,Total population,0.316,29.8,CPI2010,Total population,102.9121272
+589,Canada,2011,26.9,GINI,Total population,0.316,29.8,CPI2010,Total population,102.9121272
+590,Canada,2011,26.9,GINI,Total population,0.316,29.8,CPI2015,Total population,94.69976
+591,Canada,2011,26.9,GINI,Total population,0.316,29.8,CPI2015,Total population,94.69976
+592,Canada,2011,26.9,GINI,Total population,0.316,26.9,CPI2010,Total population,102.9121272
+593,Canada,2011,26.9,GINI,Total population,0.316,26.9,CPI2010,Total population,102.9121272
+594,Canada,2011,26.9,GINI,Total population,0.316,26.9,CPI2015,Total population,94.69976
+595,Canada,2011,26.9,GINI,Total population,0.316,26.9,CPI2015,Total population,94.69976
+596,Canada,2012,29.8,GINI,Total population,0.317,29.8,CPI2010,Total population,104.4719508
+597,Canada,2012,29.8,GINI,Total population,0.317,29.8,CPI2015,Total population,96.13511
+598,Canada,2012,29.8,GINI,Total population,0.317,27.2,CPI2010,Total population,104.4719508
+599,Canada,2012,29.8,GINI,Total population,0.317,27.2,CPI2015,Total population,96.13511
+600,Canada,2012,27.2,GINI,Total population,0.317,29.8,CPI2010,Total population,104.4719508
+601,Canada,2012,27.2,GINI,Total population,0.317,29.8,CPI2015,Total population,96.13511
+602,Canada,2012,27.2,GINI,Total population,0.317,27.2,CPI2010,Total population,104.4719508
+603,Canada,2012,27.2,GINI,Total population,0.317,27.2,CPI2015,Total population,96.13511
+604,Canada,2013,29.2,GINI,Total population,0.32,29.2,CPI2010,Total population,105.452194
+605,Canada,2013,29.2,GINI,Total population,0.32,29.2,CPI2015,Total population,97.03713
+606,Canada,2013,29.2,GINI,Total population,0.32,27.1,CPI2010,Total population,105.452194
+607,Canada,2013,29.2,GINI,Total population,0.32,27.1,CPI2015,Total population,97.03713
+608,Canada,2013,27.1,GINI,Total population,0.32,29.2,CPI2010,Total population,105.452194
+609,Canada,2013,27.1,GINI,Total population,0.32,29.2,CPI2015,Total population,97.03713
+610,Canada,2013,27.1,GINI,Total population,0.32,27.1,CPI2010,Total population,105.452194
+611,Canada,2013,27.1,GINI,Total population,0.32,27.1,CPI2015,Total population,97.03713
+612,Canada,2014,29.3,GINI,Total population,0.313,29.3,CPI2010,Total population,107.46278909999998
+613,Canada,2014,29.3,GINI,Total population,0.313,29.3,CPI2015,Total population,98.88728
+614,Canada,2014,29.3,GINI,Total population,0.313,26.4,CPI2010,Total population,107.46278909999998
+615,Canada,2014,29.3,GINI,Total population,0.313,26.4,CPI2015,Total population,98.88728
+616,Canada,2014,26.4,GINI,Total population,0.313,29.3,CPI2010,Total population,107.46278909999998
+617,Canada,2014,26.4,GINI,Total population,0.313,29.3,CPI2015,Total population,98.88728
+618,Canada,2014,26.4,GINI,Total population,0.313,26.4,CPI2010,Total population,107.46278909999998
+619,Canada,2014,26.4,GINI,Total population,0.313,26.4,CPI2015,Total population,98.88728
+620,Canada,2015,29.4,GINI,Total population,0.318,29.4,CPI2010,Total population,108.67200420000002
+621,Canada,2015,29.4,GINI,Total population,0.318,29.4,CPI2015,Total population,100.0
+622,Canada,2015,29.4,GINI,Total population,0.318,26.5,CPI2010,Total population,108.67200420000002
+623,Canada,2015,29.4,GINI,Total population,0.318,26.5,CPI2015,Total population,100.0
+624,Canada,2015,26.5,GINI,Total population,0.318,29.4,CPI2010,Total population,108.67200420000002
+625,Canada,2015,26.5,GINI,Total population,0.318,29.4,CPI2015,Total population,100.0
+626,Canada,2015,26.5,GINI,Total population,0.318,26.5,CPI2010,Total population,108.67200420000002
+627,Canada,2015,26.5,GINI,Total population,0.318,26.5,CPI2015,Total population,100.0
+628,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+629,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+630,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+631,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+632,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+633,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+634,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+635,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+636,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+637,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+638,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+639,Ireland,2009,31.5,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+640,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+641,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+642,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+643,Ireland,2009,31.5,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+644,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+645,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+646,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+647,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+648,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+649,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+650,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+651,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+652,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+653,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2010,Total population,100.9306796
+654,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+655,Ireland,2009,31.9,GINI,Total population,0.312,31.5,CPI2015,Total population,96.38674
+656,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+657,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2010,Total population,100.9306796
+658,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+659,Ireland,2009,31.9,GINI,Total population,0.312,31.9,CPI2015,Total population,96.38674
+660,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+661,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+662,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+663,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+664,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+665,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+666,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+667,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+668,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+669,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+670,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+671,Ireland,2010,33.5,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+672,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+673,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+674,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+675,Ireland,2010,33.5,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+676,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+677,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+678,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+679,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+680,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+681,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+682,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+683,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+684,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+685,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2010,Total population,100.0
+686,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+687,Ireland,2010,31.6,GINI,Total population,0.298,33.5,CPI2015,Total population,95.49796
+688,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+689,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2010,Total population,100.0
+690,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+691,Ireland,2010,31.6,GINI,Total population,0.298,31.6,CPI2015,Total population,95.49796
+692,Ireland,2011,32.7,GINI,Total population,0.307,32.7,CPI2010,Total population,102.557196
+693,Ireland,2011,32.7,GINI,Total population,0.307,32.7,CPI2010,Total population,102.557196
+694,Ireland,2011,32.7,GINI,Total population,0.307,32.7,CPI2015,Total population,97.94003
+695,Ireland,2011,32.7,GINI,Total population,0.307,32.7,CPI2015,Total population,97.94003
+696,Ireland,2011,32.7,GINI,Total population,0.307,31.6,CPI2010,Total population,102.557196
+697,Ireland,2011,32.7,GINI,Total population,0.307,31.6,CPI2010,Total population,102.557196
+698,Ireland,2011,32.7,GINI,Total population,0.307,31.6,CPI2015,Total population,97.94003
+699,Ireland,2011,32.7,GINI,Total population,0.307,31.6,CPI2015,Total population,97.94003
+700,Ireland,2011,32.7,GINI,Total population,0.3,32.7,CPI2010,Total population,102.557196
+701,Ireland,2011,32.7,GINI,Total population,0.3,32.7,CPI2010,Total population,102.557196
+702,Ireland,2011,32.7,GINI,Total population,0.3,32.7,CPI2015,Total population,97.94003
+703,Ireland,2011,32.7,GINI,Total population,0.3,32.7,CPI2015,Total population,97.94003
+704,Ireland,2011,32.7,GINI,Total population,0.3,31.6,CPI2010,Total population,102.557196
+705,Ireland,2011,32.7,GINI,Total population,0.3,31.6,CPI2010,Total population,102.557196
+706,Ireland,2011,32.7,GINI,Total population,0.3,31.6,CPI2015,Total population,97.94003
+707,Ireland,2011,32.7,GINI,Total population,0.3,31.6,CPI2015,Total population,97.94003
+708,Ireland,2011,31.6,GINI,Total population,0.307,32.7,CPI2010,Total population,102.557196
+709,Ireland,2011,31.6,GINI,Total population,0.307,32.7,CPI2010,Total population,102.557196
+710,Ireland,2011,31.6,GINI,Total population,0.307,32.7,CPI2015,Total population,97.94003
+711,Ireland,2011,31.6,GINI,Total population,0.307,32.7,CPI2015,Total population,97.94003
+712,Ireland,2011,31.6,GINI,Total population,0.307,31.6,CPI2010,Total population,102.557196
+713,Ireland,2011,31.6,GINI,Total population,0.307,31.6,CPI2010,Total population,102.557196
+714,Ireland,2011,31.6,GINI,Total population,0.307,31.6,CPI2015,Total population,97.94003
+715,Ireland,2011,31.6,GINI,Total population,0.307,31.6,CPI2015,Total population,97.94003
+716,Ireland,2011,31.6,GINI,Total population,0.3,32.7,CPI2010,Total population,102.557196
+717,Ireland,2011,31.6,GINI,Total population,0.3,32.7,CPI2010,Total population,102.557196
+718,Ireland,2011,31.6,GINI,Total population,0.3,32.7,CPI2015,Total population,97.94003
+719,Ireland,2011,31.6,GINI,Total population,0.3,32.7,CPI2015,Total population,97.94003
+720,Ireland,2011,31.6,GINI,Total population,0.3,31.6,CPI2010,Total population,102.557196
+721,Ireland,2011,31.6,GINI,Total population,0.3,31.6,CPI2010,Total population,102.557196
+722,Ireland,2011,31.6,GINI,Total population,0.3,31.6,CPI2015,Total population,97.94003
+723,Ireland,2011,31.6,GINI,Total population,0.3,31.6,CPI2015,Total population,97.94003
+724,Ireland,2013,30.5,GINI,Total population,0.312,30.5,CPI2010,Total population,104.82737009999998
+725,Ireland,2013,30.5,GINI,Total population,0.312,30.5,CPI2010,Total population,104.82737009999998
+726,Ireland,2013,30.5,GINI,Total population,0.312,30.5,CPI2015,Total population,100.108
+727,Ireland,2013,30.5,GINI,Total population,0.312,30.5,CPI2015,Total population,100.108
+728,Ireland,2013,30.5,GINI,Total population,0.312,28.5,CPI2010,Total population,104.82737009999998
+729,Ireland,2013,30.5,GINI,Total population,0.312,28.5,CPI2010,Total population,104.82737009999998
+730,Ireland,2013,30.5,GINI,Total population,0.312,28.5,CPI2015,Total population,100.108
+731,Ireland,2013,30.5,GINI,Total population,0.312,28.5,CPI2015,Total population,100.108
+732,Ireland,2013,30.5,GINI,Total population,0.307,30.5,CPI2010,Total population,104.82737009999998
+733,Ireland,2013,30.5,GINI,Total population,0.307,30.5,CPI2010,Total population,104.82737009999998
+734,Ireland,2013,30.5,GINI,Total population,0.307,30.5,CPI2015,Total population,100.108
+735,Ireland,2013,30.5,GINI,Total population,0.307,30.5,CPI2015,Total population,100.108
+736,Ireland,2013,30.5,GINI,Total population,0.307,28.5,CPI2010,Total population,104.82737009999998
+737,Ireland,2013,30.5,GINI,Total population,0.307,28.5,CPI2010,Total population,104.82737009999998
+738,Ireland,2013,30.5,GINI,Total population,0.307,28.5,CPI2015,Total population,100.108
+739,Ireland,2013,30.5,GINI,Total population,0.307,28.5,CPI2015,Total population,100.108
+740,Ireland,2013,28.5,GINI,Total population,0.312,30.5,CPI2010,Total population,104.82737009999998
+741,Ireland,2013,28.5,GINI,Total population,0.312,30.5,CPI2010,Total population,104.82737009999998
+742,Ireland,2013,28.5,GINI,Total population,0.312,30.5,CPI2015,Total population,100.108
+743,Ireland,2013,28.5,GINI,Total population,0.312,30.5,CPI2015,Total population,100.108
+744,Ireland,2013,28.5,GINI,Total population,0.312,28.5,CPI2010,Total population,104.82737009999998
+745,Ireland,2013,28.5,GINI,Total population,0.312,28.5,CPI2010,Total population,104.82737009999998
+746,Ireland,2013,28.5,GINI,Total population,0.312,28.5,CPI2015,Total population,100.108
+747,Ireland,2013,28.5,GINI,Total population,0.312,28.5,CPI2015,Total population,100.108
+748,Ireland,2013,28.5,GINI,Total population,0.307,30.5,CPI2010,Total population,104.82737009999998
+749,Ireland,2013,28.5,GINI,Total population,0.307,30.5,CPI2010,Total population,104.82737009999998
+750,Ireland,2013,28.5,GINI,Total population,0.307,30.5,CPI2015,Total population,100.108
+751,Ireland,2013,28.5,GINI,Total population,0.307,30.5,CPI2015,Total population,100.108
+752,Ireland,2013,28.5,GINI,Total population,0.307,28.5,CPI2010,Total population,104.82737009999998
+753,Ireland,2013,28.5,GINI,Total population,0.307,28.5,CPI2010,Total population,104.82737009999998
+754,Ireland,2013,28.5,GINI,Total population,0.307,28.5,CPI2015,Total population,100.108
+755,Ireland,2013,28.5,GINI,Total population,0.307,28.5,CPI2015,Total population,100.108
+756,Ireland,2016,25.6,GINI,Total population,0.309,25.6,CPI2010,Total population,104.72297
+757,Ireland,2016,25.6,GINI,Total population,0.309,25.6,CPI2015,Total population,100.0083
+758,Ireland,2016,25.6,GINI,Total population,0.309,23.4,CPI2010,Total population,104.72297
+759,Ireland,2016,25.6,GINI,Total population,0.309,23.4,CPI2015,Total population,100.0083
+760,Ireland,2016,23.4,GINI,Total population,0.309,25.6,CPI2010,Total population,104.72297
+761,Ireland,2016,23.4,GINI,Total population,0.309,25.6,CPI2015,Total population,100.0083
+762,Ireland,2016,23.4,GINI,Total population,0.309,23.4,CPI2010,Total population,104.72297
+763,Ireland,2016,23.4,GINI,Total population,0.309,23.4,CPI2015,Total population,100.0083
+764,Ireland,2017,24.5,GINI,Total population,0.295,24.5,CPI2010,Total population,105.0796268
+765,Ireland,2017,24.5,GINI,Total population,0.295,24.5,CPI2015,Total population,100.3489
+766,Ireland,2017,24.5,GINI,Total population,0.295,24.3,CPI2010,Total population,105.0796268
+767,Ireland,2017,24.5,GINI,Total population,0.295,24.3,CPI2015,Total population,100.3489
+768,Ireland,2017,24.3,GINI,Total population,0.295,24.5,CPI2010,Total population,105.0796268
+769,Ireland,2017,24.3,GINI,Total population,0.295,24.5,CPI2015,Total population,100.3489
+770,Ireland,2017,24.3,GINI,Total population,0.295,24.3,CPI2010,Total population,105.0796268
+771,Ireland,2017,24.3,GINI,Total population,0.295,24.3,CPI2015,Total population,100.3489
+772,Chile,2009,14.4,GINI,Total population,0.51,14.4,CPI2010,Total population,98.60890177
+773,Chile,2009,14.4,GINI,Total population,0.51,14.4,CPI2010,Total population,98.60890177
+774,Chile,2009,14.4,GINI,Total population,0.51,14.4,CPI2015,Total population,83.28355
+775,Chile,2009,14.4,GINI,Total population,0.51,14.4,CPI2015,Total population,83.28355
+776,Chile,2009,14.4,GINI,Total population,0.48,14.4,CPI2010,Total population,98.60890177
+777,Chile,2009,14.4,GINI,Total population,0.48,14.4,CPI2010,Total population,98.60890177
+778,Chile,2009,14.4,GINI,Total population,0.48,14.4,CPI2015,Total population,83.28355
+779,Chile,2009,14.4,GINI,Total population,0.48,14.4,CPI2015,Total population,83.28355
+780,Chile,2011,14.5,GINI,Total population,0.503,14.5,CPI2010,Total population,103.3412169
+781,Chile,2011,14.5,GINI,Total population,0.503,14.5,CPI2010,Total population,103.3412169
+782,Chile,2011,14.5,GINI,Total population,0.503,14.5,CPI2015,Total population,87.28039
+783,Chile,2011,14.5,GINI,Total population,0.503,14.5,CPI2015,Total population,87.28039
+784,Chile,2011,14.5,GINI,Total population,0.471,14.5,CPI2010,Total population,103.3412169
+785,Chile,2011,14.5,GINI,Total population,0.471,14.5,CPI2010,Total population,103.3412169
+786,Chile,2011,14.5,GINI,Total population,0.471,14.5,CPI2015,Total population,87.28039
+787,Chile,2011,14.5,GINI,Total population,0.471,14.5,CPI2015,Total population,87.28039
+788,Chile,2013,14.8,GINI,Total population,0.465,14.8,CPI2010,Total population,108.3541197
+789,Chile,2013,14.8,GINI,Total population,0.465,14.8,CPI2015,Total population,91.51421
+790,Chile,2015,16.1,GINI,Total population,0.4539999999999999,16.1,CPI2010,Total population,118.40141509999998
+791,Chile,2015,16.1,GINI,Total population,0.4539999999999999,16.1,CPI2015,Total population,100.0
+792,Spain,2009,18.3,GINI,Total population,0.3329999999999999,18.3,CPI2010,Total population,98.23193341
+793,Spain,2009,18.3,GINI,Total population,0.3329999999999999,18.3,CPI2015,Total population,92.2262
+794,Spain,2009,18.3,GINI,Total population,0.3329999999999999,19.9,CPI2010,Total population,98.23193341
+795,Spain,2009,18.3,GINI,Total population,0.3329999999999999,19.9,CPI2015,Total population,92.2262
+796,Spain,2009,19.9,GINI,Total population,0.3329999999999999,18.3,CPI2010,Total population,98.23193341
+797,Spain,2009,19.9,GINI,Total population,0.3329999999999999,18.3,CPI2015,Total population,92.2262
+798,Spain,2009,19.9,GINI,Total population,0.3329999999999999,19.9,CPI2010,Total population,98.23193341
+799,Spain,2009,19.9,GINI,Total population,0.3329999999999999,19.9,CPI2015,Total population,92.2262
+800,Spain,2010,18.3,GINI,Total population,0.3389999999999999,18.3,CPI2010,Total population,100.0
+801,Spain,2010,18.3,GINI,Total population,0.3389999999999999,18.3,CPI2015,Total population,93.88617
+802,Spain,2010,18.3,GINI,Total population,0.3389999999999999,18.9,CPI2010,Total population,100.0
+803,Spain,2010,18.3,GINI,Total population,0.3389999999999999,18.9,CPI2015,Total population,93.88617
+804,Spain,2010,18.9,GINI,Total population,0.3389999999999999,18.3,CPI2010,Total population,100.0
+805,Spain,2010,18.9,GINI,Total population,0.3389999999999999,18.3,CPI2015,Total population,93.88617
+806,Spain,2010,18.9,GINI,Total population,0.3389999999999999,18.9,CPI2010,Total population,100.0
+807,Spain,2010,18.9,GINI,Total population,0.3389999999999999,18.9,CPI2015,Total population,93.88617
+808,Spain,2011,17.9,GINI,Total population,0.341,17.9,CPI2010,Total population,103.1961363
+809,Spain,2011,17.9,GINI,Total population,0.341,17.9,CPI2015,Total population,96.8869
+810,Spain,2012,18.2,GINI,Total population,0.3339999999999999,18.2,CPI2010,Total population,105.7203207
+811,Spain,2012,18.2,GINI,Total population,0.3339999999999999,18.2,CPI2015,Total population,99.25676
+812,Spain,2013,17.9,GINI,Total population,0.345,17.9,CPI2010,Total population,107.2094005
+813,Spain,2013,17.9,GINI,Total population,0.345,17.9,CPI2015,Total population,100.6548
+814,Spain,2014,16.8,GINI,Total population,0.3429999999999999,16.8,CPI2010,Total population,107.0477153
+815,Spain,2014,16.8,GINI,Total population,0.3429999999999999,16.8,CPI2015,Total population,100.503
+816,Spain,2015,15.2,GINI,Total population,0.344,15.2,CPI2010,Total population,106.5119602
+817,Spain,2015,15.2,GINI,Total population,0.344,15.2,CPI2015,Total population,100.0
+818,Spain,2016,14.8,GINI,Total population,0.341,14.8,CPI2010,Total population,106.2960924
+819,Spain,2016,14.8,GINI,Total population,0.341,14.8,CPI2015,Total population,99.79733
+820,Spain,2017,14.2,GINI,Total population,0.3329999999999999,14.2,CPI2010,Total population,108.3753869
+821,Spain,2017,14.2,GINI,Total population,0.3329999999999999,14.2,CPI2015,Total population,101.7495
+822,Spain,2018,13.6,GINI,Total population,0.33,13.6,CPI2010,Total population,110.1906703
+823,Spain,2018,13.6,GINI,Total population,0.33,13.6,CPI2015,Total population,103.4538
+824,Finland,2009,71.1,GINI,Total population,0.259,71.1,CPI2010,Total population,98.82971434
+825,Finland,2009,71.1,GINI,Total population,0.259,71.1,CPI2010,Total population,98.82971434
+826,Finland,2009,71.1,GINI,Total population,0.259,71.1,CPI2015,Total population,90.84034
+827,Finland,2009,71.1,GINI,Total population,0.259,71.1,CPI2015,Total population,90.84034
+828,Finland,2009,71.1,GINI,Total population,0.259,65.7,CPI2010,Total population,98.82971434
+829,Finland,2009,71.1,GINI,Total population,0.259,65.7,CPI2010,Total population,98.82971434
+830,Finland,2009,71.1,GINI,Total population,0.259,65.7,CPI2015,Total population,90.84034
+831,Finland,2009,71.1,GINI,Total population,0.259,65.7,CPI2015,Total population,90.84034
+832,Finland,2009,71.1,GINI,Total population,0.26,71.1,CPI2010,Total population,98.82971434
+833,Finland,2009,71.1,GINI,Total population,0.26,71.1,CPI2010,Total population,98.82971434
+834,Finland,2009,71.1,GINI,Total population,0.26,71.1,CPI2015,Total population,90.84034
+835,Finland,2009,71.1,GINI,Total population,0.26,71.1,CPI2015,Total population,90.84034
+836,Finland,2009,71.1,GINI,Total population,0.26,65.7,CPI2010,Total population,98.82971434
+837,Finland,2009,71.1,GINI,Total population,0.26,65.7,CPI2010,Total population,98.82971434
+838,Finland,2009,71.1,GINI,Total population,0.26,65.7,CPI2015,Total population,90.84034
+839,Finland,2009,71.1,GINI,Total population,0.26,65.7,CPI2015,Total population,90.84034
+840,Finland,2009,65.7,GINI,Total population,0.259,71.1,CPI2010,Total population,98.82971434
+841,Finland,2009,65.7,GINI,Total population,0.259,71.1,CPI2010,Total population,98.82971434
+842,Finland,2009,65.7,GINI,Total population,0.259,71.1,CPI2015,Total population,90.84034
+843,Finland,2009,65.7,GINI,Total population,0.259,71.1,CPI2015,Total population,90.84034
+844,Finland,2009,65.7,GINI,Total population,0.259,65.7,CPI2010,Total population,98.82971434
+845,Finland,2009,65.7,GINI,Total population,0.259,65.7,CPI2010,Total population,98.82971434
+846,Finland,2009,65.7,GINI,Total population,0.259,65.7,CPI2015,Total population,90.84034
+847,Finland,2009,65.7,GINI,Total population,0.259,65.7,CPI2015,Total population,90.84034
+848,Finland,2009,65.7,GINI,Total population,0.26,71.1,CPI2010,Total population,98.82971434
+849,Finland,2009,65.7,GINI,Total population,0.26,71.1,CPI2010,Total population,98.82971434
+850,Finland,2009,65.7,GINI,Total population,0.26,71.1,CPI2015,Total population,90.84034
+851,Finland,2009,65.7,GINI,Total population,0.26,71.1,CPI2015,Total population,90.84034
+852,Finland,2009,65.7,GINI,Total population,0.26,65.7,CPI2010,Total population,98.82971434
+853,Finland,2009,65.7,GINI,Total population,0.26,65.7,CPI2010,Total population,98.82971434
+854,Finland,2009,65.7,GINI,Total population,0.26,65.7,CPI2015,Total population,90.84034
+855,Finland,2009,65.7,GINI,Total population,0.26,65.7,CPI2015,Total population,90.84034
+856,Finland,2010,70.3,GINI,Total population,0.264,70.3,CPI2010,Total population,100.0
+857,Finland,2010,70.3,GINI,Total population,0.264,70.3,CPI2010,Total population,100.0
+858,Finland,2010,70.3,GINI,Total population,0.264,70.3,CPI2015,Total population,91.91602
+859,Finland,2010,70.3,GINI,Total population,0.264,70.3,CPI2015,Total population,91.91602
+860,Finland,2010,70.3,GINI,Total population,0.264,64.7,CPI2010,Total population,100.0
+861,Finland,2010,70.3,GINI,Total population,0.264,64.7,CPI2010,Total population,100.0
+862,Finland,2010,70.3,GINI,Total population,0.264,64.7,CPI2015,Total population,91.91602
+863,Finland,2010,70.3,GINI,Total population,0.264,64.7,CPI2015,Total population,91.91602
+864,Finland,2010,70.3,GINI,Total population,0.265,70.3,CPI2010,Total population,100.0
+865,Finland,2010,70.3,GINI,Total population,0.265,70.3,CPI2010,Total population,100.0
+866,Finland,2010,70.3,GINI,Total population,0.265,70.3,CPI2015,Total population,91.91602
+867,Finland,2010,70.3,GINI,Total population,0.265,70.3,CPI2015,Total population,91.91602
+868,Finland,2010,70.3,GINI,Total population,0.265,64.7,CPI2010,Total population,100.0
+869,Finland,2010,70.3,GINI,Total population,0.265,64.7,CPI2010,Total population,100.0
+870,Finland,2010,70.3,GINI,Total population,0.265,64.7,CPI2015,Total population,91.91602
+871,Finland,2010,70.3,GINI,Total population,0.265,64.7,CPI2015,Total population,91.91602
+872,Finland,2010,64.7,GINI,Total population,0.264,70.3,CPI2010,Total population,100.0
+873,Finland,2010,64.7,GINI,Total population,0.264,70.3,CPI2010,Total population,100.0
+874,Finland,2010,64.7,GINI,Total population,0.264,70.3,CPI2015,Total population,91.91602
+875,Finland,2010,64.7,GINI,Total population,0.264,70.3,CPI2015,Total population,91.91602
+876,Finland,2010,64.7,GINI,Total population,0.264,64.7,CPI2010,Total population,100.0
+877,Finland,2010,64.7,GINI,Total population,0.264,64.7,CPI2010,Total population,100.0
+878,Finland,2010,64.7,GINI,Total population,0.264,64.7,CPI2015,Total population,91.91602
+879,Finland,2010,64.7,GINI,Total population,0.264,64.7,CPI2015,Total population,91.91602
+880,Finland,2010,64.7,GINI,Total population,0.265,70.3,CPI2010,Total population,100.0
+881,Finland,2010,64.7,GINI,Total population,0.265,70.3,CPI2010,Total population,100.0
+882,Finland,2010,64.7,GINI,Total population,0.265,70.3,CPI2015,Total population,91.91602
+883,Finland,2010,64.7,GINI,Total population,0.265,70.3,CPI2015,Total population,91.91602
+884,Finland,2010,64.7,GINI,Total population,0.265,64.7,CPI2010,Total population,100.0
+885,Finland,2010,64.7,GINI,Total population,0.265,64.7,CPI2010,Total population,100.0
+886,Finland,2010,64.7,GINI,Total population,0.265,64.7,CPI2015,Total population,91.91602
+887,Finland,2010,64.7,GINI,Total population,0.265,64.7,CPI2015,Total population,91.91602
+888,Finland,2011,69.5,GINI,Total population,0.264,69.5,CPI2010,Total population,103.4168037
+889,Finland,2011,69.5,GINI,Total population,0.264,69.5,CPI2010,Total population,103.4168037
+890,Finland,2011,69.5,GINI,Total population,0.264,69.5,CPI2015,Total population,95.05661
+891,Finland,2011,69.5,GINI,Total population,0.264,69.5,CPI2015,Total population,95.05661
+892,Finland,2011,69.5,GINI,Total population,0.264,64.2,CPI2010,Total population,103.4168037
+893,Finland,2011,69.5,GINI,Total population,0.264,64.2,CPI2010,Total population,103.4168037
+894,Finland,2011,69.5,GINI,Total population,0.264,64.2,CPI2015,Total population,95.05661
+895,Finland,2011,69.5,GINI,Total population,0.264,64.2,CPI2015,Total population,95.05661
+896,Finland,2011,69.5,GINI,Total population,0.265,69.5,CPI2010,Total population,103.4168037
+897,Finland,2011,69.5,GINI,Total population,0.265,69.5,CPI2010,Total population,103.4168037
+898,Finland,2011,69.5,GINI,Total population,0.265,69.5,CPI2015,Total population,95.05661
+899,Finland,2011,69.5,GINI,Total population,0.265,69.5,CPI2015,Total population,95.05661
+900,Finland,2011,69.5,GINI,Total population,0.265,64.2,CPI2010,Total population,103.4168037
+901,Finland,2011,69.5,GINI,Total population,0.265,64.2,CPI2010,Total population,103.4168037
+902,Finland,2011,69.5,GINI,Total population,0.265,64.2,CPI2015,Total population,95.05661
+903,Finland,2011,69.5,GINI,Total population,0.265,64.2,CPI2015,Total population,95.05661
+904,Finland,2011,64.2,GINI,Total population,0.264,69.5,CPI2010,Total population,103.4168037
+905,Finland,2011,64.2,GINI,Total population,0.264,69.5,CPI2010,Total population,103.4168037
+906,Finland,2011,64.2,GINI,Total population,0.264,69.5,CPI2015,Total population,95.05661
+907,Finland,2011,64.2,GINI,Total population,0.264,69.5,CPI2015,Total population,95.05661
+908,Finland,2011,64.2,GINI,Total population,0.264,64.2,CPI2010,Total population,103.4168037
+909,Finland,2011,64.2,GINI,Total population,0.264,64.2,CPI2010,Total population,103.4168037
+910,Finland,2011,64.2,GINI,Total population,0.264,64.2,CPI2015,Total population,95.05661
+911,Finland,2011,64.2,GINI,Total population,0.264,64.2,CPI2015,Total population,95.05661
+912,Finland,2011,64.2,GINI,Total population,0.265,69.5,CPI2010,Total population,103.4168037
+913,Finland,2011,64.2,GINI,Total population,0.265,69.5,CPI2010,Total population,103.4168037
+914,Finland,2011,64.2,GINI,Total population,0.265,69.5,CPI2015,Total population,95.05661
+915,Finland,2011,64.2,GINI,Total population,0.265,69.5,CPI2015,Total population,95.05661
+916,Finland,2011,64.2,GINI,Total population,0.265,64.2,CPI2010,Total population,103.4168037
+917,Finland,2011,64.2,GINI,Total population,0.265,64.2,CPI2010,Total population,103.4168037
+918,Finland,2011,64.2,GINI,Total population,0.265,64.2,CPI2015,Total population,95.05661
+919,Finland,2011,64.2,GINI,Total population,0.265,64.2,CPI2015,Total population,95.05661
+920,Finland,2012,69.6,GINI,Total population,0.26,69.6,CPI2010,Total population,106.3210853
+921,Finland,2012,69.6,GINI,Total population,0.26,69.6,CPI2010,Total population,106.3210853
+922,Finland,2012,69.6,GINI,Total population,0.26,69.6,CPI2015,Total population,97.72611
+923,Finland,2012,69.6,GINI,Total population,0.26,69.6,CPI2015,Total population,97.72611
+924,Finland,2012,69.6,GINI,Total population,0.26,63.7,CPI2010,Total population,106.3210853
+925,Finland,2012,69.6,GINI,Total population,0.26,63.7,CPI2010,Total population,106.3210853
+926,Finland,2012,69.6,GINI,Total population,0.26,63.7,CPI2015,Total population,97.72611
+927,Finland,2012,69.6,GINI,Total population,0.26,63.7,CPI2015,Total population,97.72611
+928,Finland,2012,69.6,GINI,Total population,0.261,69.6,CPI2010,Total population,106.3210853
+929,Finland,2012,69.6,GINI,Total population,0.261,69.6,CPI2010,Total population,106.3210853
+930,Finland,2012,69.6,GINI,Total population,0.261,69.6,CPI2015,Total population,97.72611
+931,Finland,2012,69.6,GINI,Total population,0.261,69.6,CPI2015,Total population,97.72611
+932,Finland,2012,69.6,GINI,Total population,0.261,63.7,CPI2010,Total population,106.3210853
+933,Finland,2012,69.6,GINI,Total population,0.261,63.7,CPI2010,Total population,106.3210853
+934,Finland,2012,69.6,GINI,Total population,0.261,63.7,CPI2015,Total population,97.72611
+935,Finland,2012,69.6,GINI,Total population,0.261,63.7,CPI2015,Total population,97.72611
+936,Finland,2012,63.7,GINI,Total population,0.26,69.6,CPI2010,Total population,106.3210853
+937,Finland,2012,63.7,GINI,Total population,0.26,69.6,CPI2010,Total population,106.3210853
+938,Finland,2012,63.7,GINI,Total population,0.26,69.6,CPI2015,Total population,97.72611
+939,Finland,2012,63.7,GINI,Total population,0.26,69.6,CPI2015,Total population,97.72611
+940,Finland,2012,63.7,GINI,Total population,0.26,63.7,CPI2010,Total population,106.3210853
+941,Finland,2012,63.7,GINI,Total population,0.26,63.7,CPI2010,Total population,106.3210853
+942,Finland,2012,63.7,GINI,Total population,0.26,63.7,CPI2015,Total population,97.72611
+943,Finland,2012,63.7,GINI,Total population,0.26,63.7,CPI2015,Total population,97.72611
+944,Finland,2012,63.7,GINI,Total population,0.261,69.6,CPI2010,Total population,106.3210853
+945,Finland,2012,63.7,GINI,Total population,0.261,69.6,CPI2010,Total population,106.3210853
+946,Finland,2012,63.7,GINI,Total population,0.261,69.6,CPI2015,Total population,97.72611
+947,Finland,2012,63.7,GINI,Total population,0.261,69.6,CPI2015,Total population,97.72611
+948,Finland,2012,63.7,GINI,Total population,0.261,63.7,CPI2010,Total population,106.3210853
+949,Finland,2012,63.7,GINI,Total population,0.261,63.7,CPI2010,Total population,106.3210853
+950,Finland,2012,63.7,GINI,Total population,0.261,63.7,CPI2015,Total population,97.72611
+951,Finland,2012,63.7,GINI,Total population,0.261,63.7,CPI2015,Total population,97.72611
+952,Finland,2013,68.2,GINI,Total population,0.262,68.2,CPI2010,Total population,107.8928243
+953,Finland,2013,68.2,GINI,Total population,0.262,68.2,CPI2015,Total population,99.17079
+954,Finland,2013,68.2,GINI,Total population,0.262,63.5,CPI2010,Total population,107.8928243
+955,Finland,2013,68.2,GINI,Total population,0.262,63.5,CPI2015,Total population,99.17079
+956,Finland,2013,63.5,GINI,Total population,0.262,68.2,CPI2010,Total population,107.8928243
+957,Finland,2013,63.5,GINI,Total population,0.262,68.2,CPI2015,Total population,99.17079
+958,Finland,2013,63.5,GINI,Total population,0.262,63.5,CPI2010,Total population,107.8928243
+959,Finland,2013,63.5,GINI,Total population,0.262,63.5,CPI2015,Total population,99.17079
+960,Finland,2014,67.6,GINI,Total population,0.257,67.6,CPI2010,Total population,109.016252
+961,Finland,2014,67.6,GINI,Total population,0.257,67.6,CPI2015,Total population,100.2034
+962,Finland,2014,67.6,GINI,Total population,0.257,63.0,CPI2010,Total population,109.016252
+963,Finland,2014,67.6,GINI,Total population,0.257,63.0,CPI2015,Total population,100.2034
+964,Finland,2014,63.0,GINI,Total population,0.257,67.6,CPI2010,Total population,109.016252
+965,Finland,2014,63.0,GINI,Total population,0.257,67.6,CPI2015,Total population,100.2034
+966,Finland,2014,63.0,GINI,Total population,0.257,63.0,CPI2010,Total population,109.016252
+967,Finland,2014,63.0,GINI,Total population,0.257,63.0,CPI2015,Total population,100.2034
+968,Finland,2015,66.4,GINI,Total population,0.26,66.4,CPI2010,Total population,108.7895233
+969,Finland,2015,66.4,GINI,Total population,0.26,66.4,CPI2015,Total population,99.995
+970,Finland,2015,66.4,GINI,Total population,0.26,62.9,CPI2010,Total population,108.7895233
+971,Finland,2015,66.4,GINI,Total population,0.26,62.9,CPI2015,Total population,99.995
+972,Finland,2015,62.9,GINI,Total population,0.26,66.4,CPI2010,Total population,108.7895233
+973,Finland,2015,62.9,GINI,Total population,0.26,66.4,CPI2015,Total population,99.995
+974,Finland,2015,62.9,GINI,Total population,0.26,62.9,CPI2010,Total population,108.7895233
+975,Finland,2015,62.9,GINI,Total population,0.26,62.9,CPI2015,Total population,99.995
+976,Finland,2016,64.9,GINI,Total population,0.259,64.9,CPI2010,Total population,109.1775949
+977,Finland,2016,64.9,GINI,Total population,0.259,64.9,CPI2015,Total population,100.3517
+978,Finland,2016,64.9,GINI,Total population,0.259,60.3,CPI2010,Total population,109.1775949
+979,Finland,2016,64.9,GINI,Total population,0.259,60.3,CPI2015,Total population,100.3517
+980,Finland,2016,60.3,GINI,Total population,0.259,64.9,CPI2010,Total population,109.1775949
+981,Finland,2016,60.3,GINI,Total population,0.259,64.9,CPI2015,Total population,100.3517
+982,Finland,2016,60.3,GINI,Total population,0.259,60.3,CPI2010,Total population,109.1775949
+983,Finland,2016,60.3,GINI,Total population,0.259,60.3,CPI2015,Total population,100.3517
+984,Finland,2017,62.2,GINI,Total population,0.266,62.2,CPI2010,Total population,110.0007376
+985,Finland,2017,62.2,GINI,Total population,0.266,62.2,CPI2015,Total population,101.1083
+986,Finland,2017,62.2,GINI,Total population,0.266,58.1,CPI2010,Total population,110.0007376
+987,Finland,2017,62.2,GINI,Total population,0.266,58.1,CPI2015,Total population,101.1083
+988,Finland,2017,58.1,GINI,Total population,0.266,62.2,CPI2010,Total population,110.0007376
+989,Finland,2017,58.1,GINI,Total population,0.266,62.2,CPI2015,Total population,101.1083
+990,Finland,2017,58.1,GINI,Total population,0.266,58.1,CPI2010,Total population,110.0007376
+991,Finland,2017,58.1,GINI,Total population,0.266,58.1,CPI2015,Total population,101.1083
+992,Finland,2018,60.3,GINI,Total population,0.2689999999999999,60.3,CPI2010,Total population,111.1930216
+993,Finland,2018,60.3,GINI,Total population,0.2689999999999999,60.3,CPI2015,Total population,102.2042
+994,Luxembourg,2009,35.9,GINI,Total population,0.2769999999999999,35.9,CPI2010,Total population,97.77687142
+995,Luxembourg,2009,35.9,GINI,Total population,0.2769999999999999,35.9,CPI2015,Total population,89.53917
+996,Luxembourg,2010,35.1,GINI,Total population,0.27,35.1,CPI2010,Total population,100.0
+997,Luxembourg,2010,35.1,GINI,Total population,0.27,35.1,CPI2015,Total population,91.575
+998,Luxembourg,2010,35.1,GINI,Total population,0.27,40.0,CPI2010,Total population,100.0
+999,Luxembourg,2010,35.1,GINI,Total population,0.27,40.0,CPI2015,Total population,91.575
+1000,Luxembourg,2010,40.0,GINI,Total population,0.27,35.1,CPI2010,Total population,100.0
+1001,Luxembourg,2010,40.0,GINI,Total population,0.27,35.1,CPI2015,Total population,91.575
+1002,Luxembourg,2010,40.0,GINI,Total population,0.27,40.0,CPI2010,Total population,100.0
+1003,Luxembourg,2010,40.0,GINI,Total population,0.27,40.0,CPI2015,Total population,91.575
+1004,Luxembourg,2011,35.1,GINI,Total population,0.276,35.1,CPI2010,Total population,103.4106798
+1005,Luxembourg,2011,35.1,GINI,Total population,0.276,35.1,CPI2015,Total population,94.69833
+1006,Luxembourg,2011,35.1,GINI,Total population,0.276,36.6,CPI2010,Total population,103.4106798
+1007,Luxembourg,2011,35.1,GINI,Total population,0.276,36.6,CPI2015,Total population,94.69833
+1008,Luxembourg,2011,36.6,GINI,Total population,0.276,35.1,CPI2010,Total population,103.4106798
+1009,Luxembourg,2011,36.6,GINI,Total population,0.276,35.1,CPI2015,Total population,94.69833
+1010,Luxembourg,2011,36.6,GINI,Total population,0.276,36.6,CPI2010,Total population,103.4106798
+1011,Luxembourg,2011,36.6,GINI,Total population,0.276,36.6,CPI2015,Total population,94.69833
+1012,Luxembourg,2012,35.3,GINI,Total population,0.298,35.3,CPI2010,Total population,106.1643462
+1013,Luxembourg,2012,35.3,GINI,Total population,0.298,35.3,CPI2015,Total population,97.22
+1014,Luxembourg,2012,35.3,GINI,Total population,0.298,35.2,CPI2010,Total population,106.1643462
+1015,Luxembourg,2012,35.3,GINI,Total population,0.298,35.2,CPI2015,Total population,97.22
+1016,Luxembourg,2012,35.2,GINI,Total population,0.298,35.3,CPI2010,Total population,106.1643462
+1017,Luxembourg,2012,35.2,GINI,Total population,0.298,35.3,CPI2015,Total population,97.22
+1018,Luxembourg,2012,35.2,GINI,Total population,0.298,35.2,CPI2010,Total population,106.1643462
+1019,Luxembourg,2012,35.2,GINI,Total population,0.298,35.2,CPI2015,Total population,97.22
+1020,Luxembourg,2013,34.8,GINI,Total population,0.2789999999999999,34.8,CPI2010,Total population,108.0052744
+1021,Luxembourg,2013,34.8,GINI,Total population,0.2789999999999999,34.8,CPI2015,Total population,98.90583
+1022,Luxembourg,2013,34.8,GINI,Total population,0.2789999999999999,34.0,CPI2010,Total population,108.0052744
+1023,Luxembourg,2013,34.8,GINI,Total population,0.2789999999999999,34.0,CPI2015,Total population,98.90583
+1024,Luxembourg,2013,34.0,GINI,Total population,0.2789999999999999,34.8,CPI2010,Total population,108.0052744
+1025,Luxembourg,2013,34.0,GINI,Total population,0.2789999999999999,34.8,CPI2015,Total population,98.90583
+1026,Luxembourg,2013,34.0,GINI,Total population,0.2789999999999999,34.0,CPI2010,Total population,108.0052744
+1027,Luxembourg,2013,34.0,GINI,Total population,0.2789999999999999,34.0,CPI2015,Total population,98.90583
+1028,Luxembourg,2015,33.3,GINI,Total population,0.306,33.3,CPI2010,Total population,109.2001092
+1029,Luxembourg,2015,33.3,GINI,Total population,0.306,33.3,CPI2015,Total population,100.0
+1030,Luxembourg,2016,32.3,GINI,Total population,0.305,32.3,CPI2010,Total population,109.5176631
+1031,Luxembourg,2016,32.3,GINI,Total population,0.305,32.3,CPI2015,Total population,100.2908
+1032,Luxembourg,2017,32.1,GINI,Total population,0.327,32.1,CPI2010,Total population,111.4132678
+1033,Luxembourg,2017,32.1,GINI,Total population,0.327,32.1,CPI2015,Total population,102.0267
+1034,Luxembourg,2018,31.8,GINI,Total population,0.318,31.8,CPI2010,Total population,113.1158067
+1035,Luxembourg,2018,31.8,GINI,Total population,0.318,31.8,CPI2015,Total population,103.5858
+1036,Korea,2009,9.9,GINI,Total population,0.314,9.9,CPI2010,Total population,97.14473991
+1037,Korea,2009,9.9,GINI,Total population,0.314,9.9,CPI2015,Total population,88.4515
+1038,Korea,2009,9.9,GINI,Total population,0.314,12.2,CPI2010,Total population,97.14473991
+1039,Korea,2009,9.9,GINI,Total population,0.314,12.2,CPI2015,Total population,88.4515
+1040,Korea,2009,12.2,GINI,Total population,0.314,9.9,CPI2010,Total population,97.14473991
+1041,Korea,2009,12.2,GINI,Total population,0.314,9.9,CPI2015,Total population,88.4515
+1042,Korea,2009,12.2,GINI,Total population,0.314,12.2,CPI2010,Total population,97.14473991
+1043,Korea,2009,12.2,GINI,Total population,0.314,12.2,CPI2015,Total population,88.4515
+1044,Korea,2010,9.6,GINI,Total population,0.31,9.6,CPI2010,Total population,100.0
+1045,Korea,2010,9.6,GINI,Total population,0.31,9.6,CPI2015,Total population,91.05125
+1046,Korea,2010,9.6,GINI,Total population,0.31,11.4,CPI2010,Total population,100.0
+1047,Korea,2010,9.6,GINI,Total population,0.31,11.4,CPI2015,Total population,91.05125
+1048,Korea,2010,11.4,GINI,Total population,0.31,9.6,CPI2010,Total population,100.0
+1049,Korea,2010,11.4,GINI,Total population,0.31,9.6,CPI2015,Total population,91.05125
+1050,Korea,2010,11.4,GINI,Total population,0.31,11.4,CPI2010,Total population,100.0
+1051,Korea,2010,11.4,GINI,Total population,0.31,11.4,CPI2015,Total population,91.05125
+1052,Korea,2011,9.8,GINI,Total population,0.311,9.8,CPI2010,Total population,104.0258536
+1053,Korea,2011,9.8,GINI,Total population,0.311,9.8,CPI2015,Total population,94.71684
+1054,Korea,2011,9.8,GINI,Total population,0.311,10.9,CPI2010,Total population,104.0258536
+1055,Korea,2011,9.8,GINI,Total population,0.311,10.9,CPI2015,Total population,94.71684
+1056,Korea,2011,10.9,GINI,Total population,0.311,9.8,CPI2010,Total population,104.0258536
+1057,Korea,2011,10.9,GINI,Total population,0.311,9.8,CPI2015,Total population,94.71684
+1058,Korea,2011,10.9,GINI,Total population,0.311,10.9,CPI2010,Total population,104.0258536
+1059,Korea,2011,10.9,GINI,Total population,0.311,10.9,CPI2015,Total population,94.71684
+1060,Korea,2012,9.9,GINI,Total population,0.307,9.9,CPI2010,Total population,106.3011216
+1061,Korea,2012,9.9,GINI,Total population,0.307,9.9,CPI2015,Total population,96.7885
+1062,Korea,2012,9.9,GINI,Total population,0.307,11.5,CPI2010,Total population,106.3011216
+1063,Korea,2012,9.9,GINI,Total population,0.307,11.5,CPI2015,Total population,96.7885
+1064,Korea,2012,11.5,GINI,Total population,0.307,9.9,CPI2010,Total population,106.3011216
+1065,Korea,2012,11.5,GINI,Total population,0.307,9.9,CPI2015,Total population,96.7885
+1066,Korea,2012,11.5,GINI,Total population,0.307,11.5,CPI2010,Total population,106.3011216
+1067,Korea,2012,11.5,GINI,Total population,0.307,11.5,CPI2015,Total population,96.7885
+1068,Korea,2015,10.0,GINI,Total population,0.352,10.0,CPI2010,Total population,109.8273445
+1069,Korea,2015,10.0,GINI,Total population,0.352,10.0,CPI2015,Total population,99.99917
+1070,Korea,2015,10.0,GINI,Total population,0.352,12.3,CPI2010,Total population,109.8273445
+1071,Korea,2015,10.0,GINI,Total population,0.352,12.3,CPI2015,Total population,99.99917
+1072,Korea,2015,12.3,GINI,Total population,0.352,10.0,CPI2010,Total population,109.8273445
+1073,Korea,2015,12.3,GINI,Total population,0.352,10.0,CPI2015,Total population,99.99917
+1074,Korea,2015,12.3,GINI,Total population,0.352,12.3,CPI2010,Total population,109.8273445
+1075,Korea,2015,12.3,GINI,Total population,0.352,12.3,CPI2015,Total population,99.99917
+1076,Korea,2016,10.0,GINI,Total population,0.355,10.0,CPI2010,Total population,110.8944688
+1077,Korea,2016,10.0,GINI,Total population,0.355,10.0,CPI2015,Total population,100.9708
+1078,Korea,2016,10.0,GINI,Total population,0.355,11.9,CPI2010,Total population,110.8944688
+1079,Korea,2016,10.0,GINI,Total population,0.355,11.9,CPI2015,Total population,100.9708
+1080,Korea,2016,11.9,GINI,Total population,0.355,10.0,CPI2010,Total population,110.8944688
+1081,Korea,2016,11.9,GINI,Total population,0.355,10.0,CPI2015,Total population,100.9708
+1082,Korea,2016,11.9,GINI,Total population,0.355,11.9,CPI2010,Total population,110.8944688
+1083,Korea,2016,11.9,GINI,Total population,0.355,11.9,CPI2015,Total population,100.9708
+1084,Korea,2017,10.5,GINI,Total population,0.354,10.5,CPI2010,Total population,113.0508368
+1085,Korea,2017,10.5,GINI,Total population,0.354,10.5,CPI2015,Total population,102.9342
+1086,Korea,2017,10.5,GINI,Total population,0.354,12.4,CPI2010,Total population,113.0508368
+1087,Korea,2017,10.5,GINI,Total population,0.354,12.4,CPI2015,Total population,102.9342
+1088,Korea,2017,12.4,GINI,Total population,0.354,10.5,CPI2010,Total population,113.0508368
+1089,Korea,2017,12.4,GINI,Total population,0.354,10.5,CPI2015,Total population,102.9342
+1090,Korea,2017,12.4,GINI,Total population,0.354,12.4,CPI2010,Total population,113.0508368
+1091,Korea,2017,12.4,GINI,Total population,0.354,12.4,CPI2015,Total population,102.9342
+1092,United Kingdom,2009,27.4,GINI,Total population,0.374,27.4,CPI2010,Total population,97.55826859
+1093,United Kingdom,2009,27.4,GINI,Total population,0.374,27.4,CPI2010,Total population,97.55826859
+1094,United Kingdom,2009,27.4,GINI,Total population,0.374,27.4,CPI2015,Total population,87.9
+1095,United Kingdom,2009,27.4,GINI,Total population,0.374,27.4,CPI2015,Total population,87.9
+1096,United Kingdom,2009,27.4,GINI,Total population,0.374,27.0,CPI2010,Total population,97.55826859
+1097,United Kingdom,2009,27.4,GINI,Total population,0.374,27.0,CPI2010,Total population,97.55826859
+1098,United Kingdom,2009,27.4,GINI,Total population,0.374,27.0,CPI2015,Total population,87.9
+1099,United Kingdom,2009,27.4,GINI,Total population,0.374,27.0,CPI2015,Total population,87.9
+1100,United Kingdom,2009,27.4,GINI,Total population,0.345,27.4,CPI2010,Total population,97.55826859
+1101,United Kingdom,2009,27.4,GINI,Total population,0.345,27.4,CPI2010,Total population,97.55826859
+1102,United Kingdom,2009,27.4,GINI,Total population,0.345,27.4,CPI2015,Total population,87.9
+1103,United Kingdom,2009,27.4,GINI,Total population,0.345,27.4,CPI2015,Total population,87.9
+1104,United Kingdom,2009,27.4,GINI,Total population,0.345,27.0,CPI2010,Total population,97.55826859
+1105,United Kingdom,2009,27.4,GINI,Total population,0.345,27.0,CPI2010,Total population,97.55826859
+1106,United Kingdom,2009,27.4,GINI,Total population,0.345,27.0,CPI2015,Total population,87.9
+1107,United Kingdom,2009,27.4,GINI,Total population,0.345,27.0,CPI2015,Total population,87.9
+1108,United Kingdom,2009,27.0,GINI,Total population,0.374,27.4,CPI2010,Total population,97.55826859
+1109,United Kingdom,2009,27.0,GINI,Total population,0.374,27.4,CPI2010,Total population,97.55826859
+1110,United Kingdom,2009,27.0,GINI,Total population,0.374,27.4,CPI2015,Total population,87.9
+1111,United Kingdom,2009,27.0,GINI,Total population,0.374,27.4,CPI2015,Total population,87.9
+1112,United Kingdom,2009,27.0,GINI,Total population,0.374,27.0,CPI2010,Total population,97.55826859
+1113,United Kingdom,2009,27.0,GINI,Total population,0.374,27.0,CPI2010,Total population,97.55826859
+1114,United Kingdom,2009,27.0,GINI,Total population,0.374,27.0,CPI2015,Total population,87.9
+1115,United Kingdom,2009,27.0,GINI,Total population,0.374,27.0,CPI2015,Total population,87.9
+1116,United Kingdom,2009,27.0,GINI,Total population,0.345,27.4,CPI2010,Total population,97.55826859
+1117,United Kingdom,2009,27.0,GINI,Total population,0.345,27.4,CPI2010,Total population,97.55826859
+1118,United Kingdom,2009,27.0,GINI,Total population,0.345,27.4,CPI2015,Total population,87.9
+1119,United Kingdom,2009,27.0,GINI,Total population,0.345,27.4,CPI2015,Total population,87.9
+1120,United Kingdom,2009,27.0,GINI,Total population,0.345,27.0,CPI2010,Total population,97.55826859
+1121,United Kingdom,2009,27.0,GINI,Total population,0.345,27.0,CPI2010,Total population,97.55826859
+1122,United Kingdom,2009,27.0,GINI,Total population,0.345,27.0,CPI2015,Total population,87.9
+1123,United Kingdom,2009,27.0,GINI,Total population,0.345,27.0,CPI2015,Total population,87.9
+1124,United Kingdom,2010,26.6,GINI,Total population,0.351,26.6,CPI2010,Total population,100.0
+1125,United Kingdom,2010,26.6,GINI,Total population,0.351,26.6,CPI2010,Total population,100.0
+1126,United Kingdom,2010,26.6,GINI,Total population,0.351,26.6,CPI2015,Total population,90.1
+1127,United Kingdom,2010,26.6,GINI,Total population,0.351,26.6,CPI2015,Total population,90.1
+1128,United Kingdom,2010,26.6,GINI,Total population,0.351,26.8,CPI2010,Total population,100.0
+1129,United Kingdom,2010,26.6,GINI,Total population,0.351,26.8,CPI2010,Total population,100.0
+1130,United Kingdom,2010,26.6,GINI,Total population,0.351,26.8,CPI2015,Total population,90.1
+1131,United Kingdom,2010,26.6,GINI,Total population,0.351,26.8,CPI2015,Total population,90.1
+1132,United Kingdom,2010,26.6,GINI,Total population,0.341,26.6,CPI2010,Total population,100.0
+1133,United Kingdom,2010,26.6,GINI,Total population,0.341,26.6,CPI2010,Total population,100.0
+1134,United Kingdom,2010,26.6,GINI,Total population,0.341,26.6,CPI2015,Total population,90.1
+1135,United Kingdom,2010,26.6,GINI,Total population,0.341,26.6,CPI2015,Total population,90.1
+1136,United Kingdom,2010,26.6,GINI,Total population,0.341,26.8,CPI2010,Total population,100.0
+1137,United Kingdom,2010,26.6,GINI,Total population,0.341,26.8,CPI2010,Total population,100.0
+1138,United Kingdom,2010,26.6,GINI,Total population,0.341,26.8,CPI2015,Total population,90.1
+1139,United Kingdom,2010,26.6,GINI,Total population,0.341,26.8,CPI2015,Total population,90.1
+1140,United Kingdom,2010,26.8,GINI,Total population,0.351,26.6,CPI2010,Total population,100.0
+1141,United Kingdom,2010,26.8,GINI,Total population,0.351,26.6,CPI2010,Total population,100.0
+1142,United Kingdom,2010,26.8,GINI,Total population,0.351,26.6,CPI2015,Total population,90.1
+1143,United Kingdom,2010,26.8,GINI,Total population,0.351,26.6,CPI2015,Total population,90.1
+1144,United Kingdom,2010,26.8,GINI,Total population,0.351,26.8,CPI2010,Total population,100.0
+1145,United Kingdom,2010,26.8,GINI,Total population,0.351,26.8,CPI2010,Total population,100.0
+1146,United Kingdom,2010,26.8,GINI,Total population,0.351,26.8,CPI2015,Total population,90.1
+1147,United Kingdom,2010,26.8,GINI,Total population,0.351,26.8,CPI2015,Total population,90.1
+1148,United Kingdom,2010,26.8,GINI,Total population,0.341,26.6,CPI2010,Total population,100.0
+1149,United Kingdom,2010,26.8,GINI,Total population,0.341,26.6,CPI2010,Total population,100.0
+1150,United Kingdom,2010,26.8,GINI,Total population,0.341,26.6,CPI2015,Total population,90.1
+1151,United Kingdom,2010,26.8,GINI,Total population,0.341,26.6,CPI2015,Total population,90.1
+1152,United Kingdom,2010,26.8,GINI,Total population,0.341,26.8,CPI2010,Total population,100.0
+1153,United Kingdom,2010,26.8,GINI,Total population,0.341,26.8,CPI2010,Total population,100.0
+1154,United Kingdom,2010,26.8,GINI,Total population,0.341,26.8,CPI2015,Total population,90.1
+1155,United Kingdom,2010,26.8,GINI,Total population,0.341,26.8,CPI2015,Total population,90.1
+1156,United Kingdom,2011,26.0,GINI,Total population,0.354,26.0,CPI2010,Total population,103.8845727
+1157,United Kingdom,2011,26.0,GINI,Total population,0.354,26.0,CPI2015,Total population,93.6
+1158,United Kingdom,2011,26.0,GINI,Total population,0.354,26.5,CPI2010,Total population,103.8845727
+1159,United Kingdom,2011,26.0,GINI,Total population,0.354,26.5,CPI2015,Total population,93.6
+1160,United Kingdom,2011,26.5,GINI,Total population,0.354,26.0,CPI2010,Total population,103.8845727
+1161,United Kingdom,2011,26.5,GINI,Total population,0.354,26.0,CPI2015,Total population,93.6
+1162,United Kingdom,2011,26.5,GINI,Total population,0.354,26.5,CPI2010,Total population,103.8845727
+1163,United Kingdom,2011,26.5,GINI,Total population,0.354,26.5,CPI2015,Total population,93.6
+1164,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2010,Total population,106.5482797
+1165,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2015,Total population,96.0
+1166,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2010,Total population,106.5482797
+1167,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2015,Total population,96.0
+1168,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2010,Total population,106.5482797
+1169,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2015,Total population,96.0
+1170,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2010,Total population,106.5482797
+1171,United Kingdom,2012,26.1,GINI,Total population,0.351,26.1,CPI2015,Total population,96.0
+1172,United Kingdom,2013,25.6,GINI,Total population,0.358,25.6,CPI2010,Total population,108.9900111
+1173,United Kingdom,2013,25.6,GINI,Total population,0.358,25.6,CPI2015,Total population,98.2
+1174,United Kingdom,2013,25.6,GINI,Total population,0.358,25.4,CPI2010,Total population,108.9900111
+1175,United Kingdom,2013,25.6,GINI,Total population,0.358,25.4,CPI2015,Total population,98.2
+1176,United Kingdom,2013,25.4,GINI,Total population,0.358,25.6,CPI2010,Total population,108.9900111
+1177,United Kingdom,2013,25.4,GINI,Total population,0.358,25.6,CPI2015,Total population,98.2
+1178,United Kingdom,2013,25.4,GINI,Total population,0.358,25.4,CPI2010,Total population,108.9900111
+1179,United Kingdom,2013,25.4,GINI,Total population,0.358,25.4,CPI2015,Total population,98.2
+1180,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2010,Total population,110.5438402
+1181,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2015,Total population,99.6
+1182,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2010,Total population,110.5438402
+1183,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2015,Total population,99.6
+1184,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2010,Total population,110.5438402
+1185,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2015,Total population,99.6
+1186,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2010,Total population,110.5438402
+1187,United Kingdom,2014,25.0,GINI,Total population,0.356,25.0,CPI2015,Total population,99.6
+1188,United Kingdom,2015,24.7,GINI,Total population,0.36,24.7,CPI2010,Total population,110.9877913
+1189,United Kingdom,2015,24.7,GINI,Total population,0.36,24.7,CPI2015,Total population,100.0
+1190,United Kingdom,2015,24.7,GINI,Total population,0.36,24.2,CPI2010,Total population,110.9877913
+1191,United Kingdom,2015,24.7,GINI,Total population,0.36,24.2,CPI2015,Total population,100.0
+1192,United Kingdom,2015,24.2,GINI,Total population,0.36,24.7,CPI2010,Total population,110.9877913
+1193,United Kingdom,2015,24.2,GINI,Total population,0.36,24.7,CPI2015,Total population,100.0
+1194,United Kingdom,2015,24.2,GINI,Total population,0.36,24.2,CPI2010,Total population,110.9877913
+1195,United Kingdom,2015,24.2,GINI,Total population,0.36,24.2,CPI2015,Total population,100.0
+1196,United Kingdom,2016,23.6,GINI,Total population,0.351,23.6,CPI2010,Total population,112.0976693
+1197,United Kingdom,2016,23.6,GINI,Total population,0.351,23.6,CPI2015,Total population,101.0
+1198,United Kingdom,2016,23.6,GINI,Total population,0.351,23.7,CPI2010,Total population,112.0976693
+1199,United Kingdom,2016,23.6,GINI,Total population,0.351,23.7,CPI2015,Total population,101.0
+1200,United Kingdom,2016,23.7,GINI,Total population,0.351,23.6,CPI2010,Total population,112.0976693
+1201,United Kingdom,2016,23.7,GINI,Total population,0.351,23.6,CPI2015,Total population,101.0
+1202,United Kingdom,2016,23.7,GINI,Total population,0.351,23.7,CPI2010,Total population,112.0976693
+1203,United Kingdom,2016,23.7,GINI,Total population,0.351,23.7,CPI2015,Total population,101.0
+1204,United Kingdom,2017,23.3,GINI,Total population,0.357,23.3,CPI2010,Total population,114.9833518
+1205,United Kingdom,2017,23.3,GINI,Total population,0.357,23.3,CPI2015,Total population,103.6
+1206,United Kingdom,2017,23.3,GINI,Total population,0.357,23.2,CPI2010,Total population,114.9833518
+1207,United Kingdom,2017,23.3,GINI,Total population,0.357,23.2,CPI2015,Total population,103.6
+1208,United Kingdom,2017,23.2,GINI,Total population,0.357,23.3,CPI2010,Total population,114.9833518
+1209,United Kingdom,2017,23.2,GINI,Total population,0.357,23.3,CPI2015,Total population,103.6
+1210,United Kingdom,2017,23.2,GINI,Total population,0.357,23.2,CPI2010,Total population,114.9833518
+1211,United Kingdom,2017,23.2,GINI,Total population,0.357,23.2,CPI2015,Total population,103.6
+1212,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2010,Total population,117.6470588
+1213,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2015,Total population,106.0
+1214,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2010,Total population,117.6470588
+1215,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2015,Total population,106.0
+1216,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2010,Total population,117.6470588
+1217,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2015,Total population,106.0
+1218,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2010,Total population,117.6470588
+1219,United Kingdom,2018,23.4,GINI,Total population,0.366,23.4,CPI2015,Total population,106.0
+1220,Australia,2010,18.4,GINI,Total population,0.3339999999999999,18.4,CPI2010,Total population,100.0
+1221,Australia,2010,18.4,GINI,Total population,0.3339999999999999,18.4,CPI2015,Total population,89.25005999999999
+1222,Australia,2012,18.2,GINI,Total population,0.326,18.2,CPI2010,Total population,105.1248705
+1223,Australia,2012,18.2,GINI,Total population,0.326,18.2,CPI2010,Total population,105.1248705
+1224,Australia,2012,18.2,GINI,Total population,0.326,18.2,CPI2015,Total population,93.82401
+1225,Australia,2012,18.2,GINI,Total population,0.326,18.2,CPI2015,Total population,93.82401
+1226,Australia,2012,18.2,GINI,Total population,0.324,18.2,CPI2010,Total population,105.1248705
+1227,Australia,2012,18.2,GINI,Total population,0.324,18.2,CPI2010,Total population,105.1248705
+1228,Australia,2012,18.2,GINI,Total population,0.324,18.2,CPI2015,Total population,93.82401
+1229,Australia,2012,18.2,GINI,Total population,0.324,18.2,CPI2015,Total population,93.82401
+1230,Australia,2014,15.1,GINI,Total population,0.337,15.1,CPI2010,Total population,110.3798138
+1231,Australia,2014,15.1,GINI,Total population,0.337,15.1,CPI2015,Total population,98.51405
+1232,Australia,2016,14.6,GINI,Total population,0.33,14.6,CPI2010,Total population,113.475554
+1233,Australia,2016,14.6,GINI,Total population,0.33,14.6,CPI2015,Total population,101.277
+1234,Australia,2018,13.7,GINI,Total population,0.325,13.7,CPI2010,Total population,117.898072
+1235,Australia,2018,13.7,GINI,Total population,0.325,13.7,CPI2015,Total population,105.2241
+1236,Netherlands,2009,19.1,GINI,Total population,0.283,19.1,CPI2010,Total population,98.74076801
+1237,Netherlands,2009,19.1,GINI,Total population,0.283,19.1,CPI2015,Total population,90.43584
+1238,Netherlands,2009,19.1,GINI,Total population,0.283,20.0,CPI2010,Total population,98.74076801
+1239,Netherlands,2009,19.1,GINI,Total population,0.283,20.0,CPI2015,Total population,90.43584
+1240,Netherlands,2009,20.0,GINI,Total population,0.283,19.1,CPI2010,Total population,98.74076801
+1241,Netherlands,2009,20.0,GINI,Total population,0.283,19.1,CPI2015,Total population,90.43584
+1242,Netherlands,2009,20.0,GINI,Total population,0.283,20.0,CPI2010,Total population,98.74076801
+1243,Netherlands,2009,20.0,GINI,Total population,0.283,20.0,CPI2015,Total population,90.43584
+1244,Netherlands,2010,18.6,GINI,Total population,0.283,18.6,CPI2010,Total population,100.0
+1245,Netherlands,2010,18.6,GINI,Total population,0.283,18.6,CPI2015,Total population,91.58916
+1246,Netherlands,2010,18.6,GINI,Total population,0.283,19.5,CPI2010,Total population,100.0
+1247,Netherlands,2010,18.6,GINI,Total population,0.283,19.5,CPI2015,Total population,91.58916
+1248,Netherlands,2010,19.5,GINI,Total population,0.283,18.6,CPI2010,Total population,100.0
+1249,Netherlands,2010,19.5,GINI,Total population,0.283,18.6,CPI2015,Total population,91.58916
+1250,Netherlands,2010,19.5,GINI,Total population,0.283,19.5,CPI2010,Total population,100.0
+1251,Netherlands,2010,19.5,GINI,Total population,0.283,19.5,CPI2015,Total population,91.58916
+1252,Netherlands,2011,18.4,GINI,Total population,0.289,18.4,CPI2010,Total population,102.341074
+1253,Netherlands,2011,18.4,GINI,Total population,0.289,18.4,CPI2015,Total population,93.73333
+1254,Netherlands,2011,18.4,GINI,Total population,0.289,19.3,CPI2010,Total population,102.341074
+1255,Netherlands,2011,18.4,GINI,Total population,0.289,19.3,CPI2015,Total population,93.73333
+1256,Netherlands,2011,19.3,GINI,Total population,0.289,18.4,CPI2010,Total population,102.341074
+1257,Netherlands,2011,19.3,GINI,Total population,0.289,18.4,CPI2015,Total population,93.73333
+1258,Netherlands,2011,19.3,GINI,Total population,0.289,19.3,CPI2010,Total population,102.341074
+1259,Netherlands,2011,19.3,GINI,Total population,0.289,19.3,CPI2015,Total population,93.73333
+1260,Netherlands,2012,17.9,GINI,Total population,0.288,17.9,CPI2010,Total population,104.8541116
+1261,Netherlands,2012,17.9,GINI,Total population,0.288,17.9,CPI2010,Total population,104.8541116
+1262,Netherlands,2012,17.9,GINI,Total population,0.288,17.9,CPI2015,Total population,96.035
+1263,Netherlands,2012,17.9,GINI,Total population,0.288,17.9,CPI2015,Total population,96.035
+1264,Netherlands,2012,17.9,GINI,Total population,0.288,18.8,CPI2010,Total population,104.8541116
+1265,Netherlands,2012,17.9,GINI,Total population,0.288,18.8,CPI2010,Total population,104.8541116
+1266,Netherlands,2012,17.9,GINI,Total population,0.288,18.8,CPI2015,Total population,96.035
+1267,Netherlands,2012,17.9,GINI,Total population,0.288,18.8,CPI2015,Total population,96.035
+1268,Netherlands,2012,17.9,GINI,Total population,0.278,17.9,CPI2010,Total population,104.8541116
+1269,Netherlands,2012,17.9,GINI,Total population,0.278,17.9,CPI2010,Total population,104.8541116
+1270,Netherlands,2012,17.9,GINI,Total population,0.278,17.9,CPI2015,Total population,96.035
+1271,Netherlands,2012,17.9,GINI,Total population,0.278,17.9,CPI2015,Total population,96.035
+1272,Netherlands,2012,17.9,GINI,Total population,0.278,18.8,CPI2010,Total population,104.8541116
+1273,Netherlands,2012,17.9,GINI,Total population,0.278,18.8,CPI2010,Total population,104.8541116
+1274,Netherlands,2012,17.9,GINI,Total population,0.278,18.8,CPI2015,Total population,96.035
+1275,Netherlands,2012,17.9,GINI,Total population,0.278,18.8,CPI2015,Total population,96.035
+1276,Netherlands,2012,18.8,GINI,Total population,0.288,17.9,CPI2010,Total population,104.8541116
+1277,Netherlands,2012,18.8,GINI,Total population,0.288,17.9,CPI2010,Total population,104.8541116
+1278,Netherlands,2012,18.8,GINI,Total population,0.288,17.9,CPI2015,Total population,96.035
+1279,Netherlands,2012,18.8,GINI,Total population,0.288,17.9,CPI2015,Total population,96.035
+1280,Netherlands,2012,18.8,GINI,Total population,0.288,18.8,CPI2010,Total population,104.8541116
+1281,Netherlands,2012,18.8,GINI,Total population,0.288,18.8,CPI2010,Total population,104.8541116
+1282,Netherlands,2012,18.8,GINI,Total population,0.288,18.8,CPI2015,Total population,96.035
+1283,Netherlands,2012,18.8,GINI,Total population,0.288,18.8,CPI2015,Total population,96.035
+1284,Netherlands,2012,18.8,GINI,Total population,0.278,17.9,CPI2010,Total population,104.8541116
+1285,Netherlands,2012,18.8,GINI,Total population,0.278,17.9,CPI2010,Total population,104.8541116
+1286,Netherlands,2012,18.8,GINI,Total population,0.278,17.9,CPI2015,Total population,96.035
+1287,Netherlands,2012,18.8,GINI,Total population,0.278,17.9,CPI2015,Total population,96.035
+1288,Netherlands,2012,18.8,GINI,Total population,0.278,18.8,CPI2010,Total population,104.8541116
+1289,Netherlands,2012,18.8,GINI,Total population,0.278,18.8,CPI2010,Total population,104.8541116
+1290,Netherlands,2012,18.8,GINI,Total population,0.278,18.8,CPI2015,Total population,96.035
+1291,Netherlands,2012,18.8,GINI,Total population,0.278,18.8,CPI2015,Total population,96.035
+1292,Netherlands,2013,17.8,GINI,Total population,0.287,17.8,CPI2010,Total population,107.4826977
+1293,Netherlands,2013,17.8,GINI,Total population,0.287,17.8,CPI2015,Total population,98.4425
+1294,Netherlands,2013,17.8,GINI,Total population,0.287,18.2,CPI2010,Total population,107.4826977
+1295,Netherlands,2013,17.8,GINI,Total population,0.287,18.2,CPI2015,Total population,98.4425
+1296,Netherlands,2013,18.2,GINI,Total population,0.287,17.8,CPI2010,Total population,107.4826977
+1297,Netherlands,2013,18.2,GINI,Total population,0.287,17.8,CPI2015,Total population,98.4425
+1298,Netherlands,2013,18.2,GINI,Total population,0.287,18.2,CPI2010,Total population,107.4826977
+1299,Netherlands,2013,18.2,GINI,Total population,0.287,18.2,CPI2015,Total population,98.4425
+1300,Turkey,2013,6.3,GINI,Total population,0.39,6.3,CPI2010,Total population,124.6263037
+1301,Turkey,2013,6.3,GINI,Total population,0.39,6.3,CPI2015,Total population,85.32085
+1302,Turkey,2014,6.9,GINI,Total population,0.3979999999999999,6.9,CPI2010,Total population,135.6614352
+1303,Turkey,2014,6.9,GINI,Total population,0.3979999999999999,6.9,CPI2015,Total population,92.87565
+1304,Turkey,2015,8.0,GINI,Total population,0.4039999999999999,8.0,CPI2010,Total population,146.0678178
+1305,Turkey,2015,8.0,GINI,Total population,0.4039999999999999,8.0,CPI2015,Total population,100.0
+1306,Greece,2010,22.2,GINI,Total population,0.336,22.2,CPI2010,Total population,100.0
+1307,Greece,2010,22.2,GINI,Total population,0.336,22.2,CPI2010,Total population,100.0
+1308,Greece,2010,22.2,GINI,Total population,0.336,22.2,CPI2015,Total population,99.23457
+1309,Greece,2010,22.2,GINI,Total population,0.336,22.2,CPI2015,Total population,99.23457
+1310,Greece,2010,22.2,GINI,Total population,0.337,22.2,CPI2010,Total population,100.0
+1311,Greece,2010,22.2,GINI,Total population,0.337,22.2,CPI2010,Total population,100.0
+1312,Greece,2010,22.2,GINI,Total population,0.337,22.2,CPI2015,Total population,99.23457
+1313,Greece,2010,22.2,GINI,Total population,0.337,22.2,CPI2015,Total population,99.23457
+1314,Greece,2013,23.1,GINI,Total population,0.342,23.1,CPI2010,Total population,103.9141904
+1315,Greece,2013,23.1,GINI,Total population,0.342,23.1,CPI2010,Total population,103.9141904
+1316,Greece,2013,23.1,GINI,Total population,0.342,23.1,CPI2015,Total population,103.1188
+1317,Greece,2013,23.1,GINI,Total population,0.342,23.1,CPI2015,Total population,103.1188
+1318,Greece,2013,23.1,GINI,Total population,0.3429999999999999,23.1,CPI2010,Total population,103.9141904
+1319,Greece,2013,23.1,GINI,Total population,0.3429999999999999,23.1,CPI2010,Total population,103.9141904
+1320,Greece,2013,23.1,GINI,Total population,0.3429999999999999,23.1,CPI2015,Total population,103.1188
+1321,Greece,2013,23.1,GINI,Total population,0.3429999999999999,23.1,CPI2015,Total population,103.1188
+1322,Greece,2016,20.2,GINI,Total population,0.3329999999999999,20.2,CPI2010,Total population,99.93930543
+1323,Greece,2016,20.2,GINI,Total population,0.3329999999999999,20.2,CPI2015,Total population,99.17434
+1324,Austria,2009,29.3,GINI,Total population,0.289,29.3,CPI2010,Total population,98.21877059999998
+1325,Austria,2009,29.3,GINI,Total population,0.289,29.3,CPI2015,Total population,88.74172
+1326,Austria,2010,28.9,GINI,Total population,0.28,28.9,CPI2010,Total population,100.0
+1327,Austria,2010,28.9,GINI,Total population,0.28,28.9,CPI2015,Total population,90.35108
+1328,Austria,2011,28.3,GINI,Total population,0.281,28.3,CPI2010,Total population,103.2865905
+1329,Austria,2011,28.3,GINI,Total population,0.281,28.3,CPI2015,Total population,93.32055
+1330,Austria,2012,28.0,GINI,Total population,0.276,28.0,CPI2010,Total population,105.8539533
+1331,Austria,2012,28.0,GINI,Total population,0.276,28.0,CPI2015,Total population,95.64019
+1332,Austria,2013,27.8,GINI,Total population,0.28,27.8,CPI2010,Total population,107.9712052
+1333,Austria,2013,27.8,GINI,Total population,0.28,27.8,CPI2015,Total population,97.55315
+1334,Austria,2014,27.7,GINI,Total population,0.2739999999999999,27.7,CPI2010,Total population,109.7050085
+1335,Austria,2014,27.7,GINI,Total population,0.2739999999999999,27.7,CPI2015,Total population,99.11966
+1336,Austria,2015,27.4,GINI,Total population,0.275,27.4,CPI2010,Total population,110.6885496
+1337,Austria,2015,27.4,GINI,Total population,0.275,27.4,CPI2015,Total population,100.0083
+1338,Austria,2016,26.9,GINI,Total population,0.284,26.9,CPI2010,Total population,111.6754775
+1339,Austria,2016,26.9,GINI,Total population,0.284,26.9,CPI2015,Total population,100.9
+1340,Austria,2017,26.7,GINI,Total population,0.275,26.7,CPI2010,Total population,113.9997441
+1341,Austria,2017,26.7,GINI,Total population,0.275,26.7,CPI2015,Total population,103.0
+1342,Austria,2018,26.3,GINI,Total population,0.28,26.3,CPI2010,Total population,116.2778574
+1343,Austria,2018,26.3,GINI,Total population,0.28,26.3,CPI2015,Total population,105.0583
+1344,Denmark,2009,67.7,GINI,Total population,0.238,67.7,CPI2010,Total population,97.74126604
+1345,Denmark,2009,67.7,GINI,Total population,0.238,67.7,CPI2015,Total population,91.23333
+1346,Denmark,2010,67.2,GINI,Total population,0.252,67.2,CPI2010,Total population,100.0
+1347,Denmark,2010,67.2,GINI,Total population,0.252,67.2,CPI2015,Total population,93.34167
+1348,Denmark,2011,67.8,GINI,Total population,0.251,67.8,CPI2010,Total population,102.7586714
+1349,Denmark,2011,67.8,GINI,Total population,0.251,67.8,CPI2010,Total population,102.7586714
+1350,Denmark,2011,67.8,GINI,Total population,0.251,67.8,CPI2015,Total population,95.91666
+1351,Denmark,2011,67.8,GINI,Total population,0.251,67.8,CPI2015,Total population,95.91666
+1352,Denmark,2011,67.8,GINI,Total population,0.253,67.8,CPI2010,Total population,102.7586714
+1353,Denmark,2011,67.8,GINI,Total population,0.253,67.8,CPI2010,Total population,102.7586714
+1354,Denmark,2011,67.8,GINI,Total population,0.253,67.8,CPI2015,Total population,95.91666
+1355,Denmark,2011,67.8,GINI,Total population,0.253,67.8,CPI2015,Total population,95.91666
+1356,Denmark,2012,68.0,GINI,Total population,0.249,68.0,CPI2010,Total population,105.2227478
+1357,Denmark,2012,68.0,GINI,Total population,0.249,68.0,CPI2015,Total population,98.21667
+1358,Denmark,2013,67.8,GINI,Total population,0.254,67.8,CPI2010,Total population,106.0530308
+1359,Denmark,2013,67.8,GINI,Total population,0.254,67.8,CPI2015,Total population,98.99167
+1360,Denmark,2014,67.4,GINI,Total population,0.256,67.4,CPI2010,Total population,106.651188
+1361,Denmark,2014,67.4,GINI,Total population,0.256,67.4,CPI2015,Total population,99.55
+1362,Denmark,2015,67.1,GINI,Total population,0.263,67.1,CPI2010,Total population,107.1332878
+1363,Denmark,2015,67.1,GINI,Total population,0.263,67.1,CPI2015,Total population,100.0
+1364,Denmark,2016,65.5,GINI,Total population,0.261,65.5,CPI2010,Total population,107.40112109999998
+1365,Denmark,2016,65.5,GINI,Total population,0.261,65.5,CPI2015,Total population,100.25
+1366,Denmark,2017,66.1,GINI,Total population,0.264,66.1,CPI2010,Total population,108.6331539
+1367,Denmark,2017,66.1,GINI,Total population,0.264,66.1,CPI2015,Total population,101.4
+1368,Estonia,2018,4.3,GINI,Total population,0.305,4.3,CPI2010,Total population,119.4227044
+1369,Estonia,2018,4.3,GINI,Total population,0.305,4.3,CPI2015,Total population,107.13
+1370,Slovak Republic,2009,16.0,GINI,Total population,0.267,16.0,CPI2010,Total population,99.05205581
+1371,Slovak Republic,2009,16.0,GINI,Total population,0.267,16.0,CPI2010,Total population,99.05205581
+1372,Slovak Republic,2009,16.0,GINI,Total population,0.267,16.0,CPI2015,Total population,91.09355
+1373,Slovak Republic,2009,16.0,GINI,Total population,0.267,16.0,CPI2015,Total population,91.09355
+1374,Slovak Republic,2009,16.0,GINI,Total population,0.263,16.0,CPI2010,Total population,99.05205581
+1375,Slovak Republic,2009,16.0,GINI,Total population,0.263,16.0,CPI2010,Total population,99.05205581
+1376,Slovak Republic,2009,16.0,GINI,Total population,0.263,16.0,CPI2015,Total population,91.09355
+1377,Slovak Republic,2009,16.0,GINI,Total population,0.263,16.0,CPI2015,Total population,91.09355
+1378,Slovak Republic,2010,15.2,GINI,Total population,0.265,15.2,CPI2010,Total population,100.0
+1379,Slovak Republic,2010,15.2,GINI,Total population,0.265,15.2,CPI2010,Total population,100.0
+1380,Slovak Republic,2010,15.2,GINI,Total population,0.265,15.2,CPI2015,Total population,91.96533
+1381,Slovak Republic,2010,15.2,GINI,Total population,0.265,15.2,CPI2015,Total population,91.96533
+1382,Slovak Republic,2010,15.2,GINI,Total population,0.262,15.2,CPI2010,Total population,100.0
+1383,Slovak Republic,2010,15.2,GINI,Total population,0.262,15.2,CPI2010,Total population,100.0
+1384,Slovak Republic,2010,15.2,GINI,Total population,0.262,15.2,CPI2015,Total population,91.96533
+1385,Slovak Republic,2010,15.2,GINI,Total population,0.262,15.2,CPI2015,Total population,91.96533
+1386,Slovak Republic,2011,14.1,GINI,Total population,0.262,14.1,CPI2010,Total population,103.9192922
+1387,Slovak Republic,2011,14.1,GINI,Total population,0.262,14.1,CPI2010,Total population,103.9192922
+1388,Slovak Republic,2011,14.1,GINI,Total population,0.262,14.1,CPI2015,Total population,95.56972
+1389,Slovak Republic,2011,14.1,GINI,Total population,0.262,14.1,CPI2015,Total population,95.56972
+1390,Slovak Republic,2011,14.1,GINI,Total population,0.261,14.1,CPI2010,Total population,103.9192922
+1391,Slovak Republic,2011,14.1,GINI,Total population,0.261,14.1,CPI2010,Total population,103.9192922
+1392,Slovak Republic,2011,14.1,GINI,Total population,0.261,14.1,CPI2015,Total population,95.56972
+1393,Slovak Republic,2011,14.1,GINI,Total population,0.261,14.1,CPI2015,Total population,95.56972
+1394,Slovak Republic,2012,13.6,GINI,Total population,0.251,13.6,CPI2010,Total population,107.6667261
+1395,Slovak Republic,2012,13.6,GINI,Total population,0.251,13.6,CPI2010,Total population,107.6667261
+1396,Slovak Republic,2012,13.6,GINI,Total population,0.251,13.6,CPI2015,Total population,99.01606
+1397,Slovak Republic,2012,13.6,GINI,Total population,0.251,13.6,CPI2015,Total population,99.01606
+1398,Slovak Republic,2012,13.6,GINI,Total population,0.249,13.6,CPI2010,Total population,107.6667261
+1399,Slovak Republic,2012,13.6,GINI,Total population,0.249,13.6,CPI2010,Total population,107.6667261
+1400,Slovak Republic,2012,13.6,GINI,Total population,0.249,13.6,CPI2015,Total population,99.01606
+1401,Slovak Republic,2012,13.6,GINI,Total population,0.249,13.6,CPI2015,Total population,99.01606
+1402,Slovak Republic,2013,13.3,GINI,Total population,0.27,13.3,CPI2010,Total population,109.1746205
+1403,Slovak Republic,2013,13.3,GINI,Total population,0.27,13.3,CPI2010,Total population,109.1746205
+1404,Slovak Republic,2013,13.3,GINI,Total population,0.27,13.3,CPI2015,Total population,100.4028
+1405,Slovak Republic,2013,13.3,GINI,Total population,0.27,13.3,CPI2015,Total population,100.4028
+1406,Slovak Republic,2013,13.3,GINI,Total population,0.268,13.3,CPI2010,Total population,109.1746205
+1407,Slovak Republic,2013,13.3,GINI,Total population,0.268,13.3,CPI2010,Total population,109.1746205
+1408,Slovak Republic,2013,13.3,GINI,Total population,0.268,13.3,CPI2015,Total population,100.4028
+1409,Slovak Republic,2013,13.3,GINI,Total population,0.268,13.3,CPI2015,Total population,100.4028
+1410,Slovak Republic,2014,12.8,GINI,Total population,0.247,12.8,CPI2010,Total population,109.091437
+1411,Slovak Republic,2014,12.8,GINI,Total population,0.247,12.8,CPI2015,Total population,100.3263
+1412,Slovak Republic,2015,11.7,GINI,Total population,0.25,11.7,CPI2010,Total population,108.7366293
+1413,Slovak Republic,2015,11.7,GINI,Total population,0.25,11.7,CPI2015,Total population,100.0
+1414,Slovak Republic,2016,10.7,GINI,Total population,0.241,10.7,CPI2010,Total population,108.171188
+1415,Slovak Republic,2016,10.7,GINI,Total population,0.241,10.7,CPI2015,Total population,99.47999
+1416,Slovenia,2009,37.1,GINI,Total population,0.245,37.1,CPI2010,Total population,98.23069792
+1417,Slovenia,2009,37.1,GINI,Total population,0.245,37.1,CPI2010,Total population,98.23069792
+1418,Slovenia,2009,37.1,GINI,Total population,0.245,37.1,CPI2015,Total population,92.7175
+1419,Slovenia,2009,37.1,GINI,Total population,0.245,37.1,CPI2015,Total population,92.7175
+1420,Slovenia,2009,37.1,GINI,Total population,0.247,37.1,CPI2010,Total population,98.23069792
+1421,Slovenia,2009,37.1,GINI,Total population,0.247,37.1,CPI2010,Total population,98.23069792
+1422,Slovenia,2009,37.1,GINI,Total population,0.247,37.1,CPI2015,Total population,92.7175
+1423,Slovenia,2009,37.1,GINI,Total population,0.247,37.1,CPI2015,Total population,92.7175
+1424,Slovenia,2010,29.6,GINI,Total population,0.245,29.6,CPI2010,Total population,100.0
+1425,Slovenia,2010,29.6,GINI,Total population,0.245,29.6,CPI2010,Total population,100.0
+1426,Slovenia,2010,29.6,GINI,Total population,0.245,29.6,CPI2015,Total population,94.3875
+1427,Slovenia,2010,29.6,GINI,Total population,0.245,29.6,CPI2015,Total population,94.3875
+1428,Slovenia,2010,29.6,GINI,Total population,0.246,29.6,CPI2010,Total population,100.0
+1429,Slovenia,2010,29.6,GINI,Total population,0.246,29.6,CPI2010,Total population,100.0
+1430,Slovenia,2010,29.6,GINI,Total population,0.246,29.6,CPI2015,Total population,94.3875
+1431,Slovenia,2010,29.6,GINI,Total population,0.246,29.6,CPI2015,Total population,94.3875
+1432,Slovenia,2011,33.1,GINI,Total population,0.243,33.1,CPI2010,Total population,101.8028447
+1433,Slovenia,2011,33.1,GINI,Total population,0.243,33.1,CPI2010,Total population,101.8028447
+1434,Slovenia,2011,33.1,GINI,Total population,0.243,33.1,CPI2015,Total population,96.08916
+1435,Slovenia,2011,33.1,GINI,Total population,0.243,33.1,CPI2015,Total population,96.08916
+1436,Slovenia,2011,33.1,GINI,Total population,0.245,33.1,CPI2010,Total population,101.8028447
+1437,Slovenia,2011,33.1,GINI,Total population,0.245,33.1,CPI2010,Total population,101.8028447
+1438,Slovenia,2011,33.1,GINI,Total population,0.245,33.1,CPI2015,Total population,96.08916
+1439,Slovenia,2011,33.1,GINI,Total population,0.245,33.1,CPI2015,Total population,96.08916
+1440,Slovenia,2012,23.9,GINI,Total population,0.249,23.9,CPI2010,Total population,104.4470931
+1441,Slovenia,2012,23.9,GINI,Total population,0.249,23.9,CPI2010,Total population,104.4470931
+1442,Slovenia,2012,23.9,GINI,Total population,0.249,23.9,CPI2015,Total population,98.585
+1443,Slovenia,2012,23.9,GINI,Total population,0.249,23.9,CPI2015,Total population,98.585
+1444,Slovenia,2012,23.9,GINI,Total population,0.251,23.9,CPI2010,Total population,104.4470931
+1445,Slovenia,2012,23.9,GINI,Total population,0.251,23.9,CPI2010,Total population,104.4470931
+1446,Slovenia,2012,23.9,GINI,Total population,0.251,23.9,CPI2015,Total population,98.585
+1447,Slovenia,2012,23.9,GINI,Total population,0.251,23.9,CPI2015,Total population,98.585
+1448,Slovenia,2013,23.2,GINI,Total population,0.254,23.2,CPI2010,Total population,106.29500729999998
+1449,Slovenia,2013,23.2,GINI,Total population,0.254,23.2,CPI2010,Total population,106.29500729999998
+1450,Slovenia,2013,23.2,GINI,Total population,0.254,23.2,CPI2015,Total population,100.3292
+1451,Slovenia,2013,23.2,GINI,Total population,0.254,23.2,CPI2015,Total population,100.3292
+1452,Slovenia,2013,23.2,GINI,Total population,0.255,23.2,CPI2010,Total population,106.29500729999998
+1453,Slovenia,2013,23.2,GINI,Total population,0.255,23.2,CPI2010,Total population,106.29500729999998
+1454,Slovenia,2013,23.2,GINI,Total population,0.255,23.2,CPI2015,Total population,100.3292
+1455,Slovenia,2013,23.2,GINI,Total population,0.255,23.2,CPI2015,Total population,100.3292
+1456,Slovenia,2014,26.4,GINI,Total population,0.251,26.4,CPI2010,Total population,106.5068997
+1457,Slovenia,2014,26.4,GINI,Total population,0.251,26.4,CPI2015,Total population,100.5292
+1458,Slovenia,2015,20.9,GINI,Total population,0.25,20.9,CPI2010,Total population,105.9470799
+1459,Slovenia,2015,20.9,GINI,Total population,0.25,20.9,CPI2015,Total population,100.0008
+1460,Slovenia,2016,20.4,GINI,Total population,0.244,20.4,CPI2010,Total population,105.8888412
+1461,Slovenia,2016,20.4,GINI,Total population,0.244,20.4,CPI2015,Total population,99.94583
+1462,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2010,Total population,100.7252007
+1463,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2010,Total population,100.7252007
+1464,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2015,Total population,97.225
+1465,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2015,Total population,97.225
+1466,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2010,Total population,100.7252007
+1467,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2010,Total population,100.7252007
+1468,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2015,Total population,97.225
+1469,Japan,2009,18.4,GINI,Total population,0.336,18.4,CPI2015,Total population,97.225
+1470,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2010,Total population,99.6805698
+1471,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2010,Total population,99.6805698
+1472,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2015,Total population,96.21667
+1473,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2015,Total population,96.21667
+1474,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2010,Total population,99.6805698
+1475,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2010,Total population,99.6805698
+1476,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2015,Total population,96.21667
+1477,Japan,2012,17.9,GINI,Total population,0.33,17.9,CPI2015,Total population,96.21667
+1478,Japan,2015,17.4,GINI,Total population,0.3389999999999999,17.4,CPI2010,Total population,103.6001036
+1479,Japan,2015,17.4,GINI,Total population,0.3389999999999999,17.4,CPI2015,Total population,100.0
+1480,Hungary,2012,11.8,GINI,Total population,0.2789999999999999,11.8,CPI2010,Total population,109.8042007
+1481,Hungary,2012,11.8,GINI,Total population,0.2789999999999999,11.8,CPI2010,Total population,109.8042007
+1482,Hungary,2012,11.8,GINI,Total population,0.2789999999999999,11.8,CPI2015,Total population,98.5813
+1483,Hungary,2012,11.8,GINI,Total population,0.2789999999999999,11.8,CPI2015,Total population,98.5813
+1484,Hungary,2012,11.8,GINI,Total population,0.29,11.8,CPI2010,Total population,109.8042007
+1485,Hungary,2012,11.8,GINI,Total population,0.29,11.8,CPI2010,Total population,109.8042007
+1486,Hungary,2012,11.8,GINI,Total population,0.29,11.8,CPI2015,Total population,98.5813
+1487,Hungary,2012,11.8,GINI,Total population,0.29,11.8,CPI2015,Total population,98.5813
+1488,Hungary,2013,11.1,GINI,Total population,0.286,11.1,CPI2010,Total population,111.7073147
+1489,Hungary,2013,11.1,GINI,Total population,0.286,11.1,CPI2015,Total population,100.2899
+1490,Hungary,2014,10.2,GINI,Total population,0.281,10.2,CPI2010,Total population,111.4531355
+1491,Hungary,2014,10.2,GINI,Total population,0.281,10.2,CPI2015,Total population,100.0617
+1492,Hungary,2016,8.5,GINI,Total population,0.28,8.5,CPI2010,Total population,111.824157
+1493,Hungary,2016,8.5,GINI,Total population,0.28,8.5,CPI2015,Total population,100.3948
+1494,Hungary,2017,8.1,GINI,Total population,0.289,8.1,CPI2010,Total population,114.4500445
+1495,Hungary,2017,8.1,GINI,Total population,0.289,8.1,CPI2015,Total population,102.7523
+1496,Hungary,2018,7.9,GINI,Total population,0.313,7.9,CPI2010,Total population,117.7121597
+1497,Hungary,2018,7.9,GINI,Total population,0.313,7.9,CPI2015,Total population,105.681
+1498,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2010,Total population,94.87960241
+1499,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2010,Total population,94.87960241
+1500,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2015,Total population,80.51058
+1501,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2015,Total population,80.51058
+1502,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2010,Total population,94.87960241
+1503,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2010,Total population,94.87960241
+1504,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2015,Total population,80.51058
+1505,Iceland,2009,84.9,GINI,Total population,0.266,84.9,CPI2015,Total population,80.51058
+1506,Iceland,2010,85.2,GINI,Total population,0.248,85.2,CPI2010,Total population,100.0
+1507,Iceland,2010,85.2,GINI,Total population,0.248,85.2,CPI2010,Total population,100.0
+1508,Iceland,2010,85.2,GINI,Total population,0.248,85.2,CPI2015,Total population,84.85552
+1509,Iceland,2010,85.2,GINI,Total population,0.248,85.2,CPI2015,Total population,84.85552
+1510,Iceland,2010,85.2,GINI,Total population,0.245,85.2,CPI2010,Total population,100.0
+1511,Iceland,2010,85.2,GINI,Total population,0.245,85.2,CPI2010,Total population,100.0
+1512,Iceland,2010,85.2,GINI,Total population,0.245,85.2,CPI2015,Total population,84.85552
+1513,Iceland,2010,85.2,GINI,Total population,0.245,85.2,CPI2015,Total population,84.85552
+1514,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2010,Total population,109.3944154
+1515,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2010,Total population,109.3944154
+1516,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2015,Total population,92.8272
+1517,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2015,Total population,92.8272
+1518,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2010,Total population,109.3944154
+1519,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2010,Total population,109.3944154
+1520,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2015,Total population,92.8272
+1521,Iceland,2012,85.3,GINI,Total population,0.252,85.3,CPI2015,Total population,92.8272
+1522,Iceland,2014,90.4,GINI,Total population,0.246,90.4,CPI2010,Total population,115.9537765
+1523,Iceland,2014,90.4,GINI,Total population,0.246,90.4,CPI2015,Total population,98.39318
+1524,Iceland,2017,91.0,GINI,Total population,0.25,91.0,CPI2010,Total population,121.9569452
+1525,Iceland,2017,91.0,GINI,Total population,0.25,91.0,CPI2015,Total population,103.4872
+1526,Mexico,2012,14.0,GINI,Total population,0.457,14.0,CPI2010,Total population,107.6589765
+1527,Mexico,2012,14.0,GINI,Total population,0.457,14.0,CPI2010,Total population,107.6589765
+1528,Mexico,2012,14.0,GINI,Total population,0.457,14.0,CPI2015,Total population,90.15859
+1529,Mexico,2012,14.0,GINI,Total population,0.457,14.0,CPI2015,Total population,90.15859
+1530,Mexico,2012,14.0,GINI,Total population,0.482,14.0,CPI2010,Total population,107.6589765
+1531,Mexico,2012,14.0,GINI,Total population,0.482,14.0,CPI2010,Total population,107.6589765
+1532,Mexico,2012,14.0,GINI,Total population,0.482,14.0,CPI2015,Total population,90.15859
+1533,Mexico,2012,14.0,GINI,Total population,0.482,14.0,CPI2015,Total population,90.15859
+1534,Mexico,2014,13.6,GINI,Total population,0.4589999999999999,13.6,CPI2010,Total population,116.247983
+1535,Mexico,2014,13.6,GINI,Total population,0.4589999999999999,13.6,CPI2015,Total population,97.35142
+1536,Mexico,2016,12.7,GINI,Total population,0.4579999999999999,12.7,CPI2010,Total population,122.780081
+1537,Mexico,2016,12.7,GINI,Total population,0.4579999999999999,12.7,CPI2015,Total population,102.8217
+1538,Czech Republic,2009,16.7,GINI,Total population,0.257,16.7,CPI2010,Total population,98.5486365
+1539,Czech Republic,2009,16.7,GINI,Total population,0.257,16.7,CPI2010,Total population,98.5486365
+1540,Czech Republic,2009,16.7,GINI,Total population,0.257,16.7,CPI2015,Total population,91.66666
+1541,Czech Republic,2009,16.7,GINI,Total population,0.257,16.7,CPI2015,Total population,91.66666
+1542,Czech Republic,2009,16.7,GINI,Total population,0.258,16.7,CPI2010,Total population,98.5486365
+1543,Czech Republic,2009,16.7,GINI,Total population,0.258,16.7,CPI2010,Total population,98.5486365
+1544,Czech Republic,2009,16.7,GINI,Total population,0.258,16.7,CPI2015,Total population,91.66666
+1545,Czech Republic,2009,16.7,GINI,Total population,0.258,16.7,CPI2015,Total population,91.66666
+1546,Czech Republic,2010,16.1,GINI,Total population,0.26,16.1,CPI2010,Total population,100.0
+1547,Czech Republic,2010,16.1,GINI,Total population,0.26,16.1,CPI2010,Total population,100.0
+1548,Czech Republic,2010,16.1,GINI,Total population,0.26,16.1,CPI2015,Total population,93.01667
+1549,Czech Republic,2010,16.1,GINI,Total population,0.26,16.1,CPI2015,Total population,93.01667
+1550,Czech Republic,2010,16.1,GINI,Total population,0.258,16.1,CPI2010,Total population,100.0
+1551,Czech Republic,2010,16.1,GINI,Total population,0.258,16.1,CPI2010,Total population,100.0
+1552,Czech Republic,2010,16.1,GINI,Total population,0.258,16.1,CPI2015,Total population,93.01667
+1553,Czech Republic,2010,16.1,GINI,Total population,0.258,16.1,CPI2015,Total population,93.01667
+1554,Czech Republic,2011,15.4,GINI,Total population,0.257,15.4,CPI2010,Total population,101.9172155
+1555,Czech Republic,2011,15.4,GINI,Total population,0.257,15.4,CPI2010,Total population,101.9172155
+1556,Czech Republic,2011,15.4,GINI,Total population,0.257,15.4,CPI2015,Total population,94.8
+1557,Czech Republic,2011,15.4,GINI,Total population,0.257,15.4,CPI2015,Total population,94.8
+1558,Czech Republic,2011,15.4,GINI,Total population,0.256,15.4,CPI2010,Total population,101.9172155
+1559,Czech Republic,2011,15.4,GINI,Total population,0.256,15.4,CPI2010,Total population,101.9172155
+1560,Czech Republic,2011,15.4,GINI,Total population,0.256,15.4,CPI2015,Total population,94.8
+1561,Czech Republic,2011,15.4,GINI,Total population,0.256,15.4,CPI2015,Total population,94.8
+1562,Czech Republic,2012,14.8,GINI,Total population,0.254,14.8,CPI2010,Total population,105.2678622
+1563,Czech Republic,2012,14.8,GINI,Total population,0.254,14.8,CPI2010,Total population,105.2678622
+1564,Czech Republic,2012,14.8,GINI,Total population,0.254,14.8,CPI2015,Total population,97.91666
+1565,Czech Republic,2012,14.8,GINI,Total population,0.254,14.8,CPI2015,Total population,97.91666
+1566,Czech Republic,2012,14.8,GINI,Total population,0.252,14.8,CPI2010,Total population,105.2678622
+1567,Czech Republic,2012,14.8,GINI,Total population,0.252,14.8,CPI2010,Total population,105.2678622
+1568,Czech Republic,2012,14.8,GINI,Total population,0.252,14.8,CPI2015,Total population,97.91666
+1569,Czech Republic,2012,14.8,GINI,Total population,0.252,14.8,CPI2015,Total population,97.91666
+1570,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2010,Total population,106.7819349
+1571,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2010,Total population,106.7819349
+1572,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2015,Total population,99.325
+1573,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2015,Total population,99.325
+1574,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2010,Total population,106.7819349
+1575,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2010,Total population,106.7819349
+1576,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2015,Total population,99.325
+1577,Czech Republic,2013,13.6,GINI,Total population,0.259,13.6,CPI2015,Total population,99.325
+1578,Czech Republic,2014,12.9,GINI,Total population,0.257,12.9,CPI2010,Total population,107.1492454
+1579,Czech Republic,2014,12.9,GINI,Total population,0.257,12.9,CPI2015,Total population,99.66666
+1580,Czech Republic,2015,12.0,GINI,Total population,0.258,12.0,CPI2010,Total population,107.4807344
+1581,Czech Republic,2015,12.0,GINI,Total population,0.258,12.0,CPI2015,Total population,99.975
+1582,Czech Republic,2016,12.0,GINI,Total population,0.253,12.0,CPI2010,Total population,108.21533390000002
+1583,Czech Republic,2016,12.0,GINI,Total population,0.253,12.0,CPI2015,Total population,100.6583
+1584,Czech Republic,2017,11.7,GINI,Total population,0.249,11.7,CPI2010,Total population,110.8672241
+1585,Czech Republic,2017,11.7,GINI,Total population,0.249,11.7,CPI2015,Total population,103.125
+1586,Czech Republic,2018,11.5,GINI,Total population,0.249,11.5,CPI2010,Total population,113.2503453
+1587,Czech Republic,2018,11.5,GINI,Total population,0.249,11.5,CPI2015,Total population,105.3417
+1588,Sweden,2018,64.9,GINI,Total population,0.275,64.9,CPI2010,Total population,108.57214009999998
+1589,Sweden,2018,64.9,GINI,Total population,0.275,64.9,CPI2015,Total population,104.8046
+1590,Germany,2009,18.8,GINI,Total population,0.288,18.8,CPI2010,Total population,98.90824061
+1591,Germany,2009,18.8,GINI,Total population,0.288,18.8,CPI2015,Total population,92.26585
+1592,Germany,2010,18.9,GINI,Total population,0.286,18.9,CPI2010,Total population,100.0
+1593,Germany,2010,18.9,GINI,Total population,0.286,18.9,CPI2015,Total population,93.28429
+1594,Germany,2011,18.4,GINI,Total population,0.291,18.4,CPI2010,Total population,102.0751726
+1595,Germany,2011,18.4,GINI,Total population,0.291,18.4,CPI2010,Total population,102.0751726
+1596,Germany,2011,18.4,GINI,Total population,0.291,18.4,CPI2015,Total population,95.2201
+1597,Germany,2011,18.4,GINI,Total population,0.291,18.4,CPI2015,Total population,95.2201
+1598,Germany,2011,18.4,GINI,Total population,0.293,18.4,CPI2010,Total population,102.0751726
+1599,Germany,2011,18.4,GINI,Total population,0.293,18.4,CPI2010,Total population,102.0751726
+1600,Germany,2011,18.4,GINI,Total population,0.293,18.4,CPI2015,Total population,95.2201
+1601,Germany,2011,18.4,GINI,Total population,0.293,18.4,CPI2015,Total population,95.2201
+1602,Germany,2012,18.3,GINI,Total population,0.289,18.3,CPI2010,Total population,104.1253356
+1603,Germany,2012,18.3,GINI,Total population,0.289,18.3,CPI2015,Total population,97.13258
+1604,Germany,2013,18.0,GINI,Total population,0.292,18.0,CPI2010,Total population,105.6921374
+1605,Germany,2013,18.0,GINI,Total population,0.292,18.0,CPI2015,Total population,98.59416
+1606,Germany,2014,17.7,GINI,Total population,0.289,17.7,CPI2010,Total population,106.6505518
+1607,Germany,2014,17.7,GINI,Total population,0.289,17.7,CPI2015,Total population,99.48821
+1608,Germany,2015,17.6,GINI,Total population,0.293,17.6,CPI2010,Total population,107.1991865
+1609,Germany,2015,17.6,GINI,Total population,0.293,17.6,CPI2015,Total population,100.0
+1610,Germany,2016,17.0,GINI,Total population,0.294,17.0,CPI2010,Total population,107.7262849
+1611,Germany,2016,17.0,GINI,Total population,0.294,17.0,CPI2015,Total population,100.4917
+1612,Germany,2017,16.7,GINI,Total population,0.289,16.7,CPI2010,Total population,109.35249650000002
+1613,Germany,2017,16.7,GINI,Total population,0.289,16.7,CPI2015,Total population,102.0087
+1614,Portugal,2010,19.6,GINI,Total population,0.341,19.6,CPI2010,Total population,100.0
+1615,Portugal,2010,19.6,GINI,Total population,0.341,19.6,CPI2010,Total population,100.0
+1616,Portugal,2010,19.6,GINI,Total population,0.341,19.6,CPI2015,Total population,93.42072
+1617,Portugal,2010,19.6,GINI,Total population,0.341,19.6,CPI2015,Total population,93.42072
+1618,Portugal,2010,19.6,GINI,Total population,0.345,19.6,CPI2010,Total population,100.0
+1619,Portugal,2010,19.6,GINI,Total population,0.345,19.6,CPI2010,Total population,100.0
+1620,Portugal,2010,19.6,GINI,Total population,0.345,19.6,CPI2015,Total population,93.42072
+1621,Portugal,2010,19.6,GINI,Total population,0.345,19.6,CPI2015,Total population,93.42072
+1622,Portugal,2011,18.7,GINI,Total population,0.337,18.7,CPI2010,Total population,103.6530119
+1623,Portugal,2011,18.7,GINI,Total population,0.337,18.7,CPI2010,Total population,103.6530119
+1624,Portugal,2011,18.7,GINI,Total population,0.337,18.7,CPI2015,Total population,96.83339
+1625,Portugal,2011,18.7,GINI,Total population,0.337,18.7,CPI2015,Total population,96.83339
+1626,Portugal,2011,18.7,GINI,Total population,0.341,18.7,CPI2010,Total population,103.6530119
+1627,Portugal,2011,18.7,GINI,Total population,0.341,18.7,CPI2010,Total population,103.6530119
+1628,Portugal,2011,18.7,GINI,Total population,0.341,18.7,CPI2015,Total population,96.83339
+1629,Portugal,2011,18.7,GINI,Total population,0.341,18.7,CPI2015,Total population,96.83339
+1630,Portugal,2015,16.1,GINI,Total population,0.336,16.1,CPI2010,Total population,107.0426347
+1631,Portugal,2015,16.1,GINI,Total population,0.336,16.1,CPI2015,Total population,100.0
+1632,Portugal,2016,15.3,GINI,Total population,0.331,15.3,CPI2010,Total population,107.6928116
+1633,Portugal,2016,15.3,GINI,Total population,0.331,15.3,CPI2015,Total population,100.6074
+1634,Netherlands,2014,18.1,GINI,Total population,0.303,18.1,CPI2010,Total population,108.5317738
+1635,Netherlands,2014,18.1,GINI,Total population,0.303,18.1,CPI2015,Total population,99.40334
+1636,Netherlands,2015,17.7,GINI,Total population,0.288,17.7,CPI2010,Total population,109.1832265
+1637,Netherlands,2015,17.7,GINI,Total population,0.288,17.7,CPI2015,Total population,100.0
+1638,Netherlands,2016,17.3,GINI,Total population,0.285,17.3,CPI2010,Total population,109.5290098
+1639,Netherlands,2016,17.3,GINI,Total population,0.285,17.3,CPI2015,Total population,100.3167
+1640,Israel,2017,25.0,GINI,Total population,0.344,25.0,CPI2010,Total population,106.3806978
+1641,Israel,2017,25.0,GINI,Total population,0.344,25.0,CPI2015,Total population,99.69849
+1642,Canada,2016,26.3,GINI,Total population,0.307,26.3,CPI2010,Total population,110.2247098
+1643,Canada,2016,26.3,GINI,Total population,0.307,26.3,CPI2015,Total population,101.4288
+1644,Canada,2017,26.3,GINI,Total population,0.31,26.3,CPI2010,Total population,111.9848702
+1645,Canada,2017,26.3,GINI,Total population,0.31,26.3,CPI2015,Total population,103.0485
+1646,Canada,2018,25.9,GINI,Total population,0.303,25.9,CPI2010,Total population,114.52486100000002
+1647,Canada,2018,25.9,GINI,Total population,0.303,25.9,CPI2015,Total population,105.3858
+1648,New Zealand,2009,21.5,GINI,Total population,0.324,21.5,CPI2010,Total population,97.74976026
+1649,New Zealand,2009,21.5,GINI,Total population,0.324,21.5,CPI2015,Total population,90.55659
+1650,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2010,Total population,104.027893
+1651,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2010,Total population,104.027893
+1652,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2015,Total population,96.37273
+1653,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2015,Total population,96.37273
+1654,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2010,Total population,104.027893
+1655,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2010,Total population,104.027893
+1656,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2015,Total population,96.37273
+1657,New Zealand,2011,20.5,GINI,Total population,0.3229999999999999,20.5,CPI2015,Total population,96.37273
+1658,New Zealand,2012,20.3,GINI,Total population,0.3329999999999999,20.3,CPI2010,Total population,105.1305013
+1659,New Zealand,2012,20.3,GINI,Total population,0.3329999999999999,20.3,CPI2015,Total population,97.3942
+1660,New Zealand,2014,18.5,GINI,Total population,0.349,18.5,CPI2010,Total population,107.628255
+1661,New Zealand,2014,18.5,GINI,Total population,0.349,18.5,CPI2015,Total population,99.70815
+1662,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2010,Total population,98.4974009
+1663,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2010,Total population,98.4974009
+1664,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2015,Total population,91.59818
+1665,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2015,Total population,91.59818
+1666,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2010,Total population,98.4974009
+1667,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2010,Total population,98.4974009
+1668,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2015,Total population,91.59818
+1669,Italy,2009,34.7,GINI,Total population,0.315,34.7,CPI2015,Total population,91.59818
+1670,Italy,2010,35.5,GINI,Total population,0.327,35.5,CPI2010,Total population,100.0
+1671,Italy,2010,35.5,GINI,Total population,0.327,35.5,CPI2010,Total population,100.0
+1672,Italy,2010,35.5,GINI,Total population,0.327,35.5,CPI2015,Total population,92.99553
+1673,Italy,2010,35.5,GINI,Total population,0.327,35.5,CPI2015,Total population,92.99553
+1674,Italy,2010,35.5,GINI,Total population,0.321,35.5,CPI2010,Total population,100.0
+1675,Italy,2010,35.5,GINI,Total population,0.321,35.5,CPI2010,Total population,100.0
+1676,Italy,2010,35.5,GINI,Total population,0.321,35.5,CPI2015,Total population,92.99553
+1677,Italy,2010,35.5,GINI,Total population,0.321,35.5,CPI2015,Total population,92.99553
+1678,Italy,2011,35.8,GINI,Total population,0.327,35.8,CPI2010,Total population,102.780639
+1679,Italy,2011,35.8,GINI,Total population,0.327,35.8,CPI2010,Total population,102.780639
+1680,Italy,2011,35.8,GINI,Total population,0.327,35.8,CPI2015,Total population,95.5814
+1681,Italy,2011,35.8,GINI,Total population,0.327,35.8,CPI2015,Total population,95.5814
+1682,Italy,2011,35.8,GINI,Total population,0.326,35.8,CPI2010,Total population,102.780639
+1683,Italy,2011,35.8,GINI,Total population,0.326,35.8,CPI2010,Total population,102.780639
+1684,Italy,2011,35.8,GINI,Total population,0.326,35.8,CPI2015,Total population,95.5814
+1685,Italy,2011,35.8,GINI,Total population,0.326,35.8,CPI2015,Total population,95.5814
+1686,Italy,2012,36.3,GINI,Total population,0.33,36.3,CPI2010,Total population,105.9065635
+1687,Italy,2012,36.3,GINI,Total population,0.33,36.3,CPI2010,Total population,105.9065635
+1688,Italy,2012,36.3,GINI,Total population,0.33,36.3,CPI2015,Total population,98.48837
+1689,Italy,2012,36.3,GINI,Total population,0.33,36.3,CPI2015,Total population,98.48837
+1690,Italy,2012,36.3,GINI,Total population,0.3289999999999999,36.3,CPI2010,Total population,105.9065635
+1691,Italy,2012,36.3,GINI,Total population,0.3289999999999999,36.3,CPI2010,Total population,105.9065635
+1692,Italy,2012,36.3,GINI,Total population,0.3289999999999999,36.3,CPI2015,Total population,98.48837
+1693,Italy,2012,36.3,GINI,Total population,0.3289999999999999,36.3,CPI2015,Total population,98.48837
+1694,Italy,2013,36.8,GINI,Total population,0.325,36.8,CPI2010,Total population,107.1986256
+1695,Italy,2013,36.8,GINI,Total population,0.325,36.8,CPI2010,Total population,107.1986256
+1696,Italy,2013,36.8,GINI,Total population,0.325,36.8,CPI2015,Total population,99.68993
+1697,Italy,2013,36.8,GINI,Total population,0.325,36.8,CPI2015,Total population,99.68993
+1698,Italy,2013,36.8,GINI,Total population,0.324,36.8,CPI2010,Total population,107.1986256
+1699,Italy,2013,36.8,GINI,Total population,0.324,36.8,CPI2010,Total population,107.1986256
+1700,Italy,2013,36.8,GINI,Total population,0.324,36.8,CPI2015,Total population,99.68993
+1701,Italy,2013,36.8,GINI,Total population,0.324,36.8,CPI2015,Total population,99.68993
+1702,Italy,2014,36.4,GINI,Total population,0.326,36.4,CPI2010,Total population,107.4570251
+1703,Italy,2014,36.4,GINI,Total population,0.326,36.4,CPI2015,Total population,99.93023
+1704,Italy,2015,35.7,GINI,Total population,0.3329999999999999,35.7,CPI2010,Total population,107.4987045
+1705,Italy,2015,35.7,GINI,Total population,0.3329999999999999,35.7,CPI2015,Total population,99.96899
+1706,Italy,2016,34.4,GINI,Total population,0.327,34.4,CPI2010,Total population,107.3976351
+1707,Italy,2016,34.4,GINI,Total population,0.327,34.4,CPI2015,Total population,99.875
+1708,Italy,2017,34.3,GINI,Total population,0.3339999999999999,34.3,CPI2010,Total population,108.7149027
+1709,Italy,2017,34.3,GINI,Total population,0.3339999999999999,34.3,CPI2015,Total population,101.1
+1710,Ireland,2012,30.1,GINI,Total population,0.31,30.1,CPI2010,Total population,104.2967829
+1711,Ireland,2012,30.1,GINI,Total population,0.31,30.1,CPI2010,Total population,104.2967829
+1712,Ireland,2012,30.1,GINI,Total population,0.31,30.1,CPI2015,Total population,99.6013
+1713,Ireland,2012,30.1,GINI,Total population,0.31,30.1,CPI2015,Total population,99.6013
+1714,Ireland,2012,30.1,GINI,Total population,0.302,30.1,CPI2010,Total population,104.2967829
+1715,Ireland,2012,30.1,GINI,Total population,0.302,30.1,CPI2010,Total population,104.2967829
+1716,Ireland,2012,30.1,GINI,Total population,0.302,30.1,CPI2015,Total population,99.6013
+1717,Ireland,2012,30.1,GINI,Total population,0.302,30.1,CPI2015,Total population,99.6013
+1718,Ireland,2014,26.3,GINI,Total population,0.298,26.3,CPI2010,Total population,105.0186831
+1719,Ireland,2014,26.3,GINI,Total population,0.298,26.3,CPI2015,Total population,100.2907
+1720,Ireland,2015,25.4,GINI,Total population,0.298,25.4,CPI2010,Total population,104.7142787
+1721,Ireland,2015,25.4,GINI,Total population,0.298,25.4,CPI2015,Total population,100.0
+1722,Lithuania,2009,10.0,GINI,Total population,0.365,10.0,CPI2010,Total population,98.69795408
+1723,Lithuania,2009,10.0,GINI,Total population,0.365,10.0,CPI2010,Total population,98.69795408
+1724,Lithuania,2009,10.0,GINI,Total population,0.365,10.0,CPI2015,Total population,91.70551
+1725,Lithuania,2009,10.0,GINI,Total population,0.365,10.0,CPI2015,Total population,91.70551
+1726,Lithuania,2009,10.0,GINI,Total population,0.373,10.0,CPI2010,Total population,98.69795408
+1727,Lithuania,2009,10.0,GINI,Total population,0.373,10.0,CPI2010,Total population,98.69795408
+1728,Lithuania,2009,10.0,GINI,Total population,0.373,10.0,CPI2015,Total population,91.70551
+1729,Lithuania,2009,10.0,GINI,Total population,0.373,10.0,CPI2015,Total population,91.70551
+1730,Lithuania,2010,10.1,GINI,Total population,0.3289999999999999,10.1,CPI2010,Total population,100.0
+1731,Lithuania,2010,10.1,GINI,Total population,0.3289999999999999,10.1,CPI2010,Total population,100.0
+1732,Lithuania,2010,10.1,GINI,Total population,0.3289999999999999,10.1,CPI2015,Total population,92.91531
+1733,Lithuania,2010,10.1,GINI,Total population,0.3289999999999999,10.1,CPI2015,Total population,92.91531
+1734,Lithuania,2010,10.1,GINI,Total population,0.335,10.1,CPI2010,Total population,100.0
+1735,Lithuania,2010,10.1,GINI,Total population,0.335,10.1,CPI2010,Total population,100.0
+1736,Lithuania,2010,10.1,GINI,Total population,0.335,10.1,CPI2015,Total population,92.91531
+1737,Lithuania,2010,10.1,GINI,Total population,0.335,10.1,CPI2015,Total population,92.91531
+1738,Lithuania,2011,9.7,GINI,Total population,0.321,9.7,CPI2010,Total population,104.1302773
+1739,Lithuania,2011,9.7,GINI,Total population,0.321,9.7,CPI2010,Total population,104.1302773
+1740,Lithuania,2011,9.7,GINI,Total population,0.321,9.7,CPI2015,Total population,96.75297
+1741,Lithuania,2011,9.7,GINI,Total population,0.321,9.7,CPI2015,Total population,96.75297
+1742,Lithuania,2011,9.7,GINI,Total population,0.326,9.7,CPI2010,Total population,104.1302773
+1743,Lithuania,2011,9.7,GINI,Total population,0.326,9.7,CPI2010,Total population,104.1302773
+1744,Lithuania,2011,9.7,GINI,Total population,0.326,9.7,CPI2015,Total population,96.75297
+1745,Lithuania,2011,9.7,GINI,Total population,0.326,9.7,CPI2015,Total population,96.75297
+1746,Lithuania,2012,9.0,GINI,Total population,0.35,9.0,CPI2010,Total population,107.3478741
+1747,Lithuania,2012,9.0,GINI,Total population,0.35,9.0,CPI2010,Total population,107.3478741
+1748,Lithuania,2012,9.0,GINI,Total population,0.35,9.0,CPI2015,Total population,99.74261
+1749,Lithuania,2012,9.0,GINI,Total population,0.35,9.0,CPI2015,Total population,99.74261
+1750,Lithuania,2012,9.0,GINI,Total population,0.352,9.0,CPI2010,Total population,107.3478741
+1751,Lithuania,2012,9.0,GINI,Total population,0.352,9.0,CPI2010,Total population,107.3478741
+1752,Lithuania,2012,9.0,GINI,Total population,0.352,9.0,CPI2015,Total population,99.74261
+1753,Lithuania,2012,9.0,GINI,Total population,0.352,9.0,CPI2015,Total population,99.74261
+1754,Lithuania,2013,8.4,GINI,Total population,0.351,8.4,CPI2010,Total population,108.4723282
+1755,Lithuania,2013,8.4,GINI,Total population,0.351,8.4,CPI2010,Total population,108.4723282
+1756,Lithuania,2013,8.4,GINI,Total population,0.351,8.4,CPI2015,Total population,100.7874
+1757,Lithuania,2013,8.4,GINI,Total population,0.351,8.4,CPI2015,Total population,100.7874
+1758,Lithuania,2013,8.4,GINI,Total population,0.354,8.4,CPI2010,Total population,108.4723282
+1759,Lithuania,2013,8.4,GINI,Total population,0.354,8.4,CPI2010,Total population,108.4723282
+1760,Lithuania,2013,8.4,GINI,Total population,0.354,8.4,CPI2015,Total population,100.7874
+1761,Lithuania,2013,8.4,GINI,Total population,0.354,8.4,CPI2015,Total population,100.7874
+1762,Lithuania,2014,8.1,GINI,Total population,0.38,8.1,CPI2010,Total population,108.5849038
+1763,Lithuania,2014,8.1,GINI,Total population,0.38,8.1,CPI2015,Total population,100.892
+1764,Lithuania,2015,7.9,GINI,Total population,0.372,7.9,CPI2010,Total population,107.624879
+1765,Lithuania,2015,7.9,GINI,Total population,0.372,7.9,CPI2015,Total population,99.99999
+1766,Lithuania,2016,7.7,GINI,Total population,0.3779999999999999,7.7,CPI2010,Total population,108.5994332
+1767,Lithuania,2016,7.7,GINI,Total population,0.3779999999999999,7.7,CPI2015,Total population,100.9055
+1768,Lithuania,2017,7.7,GINI,Total population,0.374,7.7,CPI2010,Total population,112.6424698
+1769,Lithuania,2017,7.7,GINI,Total population,0.374,7.7,CPI2015,Total population,104.6621
+1770,Lithuania,2018,7.1,GINI,Total population,0.361,7.1,CPI2010,Total population,115.6814738
+1771,Lithuania,2018,7.1,GINI,Total population,0.361,7.1,CPI2015,Total population,107.4858
+1772,United States,2009,11.8,GINI,Total population,0.379,11.8,CPI2010,Total population,98.38642286
+1773,United States,2009,11.8,GINI,Total population,0.379,11.8,CPI2015,Total population,90.51545
+1774,United States,2010,11.4,GINI,Total population,0.38,11.4,CPI2010,Total population,100.0
+1775,United States,2010,11.4,GINI,Total population,0.38,11.4,CPI2015,Total population,91.99994
+1776,United States,2011,11.3,GINI,Total population,0.389,11.3,CPI2010,Total population,103.1568499
+1777,United States,2011,11.3,GINI,Total population,0.389,11.3,CPI2015,Total population,94.90424
+1778,United States,2012,10.8,GINI,Total population,0.389,10.8,CPI2010,Total population,105.2915035
+1779,United States,2012,10.8,GINI,Total population,0.389,10.8,CPI2015,Total population,96.86812
+1780,United States,2013,10.8,GINI,Total population,0.396,10.8,CPI2010,Total population,106.8338523
+1781,United States,2013,10.8,GINI,Total population,0.396,10.8,CPI2015,Total population,98.28708
+1782,United States,2014,10.7,GINI,Total population,0.3939999999999999,10.7,CPI2010,Total population,108.5669404
+1783,United States,2014,10.7,GINI,Total population,0.3939999999999999,10.7,CPI2015,Total population,99.88152
+1784,United States,2015,10.6,GINI,Total population,0.39,10.6,CPI2010,Total population,108.6957231
+1785,United States,2015,10.6,GINI,Total population,0.39,10.6,CPI2015,Total population,100.0
+1786,United States,2016,10.3,GINI,Total population,0.391,10.3,CPI2010,Total population,110.0670283
+1787,United States,2016,10.3,GINI,Total population,0.391,10.3,CPI2015,Total population,101.2616
+1788,United States,2017,10.3,GINI,Total population,0.39,10.3,CPI2010,Total population,112.4115951
+1789,United States,2017,10.3,GINI,Total population,0.39,10.3,CPI2015,Total population,103.4186

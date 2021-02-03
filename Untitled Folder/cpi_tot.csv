@@ -1,0 +1,895 @@
+,Country,Year,Value_union,MEASURE,Age group,Value_gini_cpi
+2,Hungary,2009,11.9,CPI2010,Total population,95.36930448
+3,Hungary,2009,11.9,CPI2010,Total population,95.36930448
+12,Hungary,2009,11.9,CPI2015,Total population,85.62177
+17,Hungary,2009,11.9,CPI2015,Total population,85.62177
+19,Hungary,2015,9.0,CPI2010,Total population,111.3844113
+26,Hungary,2015,9.0,CPI2015,Total population,100.0
+28,Hungary,2015,9.4,CPI2010,Total population,111.3844113
+35,Hungary,2015,9.4,CPI2015,Total population,100.0
+38,Poland,2009,16.3,CPI2010,Total population,97.48422593
+39,Poland,2009,16.3,CPI2010,Total population,97.48422593
+48,Poland,2009,16.3,CPI2015,Total population,90.15737
+52,Poland,2009,16.3,CPI2015,Total population,90.15737
+56,Poland,2010,18.3,CPI2010,Total population,100.0
+57,Poland,2010,18.3,CPI2010,Total population,100.0
+66,Poland,2010,18.3,CPI2015,Total population,92.48406
+70,Poland,2010,18.3,CPI2015,Total population,92.48406
+74,Poland,2011,17.0,CPI2010,Total population,104.2394008
+75,Poland,2011,17.0,CPI2010,Total population,104.2394008
+84,Poland,2011,17.0,CPI2015,Total population,96.40483
+88,Poland,2011,17.0,CPI2015,Total population,96.40483
+92,Poland,2012,15.4,CPI2010,Total population,107.9507106
+93,Poland,2012,15.4,CPI2010,Total population,107.9507106
+102,Poland,2012,15.4,CPI2015,Total population,99.8372
+106,Poland,2012,15.4,CPI2015,Total population,99.8372
+109,Poland,2014,15.0,CPI2010,Total population,109.08020259999998
+115,Poland,2014,15.0,CPI2015,Total population,100.8818
+118,Poland,2016,12.7,CPI2010,Total population,107.4079577
+124,Poland,2016,12.7,CPI2015,Total population,99.33524
+127,Mexico,2010,13.8,CPI2010,Total population,100.0
+132,Mexico,2010,13.8,CPI2015,Total population,83.74461
+136,Mexico,2010,14.5,CPI2010,Total population,100.0
+141,Mexico,2010,14.5,CPI2015,Total population,83.74461
+145,Sweden,2009,70.8,CPI2010,Total population,98.8552772
+150,Sweden,2009,70.8,CPI2015,Total population,95.42492
+154,Sweden,2009,68.4,CPI2010,Total population,98.8552772
+159,Sweden,2009,68.4,CPI2015,Total population,95.42492
+163,Sweden,2010,70.2,CPI2010,Total population,100.0
+168,Sweden,2010,70.2,CPI2015,Total population,96.52992
+172,Sweden,2010,68.2,CPI2010,Total population,100.0
+177,Sweden,2010,68.2,CPI2015,Total population,96.52992
+181,Sweden,2011,68.3,CPI2010,Total population,102.9611544
+186,Sweden,2011,68.3,CPI2015,Total population,99.38832
+190,Sweden,2011,67.5,CPI2010,Total population,102.9611544
+195,Sweden,2011,67.5,CPI2015,Total population,99.38832
+199,Sweden,2013,68.0,CPI2010,Total population,103.8298799
+204,Sweden,2013,68.0,CPI2015,Total population,100.2269
+208,Sweden,2013,67.7,CPI2010,Total population,103.8298799
+213,Sweden,2013,67.7,CPI2015,Total population,100.2269
+217,Sweden,2014,67.7,CPI2010,Total population,103.6433056
+222,Sweden,2014,67.7,CPI2015,Total population,100.0468
+226,Sweden,2014,67.3,CPI2010,Total population,103.6433056
+231,Sweden,2014,67.3,CPI2015,Total population,100.0468
+235,Sweden,2015,67.8,CPI2010,Total population,103.5948232
+240,Sweden,2015,67.8,CPI2015,Total population,100.0
+244,Sweden,2015,67.0,CPI2010,Total population,103.5948232
+249,Sweden,2015,67.0,CPI2015,Total population,100.0
+253,Sweden,2016,66.9,CPI2010,Total population,104.6145071
+258,Sweden,2016,66.9,CPI2015,Total population,100.9843
+262,Sweden,2016,66.7,CPI2010,Total population,104.6145071
+267,Sweden,2016,66.7,CPI2015,Total population,100.9843
+271,Sweden,2017,65.6,CPI2010,Total population,106.4917489
+276,Sweden,2017,65.6,CPI2015,Total population,102.7964
+280,Sweden,2017,66.1,CPI2010,Total population,106.4917489
+285,Sweden,2017,66.1,CPI2015,Total population,102.7964
+289,France,2009,8.8,CPI2010,Total population,98.49197065
+294,France,2009,8.8,CPI2015,Total population,93.28667
+298,France,2010,9.0,CPI2010,Total population,100.0
+303,France,2010,9.0,CPI2015,Total population,94.715
+307,France,2010,10.8,CPI2010,Total population,100.0
+312,France,2010,10.8,CPI2015,Total population,94.715
+316,France,2011,9.1,CPI2010,Total population,102.111598
+321,France,2011,9.1,CPI2015,Total population,96.715
+325,France,2012,9.1,CPI2010,Total population,104.107058
+330,France,2012,9.1,CPI2015,Total population,98.605
+334,France,2013,9.0,CPI2010,Total population,105.0062503
+339,France,2013,9.0,CPI2015,Total population,99.45667
+343,France,2013,11.0,CPI2010,Total population,105.0062503
+348,France,2013,11.0,CPI2015,Total population,99.45667
+352,France,2014,9.0,CPI2010,Total population,105.5394288
+357,France,2014,9.0,CPI2015,Total population,99.96167
+361,France,2015,9.0,CPI2010,Total population,105.5790213
+366,France,2015,9.0,CPI2015,Total population,99.99917
+370,France,2016,9.0,CPI2010,Total population,105.7725809
+375,France,2016,9.0,CPI2015,Total population,100.1825
+379,France,2016,10.8,CPI2010,Total population,105.7725809
+384,France,2016,10.8,CPI2015,Total population,100.1825
+388,France,2017,8.9,CPI2010,Total population,106.8644882
+393,France,2017,8.9,CPI2015,Total population,101.2167
+397,France,2018,8.8,CPI2010,Total population,108.84231640000002
+402,France,2018,8.8,CPI2015,Total population,103.09
+407,Norway,2009,49.8,CPI2010,Total population,97.63821201
+408,Norway,2009,49.8,CPI2010,Total population,97.63821201
+417,Norway,2009,49.8,CPI2015,Total population,89.91666
+420,Norway,2009,49.8,CPI2015,Total population,89.91666
+425,Norway,2010,50.0,CPI2010,Total population,100.0
+426,Norway,2010,50.0,CPI2010,Total population,100.0
+435,Norway,2010,50.0,CPI2015,Total population,92.09167
+438,Norway,2010,50.0,CPI2015,Total population,92.09167
+443,Norway,2011,49.3,CPI2010,Total population,101.2849479
+444,Norway,2011,49.3,CPI2010,Total population,101.2849479
+453,Norway,2011,49.3,CPI2015,Total population,93.275
+456,Norway,2011,49.3,CPI2015,Total population,93.275
+460,Norway,2012,49.3,CPI2010,Total population,101.9907664
+465,Norway,2012,49.3,CPI2015,Total population,93.925
+469,Norway,2013,49.3,CPI2010,Total population,104.1534593
+474,Norway,2013,49.3,CPI2015,Total population,95.91666
+478,Norway,2013,52.0,CPI2010,Total population,104.1534593
+483,Norway,2013,52.0,CPI2015,Total population,95.91666
+487,Norway,2014,49.7,CPI2010,Total population,106.2799708
+492,Norway,2014,49.7,CPI2015,Total population,97.875
+496,Norway,2014,54.0,CPI2010,Total population,106.2799708
+501,Norway,2014,54.0,CPI2015,Total population,97.875
+505,Norway,2015,49.3,CPI2010,Total population,108.5874542
+510,Norway,2015,49.3,CPI2015,Total population,100.0
+514,Norway,2016,49.3,CPI2010,Total population,112.4423088
+519,Norway,2016,49.3,CPI2015,Total population,103.55
+523,Norway,2016,52.0,CPI2010,Total population,112.4423088
+528,Norway,2016,52.0,CPI2015,Total population,103.55
+532,Norway,2017,49.3,CPI2010,Total population,114.5507514
+537,Norway,2017,49.3,CPI2015,Total population,105.4917
+541,Norway,2017,51.3,CPI2010,Total population,114.5507514
+546,Norway,2017,51.3,CPI2015,Total population,105.4917
+550,Norway,2018,49.2,CPI2010,Total population,117.7178131
+555,Norway,2018,49.2,CPI2015,Total population,108.4083
+560,Iceland,2011,83.4,CPI2010,Total population,104.0010243
+561,Iceland,2011,83.4,CPI2010,Total population,104.0010243
+570,Iceland,2011,83.4,CPI2015,Total population,88.25061
+575,Iceland,2011,83.4,CPI2015,Total population,88.25061
+578,Iceland,2011,85.0,CPI2010,Total population,104.0010243
+579,Iceland,2011,85.0,CPI2010,Total population,104.0010243
+588,Iceland,2011,85.0,CPI2015,Total population,88.25061
+593,Iceland,2011,85.0,CPI2015,Total population,88.25061
+596,Iceland,2013,87.8,CPI2010,Total population,113.6304627
+597,Iceland,2013,87.8,CPI2010,Total population,113.6304627
+606,Iceland,2013,87.8,CPI2015,Total population,96.42172
+611,Iceland,2013,87.8,CPI2015,Total population,96.42172
+614,Iceland,2013,88.9,CPI2010,Total population,113.6304627
+615,Iceland,2013,88.9,CPI2010,Total population,113.6304627
+624,Iceland,2013,88.9,CPI2015,Total population,96.42172
+629,Iceland,2013,88.9,CPI2015,Total population,96.42172
+631,Iceland,2015,90.0,CPI2010,Total population,117.8473716
+638,Iceland,2015,90.0,CPI2015,Total population,100.0
+640,Iceland,2015,91.6,CPI2010,Total population,117.8473716
+647,Iceland,2015,91.6,CPI2015,Total population,100.0
+649,Iceland,2016,89.8,CPI2010,Total population,119.8471237
+656,Iceland,2016,89.8,CPI2015,Total population,101.6969
+658,Iceland,2016,90.4,CPI2010,Total population,119.8471237
+665,Iceland,2016,90.4,CPI2015,Total population,101.6969
+667,Latvia,2009,15.1,CPI2010,Total population,101.0965275
+673,Latvia,2009,15.1,CPI2010,Total population,101.0965275
+678,Latvia,2009,15.1,CPI2015,Total population,94.00404
+682,Latvia,2009,15.1,CPI2015,Total population,94.00404
+685,Latvia,2010,15.0,CPI2010,Total population,100.0
+691,Latvia,2010,15.0,CPI2010,Total population,100.0
+696,Latvia,2010,15.0,CPI2015,Total population,92.98444
+700,Latvia,2010,15.0,CPI2015,Total population,92.98444
+703,Latvia,2011,13.6,CPI2010,Total population,104.370742
+709,Latvia,2011,13.6,CPI2010,Total population,104.370742
+714,Latvia,2011,13.6,CPI2015,Total population,97.04855
+718,Latvia,2011,13.6,CPI2015,Total population,97.04855
+721,Latvia,2012,13.1,CPI2010,Total population,106.7272116
+727,Latvia,2012,13.1,CPI2010,Total population,106.7272116
+732,Latvia,2012,13.1,CPI2015,Total population,99.2397
+736,Latvia,2012,13.1,CPI2015,Total population,99.2397
+739,Latvia,2013,12.8,CPI2010,Total population,106.6957762
+745,Latvia,2013,12.8,CPI2010,Total population,106.6957762
+750,Latvia,2013,12.8,CPI2015,Total population,99.21047
+754,Latvia,2013,12.8,CPI2015,Total population,99.21047
+757,Latvia,2014,12.7,CPI2010,Total population,107.35782240000002
+763,Latvia,2014,12.7,CPI2015,Total population,99.82607
+766,Latvia,2015,12.6,CPI2010,Total population,107.5448753
+772,Latvia,2015,12.6,CPI2015,Total population,100.0
+775,Latvia,2016,12.3,CPI2010,Total population,107.69608329999998
+781,Latvia,2016,12.3,CPI2015,Total population,100.1406
+784,Latvia,2017,12.2,CPI2010,Total population,110.8519877
+790,Latvia,2017,12.2,CPI2015,Total population,103.0751
+793,Latvia,2018,11.9,CPI2010,Total population,113.66149
+799,Latvia,2018,11.9,CPI2015,Total population,105.6875
+802,Estonia,2009,7.6,CPI2010,Total population,97.11373393
+807,Estonia,2009,7.6,CPI2015,Total population,87.11739
+811,Estonia,2009,7.7,CPI2010,Total population,97.11373393
+816,Estonia,2009,7.7,CPI2015,Total population,87.11739
+820,Estonia,2010,8.2,CPI2010,Total population,100.0
+825,Estonia,2010,8.2,CPI2015,Total population,89.70656
+829,Estonia,2010,8.1,CPI2010,Total population,100.0
+834,Estonia,2010,8.1,CPI2015,Total population,89.70656
+838,Estonia,2011,7.0,CPI2010,Total population,104.9818988
+843,Estonia,2011,7.0,CPI2015,Total population,94.17565
+847,Estonia,2011,7.0,CPI2010,Total population,104.9818988
+852,Estonia,2011,7.0,CPI2015,Total population,94.17565
+856,Estonia,2012,6.0,CPI2010,Total population,109.1112623
+861,Estonia,2012,6.0,CPI2015,Total population,97.87996
+865,Estonia,2012,6.1,CPI2010,Total population,109.1112623
+870,Estonia,2012,6.1,CPI2015,Total population,97.87996
+875,Estonia,2013,5.6,CPI2010,Total population,112.1451987
+876,Estonia,2013,5.6,CPI2010,Total population,112.1451987
+885,Estonia,2013,5.6,CPI2015,Total population,100.6016
+889,Estonia,2013,5.6,CPI2015,Total population,100.6016
+893,Estonia,2013,5.7,CPI2010,Total population,112.1451987
+894,Estonia,2013,5.7,CPI2010,Total population,112.1451987
+903,Estonia,2013,5.7,CPI2015,Total population,100.6016
+907,Estonia,2013,5.7,CPI2015,Total population,100.6016
+910,Estonia,2014,5.3,CPI2010,Total population,112.0261439
+916,Estonia,2014,5.3,CPI2015,Total population,100.4948
+919,Estonia,2014,5.5,CPI2010,Total population,112.0261439
+925,Estonia,2014,5.5,CPI2015,Total population,100.4948
+928,Estonia,2015,4.5,CPI2010,Total population,111.4745677
+934,Estonia,2015,4.5,CPI2015,Total population,100.0
+937,Estonia,2015,4.7,CPI2010,Total population,111.4745677
+943,Estonia,2015,4.7,CPI2015,Total population,100.0
+946,Estonia,2016,5.0,CPI2010,Total population,111.6403304
+952,Estonia,2016,5.0,CPI2015,Total population,100.1487
+955,Estonia,2016,4.4,CPI2010,Total population,111.6403304
+961,Estonia,2016,4.4,CPI2015,Total population,100.1487
+964,Estonia,2017,4.7,CPI2010,Total population,115.4553246
+970,Estonia,2017,4.7,CPI2015,Total population,103.571
+973,Estonia,2017,4.3,CPI2010,Total population,115.4553246
+979,Estonia,2017,4.3,CPI2015,Total population,103.571
+983,Switzerland,2009,17.3,CPI2010,Total population,99.31643012
+984,Switzerland,2009,17.3,CPI2010,Total population,99.31643012
+993,Switzerland,2009,17.3,CPI2015,Total population,101.166
+998,Switzerland,2009,17.3,CPI2015,Total population,101.166
+1000,Switzerland,2010,17.6,CPI2010,Total population,100.0
+1007,Switzerland,2010,17.6,CPI2015,Total population,101.8623
+1010,Switzerland,2011,17.0,CPI2010,Total population,100.2312926
+1011,Switzerland,2011,17.0,CPI2010,Total population,100.2312926
+1020,Switzerland,2011,17.0,CPI2015,Total population,102.0979
+1025,Switzerland,2011,17.0,CPI2015,Total population,102.0979
+1027,Switzerland,2012,16.6,CPI2010,Total population,99.53721838
+1034,Switzerland,2012,16.6,CPI2015,Total population,101.3909
+1036,Switzerland,2013,16.6,CPI2010,Total population,99.32084785
+1043,Switzerland,2013,16.6,CPI2015,Total population,101.1705
+1045,Switzerland,2014,16.1,CPI2010,Total population,99.30769284
+1052,Switzerland,2014,16.1,CPI2015,Total population,101.1571
+1054,Switzerland,2015,15.7,CPI2010,Total population,98.17174755
+1061,Switzerland,2015,15.7,CPI2015,Total population,100.0
+1063,Switzerland,2016,15.3,CPI2010,Total population,97.74508331
+1070,Switzerland,2016,15.3,CPI2015,Total population,99.56539
+1072,Switzerland,2017,14.9,CPI2010,Total population,98.26687597
+1079,Switzerland,2017,14.9,CPI2015,Total population,100.0969
+1081,Belgium,2009,54.9,CPI2010,Total population,97.85760515
+1086,Belgium,2009,54.9,CPI2015,Total population,90.08366
+1090,Belgium,2010,53.8,CPI2010,Total population,100.0
+1095,Belgium,2010,53.8,CPI2015,Total population,92.05586
+1099,Belgium,2011,55.1,CPI2010,Total population,103.5320837
+1104,Belgium,2011,55.1,CPI2015,Total population,95.30735
+1108,Belgium,2012,55.0,CPI2010,Total population,106.4720486
+1113,Belgium,2012,55.0,CPI2015,Total population,98.01376
+1117,Belgium,2013,55.1,CPI2010,Total population,107.6571768
+1122,Belgium,2013,55.1,CPI2015,Total population,99.10474
+1126,Belgium,2018,50.3,CPI2010,Total population,115.4516399
+1131,Belgium,2018,50.3,CPI2015,Total population,106.28
+1135,Israel,2012,23.4,CPI2010,Total population,105.2100122
+1141,Israel,2012,23.4,CPI2015,Total population,98.60134
+1144,Israel,2012,22.8,CPI2010,Total population,105.2100122
+1150,Israel,2012,22.8,CPI2015,Total population,98.60134
+1154,Canada,2009,30.7,CPI2010,Total population,98.25414078
+1155,Canada,2009,30.7,CPI2010,Total population,98.25414078
+1164,Canada,2009,30.7,CPI2015,Total population,90.41348
+1167,Canada,2009,30.7,CPI2015,Total population,90.41348
+1172,Canada,2009,27.3,CPI2010,Total population,98.25414078
+1173,Canada,2009,27.3,CPI2010,Total population,98.25414078
+1182,Canada,2009,27.3,CPI2015,Total population,90.41348
+1185,Canada,2009,27.3,CPI2015,Total population,90.41348
+1190,Canada,2010,30.1,CPI2010,Total population,100.0
+1191,Canada,2010,30.1,CPI2010,Total population,100.0
+1200,Canada,2010,30.1,CPI2015,Total population,92.02002
+1203,Canada,2010,30.1,CPI2015,Total population,92.02002
+1208,Canada,2010,27.2,CPI2010,Total population,100.0
+1209,Canada,2010,27.2,CPI2010,Total population,100.0
+1218,Canada,2010,27.2,CPI2015,Total population,92.02002
+1221,Canada,2010,27.2,CPI2015,Total population,92.02002
+1226,Canada,2011,29.8,CPI2010,Total population,102.9121272
+1227,Canada,2011,29.8,CPI2010,Total population,102.9121272
+1236,Canada,2011,29.8,CPI2015,Total population,94.69976
+1239,Canada,2011,29.8,CPI2015,Total population,94.69976
+1244,Canada,2011,26.9,CPI2010,Total population,102.9121272
+1245,Canada,2011,26.9,CPI2010,Total population,102.9121272
+1254,Canada,2011,26.9,CPI2015,Total population,94.69976
+1257,Canada,2011,26.9,CPI2015,Total population,94.69976
+1261,Canada,2012,29.8,CPI2010,Total population,104.4719508
+1266,Canada,2012,29.8,CPI2015,Total population,96.13511
+1270,Canada,2012,27.2,CPI2010,Total population,104.4719508
+1275,Canada,2012,27.2,CPI2015,Total population,96.13511
+1279,Canada,2013,29.2,CPI2010,Total population,105.452194
+1284,Canada,2013,29.2,CPI2015,Total population,97.03713
+1288,Canada,2013,27.1,CPI2010,Total population,105.452194
+1293,Canada,2013,27.1,CPI2015,Total population,97.03713
+1297,Canada,2014,29.3,CPI2010,Total population,107.46278909999998
+1302,Canada,2014,29.3,CPI2015,Total population,98.88728
+1306,Canada,2014,26.4,CPI2010,Total population,107.46278909999998
+1311,Canada,2014,26.4,CPI2015,Total population,98.88728
+1315,Canada,2015,29.4,CPI2010,Total population,108.67200420000002
+1320,Canada,2015,29.4,CPI2015,Total population,100.0
+1324,Canada,2015,26.5,CPI2010,Total population,108.67200420000002
+1329,Canada,2015,26.5,CPI2015,Total population,100.0
+1334,Ireland,2009,31.5,CPI2010,Total population,100.9306796
+1335,Ireland,2009,31.5,CPI2010,Total population,100.9306796
+1344,Ireland,2009,31.5,CPI2015,Total population,96.38674
+1348,Ireland,2009,31.5,CPI2015,Total population,96.38674
+1352,Ireland,2009,31.9,CPI2010,Total population,100.9306796
+1353,Ireland,2009,31.9,CPI2010,Total population,100.9306796
+1362,Ireland,2009,31.9,CPI2015,Total population,96.38674
+1366,Ireland,2009,31.9,CPI2015,Total population,96.38674
+1370,Ireland,2010,33.5,CPI2010,Total population,100.0
+1371,Ireland,2010,33.5,CPI2010,Total population,100.0
+1380,Ireland,2010,33.5,CPI2015,Total population,95.49796
+1384,Ireland,2010,33.5,CPI2015,Total population,95.49796
+1388,Ireland,2010,31.6,CPI2010,Total population,100.0
+1389,Ireland,2010,31.6,CPI2010,Total population,100.0
+1398,Ireland,2010,31.6,CPI2015,Total population,95.49796
+1402,Ireland,2010,31.6,CPI2015,Total population,95.49796
+1406,Ireland,2011,32.7,CPI2010,Total population,102.557196
+1407,Ireland,2011,32.7,CPI2010,Total population,102.557196
+1416,Ireland,2011,32.7,CPI2015,Total population,97.94003
+1420,Ireland,2011,32.7,CPI2015,Total population,97.94003
+1424,Ireland,2011,31.6,CPI2010,Total population,102.557196
+1425,Ireland,2011,31.6,CPI2010,Total population,102.557196
+1434,Ireland,2011,31.6,CPI2015,Total population,97.94003
+1438,Ireland,2011,31.6,CPI2015,Total population,97.94003
+1442,Ireland,2013,30.5,CPI2010,Total population,104.82737009999998
+1443,Ireland,2013,30.5,CPI2010,Total population,104.82737009999998
+1452,Ireland,2013,30.5,CPI2015,Total population,100.108
+1456,Ireland,2013,30.5,CPI2015,Total population,100.108
+1460,Ireland,2013,28.5,CPI2010,Total population,104.82737009999998
+1461,Ireland,2013,28.5,CPI2010,Total population,104.82737009999998
+1470,Ireland,2013,28.5,CPI2015,Total population,100.108
+1474,Ireland,2013,28.5,CPI2015,Total population,100.108
+1477,Ireland,2016,25.6,CPI2010,Total population,104.72297
+1483,Ireland,2016,25.6,CPI2015,Total population,100.0083
+1486,Ireland,2016,23.4,CPI2010,Total population,104.72297
+1492,Ireland,2016,23.4,CPI2015,Total population,100.0083
+1495,Ireland,2017,24.5,CPI2010,Total population,105.0796268
+1501,Ireland,2017,24.5,CPI2015,Total population,100.3489
+1504,Ireland,2017,24.3,CPI2010,Total population,105.0796268
+1510,Ireland,2017,24.3,CPI2015,Total population,100.3489
+1513,Chile,2009,14.4,CPI2010,Total population,98.60890177
+1519,Chile,2009,14.4,CPI2010,Total population,98.60890177
+1524,Chile,2009,14.4,CPI2015,Total population,83.28355
+1527,Chile,2009,14.4,CPI2015,Total population,83.28355
+1531,Chile,2011,14.5,CPI2010,Total population,103.3412169
+1537,Chile,2011,14.5,CPI2010,Total population,103.3412169
+1542,Chile,2011,14.5,CPI2015,Total population,87.28039
+1545,Chile,2011,14.5,CPI2015,Total population,87.28039
+1549,Chile,2013,14.8,CPI2010,Total population,108.3541197
+1554,Chile,2013,14.8,CPI2015,Total population,91.51421
+1558,Chile,2015,16.1,CPI2010,Total population,118.40141509999998
+1563,Chile,2015,16.1,CPI2015,Total population,100.0
+1567,Spain,2009,18.3,CPI2010,Total population,98.23193341
+1574,Spain,2009,18.3,CPI2015,Total population,92.2262
+1576,Spain,2009,19.9,CPI2010,Total population,98.23193341
+1583,Spain,2009,19.9,CPI2015,Total population,92.2262
+1585,Spain,2010,18.3,CPI2010,Total population,100.0
+1592,Spain,2010,18.3,CPI2015,Total population,93.88617
+1594,Spain,2010,18.9,CPI2010,Total population,100.0
+1601,Spain,2010,18.9,CPI2015,Total population,93.88617
+1603,Spain,2011,17.9,CPI2010,Total population,103.1961363
+1610,Spain,2011,17.9,CPI2015,Total population,96.8869
+1612,Spain,2012,18.2,CPI2010,Total population,105.7203207
+1619,Spain,2012,18.2,CPI2015,Total population,99.25676
+1621,Spain,2013,17.9,CPI2010,Total population,107.2094005
+1628,Spain,2013,17.9,CPI2015,Total population,100.6548
+1630,Spain,2014,16.8,CPI2010,Total population,107.0477153
+1637,Spain,2014,16.8,CPI2015,Total population,100.503
+1639,Spain,2015,15.2,CPI2010,Total population,106.5119602
+1646,Spain,2015,15.2,CPI2015,Total population,100.0
+1648,Spain,2016,14.8,CPI2010,Total population,106.2960924
+1655,Spain,2016,14.8,CPI2015,Total population,99.79733
+1657,Spain,2017,14.2,CPI2010,Total population,108.3753869
+1664,Spain,2017,14.2,CPI2015,Total population,101.7495
+1666,Spain,2018,13.6,CPI2010,Total population,110.1906703
+1673,Spain,2018,13.6,CPI2015,Total population,103.4538
+1676,Finland,2009,71.1,CPI2010,Total population,98.82971434
+1677,Finland,2009,71.1,CPI2010,Total population,98.82971434
+1686,Finland,2009,71.1,CPI2015,Total population,90.84034
+1689,Finland,2009,71.1,CPI2015,Total population,90.84034
+1694,Finland,2009,65.7,CPI2010,Total population,98.82971434
+1695,Finland,2009,65.7,CPI2010,Total population,98.82971434
+1704,Finland,2009,65.7,CPI2015,Total population,90.84034
+1707,Finland,2009,65.7,CPI2015,Total population,90.84034
+1712,Finland,2010,70.3,CPI2010,Total population,100.0
+1713,Finland,2010,70.3,CPI2010,Total population,100.0
+1722,Finland,2010,70.3,CPI2015,Total population,91.91602
+1725,Finland,2010,70.3,CPI2015,Total population,91.91602
+1730,Finland,2010,64.7,CPI2010,Total population,100.0
+1731,Finland,2010,64.7,CPI2010,Total population,100.0
+1740,Finland,2010,64.7,CPI2015,Total population,91.91602
+1743,Finland,2010,64.7,CPI2015,Total population,91.91602
+1748,Finland,2011,69.5,CPI2010,Total population,103.4168037
+1749,Finland,2011,69.5,CPI2010,Total population,103.4168037
+1758,Finland,2011,69.5,CPI2015,Total population,95.05661
+1761,Finland,2011,69.5,CPI2015,Total population,95.05661
+1766,Finland,2011,64.2,CPI2010,Total population,103.4168037
+1767,Finland,2011,64.2,CPI2010,Total population,103.4168037
+1776,Finland,2011,64.2,CPI2015,Total population,95.05661
+1779,Finland,2011,64.2,CPI2015,Total population,95.05661
+1784,Finland,2012,69.6,CPI2010,Total population,106.3210853
+1785,Finland,2012,69.6,CPI2010,Total population,106.3210853
+1794,Finland,2012,69.6,CPI2015,Total population,97.72611
+1797,Finland,2012,69.6,CPI2015,Total population,97.72611
+1802,Finland,2012,63.7,CPI2010,Total population,106.3210853
+1803,Finland,2012,63.7,CPI2010,Total population,106.3210853
+1812,Finland,2012,63.7,CPI2015,Total population,97.72611
+1815,Finland,2012,63.7,CPI2015,Total population,97.72611
+1819,Finland,2013,68.2,CPI2010,Total population,107.8928243
+1824,Finland,2013,68.2,CPI2015,Total population,99.17079
+1828,Finland,2013,63.5,CPI2010,Total population,107.8928243
+1833,Finland,2013,63.5,CPI2015,Total population,99.17079
+1837,Finland,2014,67.6,CPI2010,Total population,109.016252
+1842,Finland,2014,67.6,CPI2015,Total population,100.2034
+1846,Finland,2014,63.0,CPI2010,Total population,109.016252
+1851,Finland,2014,63.0,CPI2015,Total population,100.2034
+1855,Finland,2015,66.4,CPI2010,Total population,108.7895233
+1860,Finland,2015,66.4,CPI2015,Total population,99.995
+1864,Finland,2015,62.9,CPI2010,Total population,108.7895233
+1869,Finland,2015,62.9,CPI2015,Total population,99.995
+1873,Finland,2016,64.9,CPI2010,Total population,109.1775949
+1878,Finland,2016,64.9,CPI2015,Total population,100.3517
+1882,Finland,2016,60.3,CPI2010,Total population,109.1775949
+1887,Finland,2016,60.3,CPI2015,Total population,100.3517
+1891,Finland,2017,62.2,CPI2010,Total population,110.0007376
+1896,Finland,2017,62.2,CPI2015,Total population,101.1083
+1900,Finland,2017,58.1,CPI2010,Total population,110.0007376
+1905,Finland,2017,58.1,CPI2015,Total population,101.1083
+1909,Finland,2018,60.3,CPI2010,Total population,111.1930216
+1914,Finland,2018,60.3,CPI2015,Total population,102.2042
+1918,Luxembourg,2009,35.9,CPI2010,Total population,97.77687142
+1923,Luxembourg,2009,35.9,CPI2015,Total population,89.53917
+1927,Luxembourg,2010,35.1,CPI2010,Total population,100.0
+1932,Luxembourg,2010,35.1,CPI2015,Total population,91.575
+1936,Luxembourg,2010,40.0,CPI2010,Total population,100.0
+1941,Luxembourg,2010,40.0,CPI2015,Total population,91.575
+1945,Luxembourg,2011,35.1,CPI2010,Total population,103.4106798
+1950,Luxembourg,2011,35.1,CPI2015,Total population,94.69833
+1954,Luxembourg,2011,36.6,CPI2010,Total population,103.4106798
+1959,Luxembourg,2011,36.6,CPI2015,Total population,94.69833
+1963,Luxembourg,2012,35.3,CPI2010,Total population,106.1643462
+1968,Luxembourg,2012,35.3,CPI2015,Total population,97.22
+1972,Luxembourg,2012,35.2,CPI2010,Total population,106.1643462
+1977,Luxembourg,2012,35.2,CPI2015,Total population,97.22
+1981,Luxembourg,2013,34.8,CPI2010,Total population,108.0052744
+1986,Luxembourg,2013,34.8,CPI2015,Total population,98.90583
+1990,Luxembourg,2013,34.0,CPI2010,Total population,108.0052744
+1995,Luxembourg,2013,34.0,CPI2015,Total population,98.90583
+1999,Luxembourg,2015,33.3,CPI2010,Total population,109.2001092
+2004,Luxembourg,2015,33.3,CPI2015,Total population,100.0
+2008,Luxembourg,2016,32.3,CPI2010,Total population,109.5176631
+2013,Luxembourg,2016,32.3,CPI2015,Total population,100.2908
+2017,Luxembourg,2017,32.1,CPI2010,Total population,111.4132678
+2022,Luxembourg,2017,32.1,CPI2015,Total population,102.0267
+2026,Luxembourg,2018,31.8,CPI2010,Total population,113.1158067
+2031,Luxembourg,2018,31.8,CPI2015,Total population,103.5858
+2035,Korea,2009,9.9,CPI2010,Total population,97.14473991
+2040,Korea,2009,9.9,CPI2015,Total population,88.4515
+2044,Korea,2009,12.2,CPI2010,Total population,97.14473991
+2049,Korea,2009,12.2,CPI2015,Total population,88.4515
+2053,Korea,2010,9.6,CPI2010,Total population,100.0
+2058,Korea,2010,9.6,CPI2015,Total population,91.05125
+2062,Korea,2010,11.4,CPI2010,Total population,100.0
+2067,Korea,2010,11.4,CPI2015,Total population,91.05125
+2071,Korea,2011,9.8,CPI2010,Total population,104.0258536
+2076,Korea,2011,9.8,CPI2015,Total population,94.71684
+2080,Korea,2011,10.9,CPI2010,Total population,104.0258536
+2085,Korea,2011,10.9,CPI2015,Total population,94.71684
+2089,Korea,2012,9.9,CPI2010,Total population,106.3011216
+2094,Korea,2012,9.9,CPI2015,Total population,96.7885
+2098,Korea,2012,11.5,CPI2010,Total population,106.3011216
+2103,Korea,2012,11.5,CPI2015,Total population,96.7885
+2109,Korea,2015,10.0,CPI2010,Total population,109.8273445
+2113,Korea,2015,10.0,CPI2015,Total population,99.99917
+2118,Korea,2015,12.3,CPI2010,Total population,109.8273445
+2122,Korea,2015,12.3,CPI2015,Total population,99.99917
+2127,Korea,2016,10.0,CPI2010,Total population,110.8944688
+2131,Korea,2016,10.0,CPI2015,Total population,100.9708
+2136,Korea,2016,11.9,CPI2010,Total population,110.8944688
+2140,Korea,2016,11.9,CPI2015,Total population,100.9708
+2145,Korea,2017,10.5,CPI2010,Total population,113.0508368
+2149,Korea,2017,10.5,CPI2015,Total population,102.9342
+2154,Korea,2017,12.4,CPI2010,Total population,113.0508368
+2158,Korea,2017,12.4,CPI2015,Total population,102.9342
+2162,United Kingdom,2009,27.4,CPI2010,Total population,97.55826859
+2163,United Kingdom,2009,27.4,CPI2010,Total population,97.55826859
+2172,United Kingdom,2009,27.4,CPI2015,Total population,87.9
+2177,United Kingdom,2009,27.4,CPI2015,Total population,87.9
+2180,United Kingdom,2009,27.0,CPI2010,Total population,97.55826859
+2181,United Kingdom,2009,27.0,CPI2010,Total population,97.55826859
+2190,United Kingdom,2009,27.0,CPI2015,Total population,87.9
+2195,United Kingdom,2009,27.0,CPI2015,Total population,87.9
+2198,United Kingdom,2010,26.6,CPI2010,Total population,100.0
+2199,United Kingdom,2010,26.6,CPI2010,Total population,100.0
+2208,United Kingdom,2010,26.6,CPI2015,Total population,90.1
+2213,United Kingdom,2010,26.6,CPI2015,Total population,90.1
+2216,United Kingdom,2010,26.8,CPI2010,Total population,100.0
+2217,United Kingdom,2010,26.8,CPI2010,Total population,100.0
+2226,United Kingdom,2010,26.8,CPI2015,Total population,90.1
+2231,United Kingdom,2010,26.8,CPI2015,Total population,90.1
+2233,United Kingdom,2011,26.0,CPI2010,Total population,103.8845727
+2240,United Kingdom,2011,26.0,CPI2015,Total population,93.6
+2242,United Kingdom,2011,26.5,CPI2010,Total population,103.8845727
+2249,United Kingdom,2011,26.5,CPI2015,Total population,93.6
+2251,United Kingdom,2012,26.1,CPI2010,Total population,106.5482797
+2258,United Kingdom,2012,26.1,CPI2015,Total population,96.0
+2260,United Kingdom,2012,26.1,CPI2010,Total population,106.5482797
+2267,United Kingdom,2012,26.1,CPI2015,Total population,96.0
+2269,United Kingdom,2013,25.6,CPI2010,Total population,108.9900111
+2276,United Kingdom,2013,25.6,CPI2015,Total population,98.2
+2278,United Kingdom,2013,25.4,CPI2010,Total population,108.9900111
+2285,United Kingdom,2013,25.4,CPI2015,Total population,98.2
+2287,United Kingdom,2014,25.0,CPI2010,Total population,110.5438402
+2294,United Kingdom,2014,25.0,CPI2015,Total population,99.6
+2296,United Kingdom,2014,25.0,CPI2010,Total population,110.5438402
+2303,United Kingdom,2014,25.0,CPI2015,Total population,99.6
+2305,United Kingdom,2015,24.7,CPI2010,Total population,110.9877913
+2312,United Kingdom,2015,24.7,CPI2015,Total population,100.0
+2314,United Kingdom,2015,24.2,CPI2010,Total population,110.9877913
+2321,United Kingdom,2015,24.2,CPI2015,Total population,100.0
+2323,United Kingdom,2016,23.6,CPI2010,Total population,112.0976693
+2330,United Kingdom,2016,23.6,CPI2015,Total population,101.0
+2332,United Kingdom,2016,23.7,CPI2010,Total population,112.0976693
+2339,United Kingdom,2016,23.7,CPI2015,Total population,101.0
+2341,United Kingdom,2017,23.3,CPI2010,Total population,114.9833518
+2348,United Kingdom,2017,23.3,CPI2015,Total population,103.6
+2350,United Kingdom,2017,23.2,CPI2010,Total population,114.9833518
+2357,United Kingdom,2017,23.2,CPI2015,Total population,103.6
+2359,United Kingdom,2018,23.4,CPI2010,Total population,117.6470588
+2366,United Kingdom,2018,23.4,CPI2015,Total population,106.0
+2368,United Kingdom,2018,23.4,CPI2010,Total population,117.6470588
+2375,United Kingdom,2018,23.4,CPI2015,Total population,106.0
+2377,Australia,2010,18.4,CPI2010,Total population,100.0
+2382,Australia,2010,18.4,CPI2015,Total population,89.25005999999999
+2387,Australia,2012,18.2,CPI2010,Total population,105.1248705
+2388,Australia,2012,18.2,CPI2010,Total population,105.1248705
+2397,Australia,2012,18.2,CPI2015,Total population,93.82401
+2402,Australia,2012,18.2,CPI2015,Total population,93.82401
+2404,Australia,2014,15.1,CPI2010,Total population,110.3798138
+2411,Australia,2014,15.1,CPI2015,Total population,98.51405
+2413,Australia,2016,14.6,CPI2010,Total population,113.475554
+2420,Australia,2016,14.6,CPI2015,Total population,101.277
+2422,Australia,2018,13.7,CPI2010,Total population,117.898072
+2429,Australia,2018,13.7,CPI2015,Total population,105.2241
+2431,Netherlands,2009,19.1,CPI2010,Total population,98.74076801
+2436,Netherlands,2009,19.1,CPI2015,Total population,90.43584
+2440,Netherlands,2009,20.0,CPI2010,Total population,98.74076801
+2445,Netherlands,2009,20.0,CPI2015,Total population,90.43584
+2449,Netherlands,2010,18.6,CPI2010,Total population,100.0
+2454,Netherlands,2010,18.6,CPI2015,Total population,91.58916
+2458,Netherlands,2010,19.5,CPI2010,Total population,100.0
+2463,Netherlands,2010,19.5,CPI2015,Total population,91.58916
+2467,Netherlands,2011,18.4,CPI2010,Total population,102.341074
+2474,Netherlands,2011,18.4,CPI2015,Total population,93.73333
+2476,Netherlands,2011,19.3,CPI2010,Total population,102.341074
+2483,Netherlands,2011,19.3,CPI2015,Total population,93.73333
+2486,Netherlands,2012,17.9,CPI2010,Total population,104.8541116
+2487,Netherlands,2012,17.9,CPI2010,Total population,104.8541116
+2496,Netherlands,2012,17.9,CPI2015,Total population,96.035
+2501,Netherlands,2012,17.9,CPI2015,Total population,96.035
+2504,Netherlands,2012,18.8,CPI2010,Total population,104.8541116
+2505,Netherlands,2012,18.8,CPI2010,Total population,104.8541116
+2514,Netherlands,2012,18.8,CPI2015,Total population,96.035
+2519,Netherlands,2012,18.8,CPI2015,Total population,96.035
+2521,Netherlands,2013,17.8,CPI2010,Total population,107.4826977
+2528,Netherlands,2013,17.8,CPI2015,Total population,98.4425
+2530,Netherlands,2013,18.2,CPI2010,Total population,107.4826977
+2537,Netherlands,2013,18.2,CPI2015,Total population,98.4425
+2539,Turkey,2013,6.3,CPI2010,Total population,124.6263037
+2544,Turkey,2013,6.3,CPI2015,Total population,85.32085
+2548,Turkey,2014,6.9,CPI2010,Total population,135.6614352
+2553,Turkey,2014,6.9,CPI2015,Total population,92.87565
+2557,Turkey,2015,8.0,CPI2010,Total population,146.0678178
+2562,Turkey,2015,8.0,CPI2015,Total population,100.0
+2567,Greece,2010,22.2,CPI2010,Total population,100.0
+2568,Greece,2010,22.2,CPI2010,Total population,100.0
+2577,Greece,2010,22.2,CPI2015,Total population,99.23457
+2580,Greece,2010,22.2,CPI2015,Total population,99.23457
+2585,Greece,2013,23.1,CPI2010,Total population,103.9141904
+2586,Greece,2013,23.1,CPI2010,Total population,103.9141904
+2595,Greece,2013,23.1,CPI2015,Total population,103.1188
+2598,Greece,2013,23.1,CPI2015,Total population,103.1188
+2602,Greece,2016,20.2,CPI2010,Total population,99.93930543
+2607,Greece,2016,20.2,CPI2015,Total population,99.17434
+2611,Austria,2009,29.3,CPI2010,Total population,98.21877059999998
+2617,Austria,2009,29.3,CPI2015,Total population,88.74172
+2620,Austria,2010,28.9,CPI2010,Total population,100.0
+2626,Austria,2010,28.9,CPI2015,Total population,90.35108
+2629,Austria,2011,28.3,CPI2010,Total population,103.2865905
+2635,Austria,2011,28.3,CPI2015,Total population,93.32055
+2638,Austria,2012,28.0,CPI2010,Total population,105.8539533
+2644,Austria,2012,28.0,CPI2015,Total population,95.64019
+2647,Austria,2013,27.8,CPI2010,Total population,107.9712052
+2653,Austria,2013,27.8,CPI2015,Total population,97.55315
+2656,Austria,2014,27.7,CPI2010,Total population,109.7050085
+2662,Austria,2014,27.7,CPI2015,Total population,99.11966
+2665,Austria,2015,27.4,CPI2010,Total population,110.6885496
+2671,Austria,2015,27.4,CPI2015,Total population,100.0083
+2674,Austria,2016,26.9,CPI2010,Total population,111.6754775
+2680,Austria,2016,26.9,CPI2015,Total population,100.9
+2683,Austria,2017,26.7,CPI2010,Total population,113.9997441
+2689,Austria,2017,26.7,CPI2015,Total population,103.0
+2692,Austria,2018,26.3,CPI2010,Total population,116.2778574
+2698,Austria,2018,26.3,CPI2015,Total population,105.0583
+2701,Denmark,2009,67.7,CPI2010,Total population,97.74126604
+2706,Denmark,2009,67.7,CPI2015,Total population,91.23333
+2710,Denmark,2010,67.2,CPI2010,Total population,100.0
+2715,Denmark,2010,67.2,CPI2015,Total population,93.34167
+2720,Denmark,2011,67.8,CPI2010,Total population,102.7586714
+2721,Denmark,2011,67.8,CPI2010,Total population,102.7586714
+2730,Denmark,2011,67.8,CPI2015,Total population,95.91666
+2735,Denmark,2011,67.8,CPI2015,Total population,95.91666
+2737,Denmark,2012,68.0,CPI2010,Total population,105.2227478
+2744,Denmark,2012,68.0,CPI2015,Total population,98.21667
+2746,Denmark,2013,67.8,CPI2010,Total population,106.0530308
+2753,Denmark,2013,67.8,CPI2015,Total population,98.99167
+2755,Denmark,2014,67.4,CPI2010,Total population,106.651188
+2762,Denmark,2014,67.4,CPI2015,Total population,99.55
+2764,Denmark,2015,67.1,CPI2010,Total population,107.1332878
+2771,Denmark,2015,67.1,CPI2015,Total population,100.0
+2773,Denmark,2016,65.5,CPI2010,Total population,107.40112109999998
+2780,Denmark,2016,65.5,CPI2015,Total population,100.25
+2782,Denmark,2017,66.1,CPI2010,Total population,108.6331539
+2789,Denmark,2017,66.1,CPI2015,Total population,101.4
+2791,Estonia,2018,4.3,CPI2010,Total population,119.4227044
+2797,Estonia,2018,4.3,CPI2015,Total population,107.13
+2801,Slovak Republic,2009,16.0,CPI2010,Total population,99.05205581
+2802,Slovak Republic,2009,16.0,CPI2010,Total population,99.05205581
+2811,Slovak Republic,2009,16.0,CPI2015,Total population,91.09355
+2815,Slovak Republic,2009,16.0,CPI2015,Total population,91.09355
+2819,Slovak Republic,2010,15.2,CPI2010,Total population,100.0
+2820,Slovak Republic,2010,15.2,CPI2010,Total population,100.0
+2829,Slovak Republic,2010,15.2,CPI2015,Total population,91.96533
+2833,Slovak Republic,2010,15.2,CPI2015,Total population,91.96533
+2837,Slovak Republic,2011,14.1,CPI2010,Total population,103.9192922
+2838,Slovak Republic,2011,14.1,CPI2010,Total population,103.9192922
+2847,Slovak Republic,2011,14.1,CPI2015,Total population,95.56972
+2851,Slovak Republic,2011,14.1,CPI2015,Total population,95.56972
+2855,Slovak Republic,2012,13.6,CPI2010,Total population,107.6667261
+2856,Slovak Republic,2012,13.6,CPI2010,Total population,107.6667261
+2865,Slovak Republic,2012,13.6,CPI2015,Total population,99.01606
+2869,Slovak Republic,2012,13.6,CPI2015,Total population,99.01606
+2873,Slovak Republic,2013,13.3,CPI2010,Total population,109.1746205
+2874,Slovak Republic,2013,13.3,CPI2010,Total population,109.1746205
+2883,Slovak Republic,2013,13.3,CPI2015,Total population,100.4028
+2887,Slovak Republic,2013,13.3,CPI2015,Total population,100.4028
+2890,Slovak Republic,2014,12.8,CPI2010,Total population,109.091437
+2896,Slovak Republic,2014,12.8,CPI2015,Total population,100.3263
+2899,Slovak Republic,2015,11.7,CPI2010,Total population,108.7366293
+2905,Slovak Republic,2015,11.7,CPI2015,Total population,100.0
+2908,Slovak Republic,2016,10.7,CPI2010,Total population,108.171188
+2914,Slovak Republic,2016,10.7,CPI2015,Total population,99.47999
+2918,Slovenia,2009,37.1,CPI2010,Total population,98.23069792
+2919,Slovenia,2009,37.1,CPI2010,Total population,98.23069792
+2928,Slovenia,2009,37.1,CPI2015,Total population,92.7175
+2933,Slovenia,2009,37.1,CPI2015,Total population,92.7175
+2936,Slovenia,2010,29.6,CPI2010,Total population,100.0
+2937,Slovenia,2010,29.6,CPI2010,Total population,100.0
+2946,Slovenia,2010,29.6,CPI2015,Total population,94.3875
+2951,Slovenia,2010,29.6,CPI2015,Total population,94.3875
+2954,Slovenia,2011,33.1,CPI2010,Total population,101.8028447
+2955,Slovenia,2011,33.1,CPI2010,Total population,101.8028447
+2964,Slovenia,2011,33.1,CPI2015,Total population,96.08916
+2969,Slovenia,2011,33.1,CPI2015,Total population,96.08916
+2972,Slovenia,2012,23.9,CPI2010,Total population,104.4470931
+2973,Slovenia,2012,23.9,CPI2010,Total population,104.4470931
+2982,Slovenia,2012,23.9,CPI2015,Total population,98.585
+2987,Slovenia,2012,23.9,CPI2015,Total population,98.585
+2990,Slovenia,2013,23.2,CPI2010,Total population,106.29500729999998
+2991,Slovenia,2013,23.2,CPI2010,Total population,106.29500729999998
+3000,Slovenia,2013,23.2,CPI2015,Total population,100.3292
+3005,Slovenia,2013,23.2,CPI2015,Total population,100.3292
+3007,Slovenia,2014,26.4,CPI2010,Total population,106.5068997
+3014,Slovenia,2014,26.4,CPI2015,Total population,100.5292
+3016,Slovenia,2015,20.9,CPI2010,Total population,105.9470799
+3023,Slovenia,2015,20.9,CPI2015,Total population,100.0008
+3025,Slovenia,2016,20.4,CPI2010,Total population,105.8888412
+3032,Slovenia,2016,20.4,CPI2015,Total population,99.94583
+3034,Japan,2009,18.4,CPI2010,Total population,100.7252007
+3040,Japan,2009,18.4,CPI2010,Total population,100.7252007
+3045,Japan,2009,18.4,CPI2015,Total population,97.225
+3050,Japan,2009,18.4,CPI2015,Total population,97.225
+3052,Japan,2012,17.9,CPI2010,Total population,99.6805698
+3058,Japan,2012,17.9,CPI2010,Total population,99.6805698
+3063,Japan,2012,17.9,CPI2015,Total population,96.21667
+3068,Japan,2012,17.9,CPI2015,Total population,96.21667
+3070,Japan,2015,17.4,CPI2010,Total population,103.6001036
+3077,Japan,2015,17.4,CPI2015,Total population,100.0
+3080,Hungary,2012,11.8,CPI2010,Total population,109.8042007
+3081,Hungary,2012,11.8,CPI2010,Total population,109.8042007
+3090,Hungary,2012,11.8,CPI2015,Total population,98.5813
+3095,Hungary,2012,11.8,CPI2015,Total population,98.5813
+3097,Hungary,2013,11.1,CPI2010,Total population,111.7073147
+3104,Hungary,2013,11.1,CPI2015,Total population,100.2899
+3106,Hungary,2014,10.2,CPI2010,Total population,111.4531355
+3113,Hungary,2014,10.2,CPI2015,Total population,100.0617
+3115,Hungary,2016,8.5,CPI2010,Total population,111.824157
+3122,Hungary,2016,8.5,CPI2015,Total population,100.3948
+3124,Hungary,2017,8.1,CPI2010,Total population,114.4500445
+3131,Hungary,2017,8.1,CPI2015,Total population,102.7523
+3133,Hungary,2018,7.9,CPI2010,Total population,117.7121597
+3140,Hungary,2018,7.9,CPI2015,Total population,105.681
+3143,Iceland,2009,84.9,CPI2010,Total population,94.87960241
+3144,Iceland,2009,84.9,CPI2010,Total population,94.87960241
+3153,Iceland,2009,84.9,CPI2015,Total population,80.51058
+3158,Iceland,2009,84.9,CPI2015,Total population,80.51058
+3161,Iceland,2010,85.2,CPI2010,Total population,100.0
+3162,Iceland,2010,85.2,CPI2010,Total population,100.0
+3171,Iceland,2010,85.2,CPI2015,Total population,84.85552
+3176,Iceland,2010,85.2,CPI2015,Total population,84.85552
+3179,Iceland,2012,85.3,CPI2010,Total population,109.3944154
+3180,Iceland,2012,85.3,CPI2010,Total population,109.3944154
+3189,Iceland,2012,85.3,CPI2015,Total population,92.8272
+3194,Iceland,2012,85.3,CPI2015,Total population,92.8272
+3196,Iceland,2014,90.4,CPI2010,Total population,115.9537765
+3203,Iceland,2014,90.4,CPI2015,Total population,98.39318
+3205,Iceland,2017,91.0,CPI2010,Total population,121.9569452
+3212,Iceland,2017,91.0,CPI2015,Total population,103.4872
+3215,Mexico,2012,14.0,CPI2010,Total population,107.6589765
+3216,Mexico,2012,14.0,CPI2010,Total population,107.6589765
+3225,Mexico,2012,14.0,CPI2015,Total population,90.15859
+3228,Mexico,2012,14.0,CPI2015,Total population,90.15859
+3232,Mexico,2014,13.6,CPI2010,Total population,116.247983
+3237,Mexico,2014,13.6,CPI2015,Total population,97.35142
+3241,Mexico,2016,12.7,CPI2010,Total population,122.780081
+3246,Mexico,2016,12.7,CPI2015,Total population,102.8217
+3251,Czech Republic,2009,16.7,CPI2010,Total population,98.5486365
+3252,Czech Republic,2009,16.7,CPI2010,Total population,98.5486365
+3261,Czech Republic,2009,16.7,CPI2015,Total population,91.66666
+3266,Czech Republic,2009,16.7,CPI2015,Total population,91.66666
+3269,Czech Republic,2010,16.1,CPI2010,Total population,100.0
+3270,Czech Republic,2010,16.1,CPI2010,Total population,100.0
+3279,Czech Republic,2010,16.1,CPI2015,Total population,93.01667
+3284,Czech Republic,2010,16.1,CPI2015,Total population,93.01667
+3287,Czech Republic,2011,15.4,CPI2010,Total population,101.9172155
+3288,Czech Republic,2011,15.4,CPI2010,Total population,101.9172155
+3297,Czech Republic,2011,15.4,CPI2015,Total population,94.8
+3302,Czech Republic,2011,15.4,CPI2015,Total population,94.8
+3305,Czech Republic,2012,14.8,CPI2010,Total population,105.2678622
+3306,Czech Republic,2012,14.8,CPI2010,Total population,105.2678622
+3315,Czech Republic,2012,14.8,CPI2015,Total population,97.91666
+3320,Czech Republic,2012,14.8,CPI2015,Total population,97.91666
+3323,Czech Republic,2013,13.6,CPI2010,Total population,106.7819349
+3324,Czech Republic,2013,13.6,CPI2010,Total population,106.7819349
+3333,Czech Republic,2013,13.6,CPI2015,Total population,99.325
+3338,Czech Republic,2013,13.6,CPI2015,Total population,99.325
+3340,Czech Republic,2014,12.9,CPI2010,Total population,107.1492454
+3347,Czech Republic,2014,12.9,CPI2015,Total population,99.66666
+3349,Czech Republic,2015,12.0,CPI2010,Total population,107.4807344
+3356,Czech Republic,2015,12.0,CPI2015,Total population,99.975
+3358,Czech Republic,2016,12.0,CPI2010,Total population,108.21533390000002
+3365,Czech Republic,2016,12.0,CPI2015,Total population,100.6583
+3367,Czech Republic,2017,11.7,CPI2010,Total population,110.8672241
+3374,Czech Republic,2017,11.7,CPI2015,Total population,103.125
+3376,Czech Republic,2018,11.5,CPI2010,Total population,113.2503453
+3383,Czech Republic,2018,11.5,CPI2015,Total population,105.3417
+3385,Sweden,2018,64.9,CPI2010,Total population,108.57214009999998
+3390,Sweden,2018,64.9,CPI2015,Total population,104.8046
+3394,Germany,2009,18.8,CPI2010,Total population,98.90824061
+3399,Germany,2009,18.8,CPI2015,Total population,92.26585
+3403,Germany,2010,18.9,CPI2010,Total population,100.0
+3408,Germany,2010,18.9,CPI2015,Total population,93.28429
+3413,Germany,2011,18.4,CPI2010,Total population,102.0751726
+3414,Germany,2011,18.4,CPI2010,Total population,102.0751726
+3423,Germany,2011,18.4,CPI2015,Total population,95.2201
+3426,Germany,2011,18.4,CPI2015,Total population,95.2201
+3430,Germany,2012,18.3,CPI2010,Total population,104.1253356
+3435,Germany,2012,18.3,CPI2015,Total population,97.13258
+3439,Germany,2013,18.0,CPI2010,Total population,105.6921374
+3444,Germany,2013,18.0,CPI2015,Total population,98.59416
+3448,Germany,2014,17.7,CPI2010,Total population,106.6505518
+3453,Germany,2014,17.7,CPI2015,Total population,99.48821
+3457,Germany,2015,17.6,CPI2010,Total population,107.1991865
+3462,Germany,2015,17.6,CPI2015,Total population,100.0
+3466,Germany,2016,17.0,CPI2010,Total population,107.7262849
+3471,Germany,2016,17.0,CPI2015,Total population,100.4917
+3475,Germany,2017,16.7,CPI2010,Total population,109.35249650000002
+3480,Germany,2017,16.7,CPI2015,Total population,102.0087
+3485,Portugal,2010,19.6,CPI2010,Total population,100.0
+3486,Portugal,2010,19.6,CPI2010,Total population,100.0
+3495,Portugal,2010,19.6,CPI2015,Total population,93.42072
+3500,Portugal,2010,19.6,CPI2015,Total population,93.42072
+3503,Portugal,2011,18.7,CPI2010,Total population,103.6530119
+3504,Portugal,2011,18.7,CPI2010,Total population,103.6530119
+3513,Portugal,2011,18.7,CPI2015,Total population,96.83339
+3518,Portugal,2011,18.7,CPI2015,Total population,96.83339
+3520,Portugal,2015,16.1,CPI2010,Total population,107.0426347
+3527,Portugal,2015,16.1,CPI2015,Total population,100.0
+3529,Portugal,2016,15.3,CPI2010,Total population,107.6928116
+3536,Portugal,2016,15.3,CPI2015,Total population,100.6074
+3538,Netherlands,2014,18.1,CPI2010,Total population,108.5317738
+3545,Netherlands,2014,18.1,CPI2015,Total population,99.40334
+3547,Netherlands,2015,17.7,CPI2010,Total population,109.1832265
+3554,Netherlands,2015,17.7,CPI2015,Total population,100.0
+3556,Netherlands,2016,17.3,CPI2010,Total population,109.5290098
+3563,Netherlands,2016,17.3,CPI2015,Total population,100.3167
+3565,Israel,2017,25.0,CPI2010,Total population,106.3806978
+3571,Israel,2017,25.0,CPI2015,Total population,99.69849
+3574,Canada,2016,26.3,CPI2010,Total population,110.2247098
+3579,Canada,2016,26.3,CPI2015,Total population,101.4288
+3583,Canada,2017,26.3,CPI2010,Total population,111.9848702
+3588,Canada,2017,26.3,CPI2015,Total population,103.0485
+3592,Canada,2018,25.9,CPI2010,Total population,114.52486100000002
+3597,Canada,2018,25.9,CPI2015,Total population,105.3858
+3601,New Zealand,2009,21.5,CPI2010,Total population,97.74976026
+3606,New Zealand,2009,21.5,CPI2015,Total population,90.55659
+3611,New Zealand,2011,20.5,CPI2010,Total population,104.027893
+3612,New Zealand,2011,20.5,CPI2010,Total population,104.027893
+3621,New Zealand,2011,20.5,CPI2015,Total population,96.37273
+3624,New Zealand,2011,20.5,CPI2015,Total population,96.37273
+3628,New Zealand,2012,20.3,CPI2010,Total population,105.1305013
+3633,New Zealand,2012,20.3,CPI2015,Total population,97.3942
+3637,New Zealand,2014,18.5,CPI2010,Total population,107.628255
+3642,New Zealand,2014,18.5,CPI2015,Total population,99.70815
+3647,Italy,2009,34.7,CPI2010,Total population,98.4974009
+3648,Italy,2009,34.7,CPI2010,Total population,98.4974009
+3657,Italy,2009,34.7,CPI2015,Total population,91.59818
+3660,Italy,2009,34.7,CPI2015,Total population,91.59818
+3665,Italy,2010,35.5,CPI2010,Total population,100.0
+3666,Italy,2010,35.5,CPI2010,Total population,100.0
+3675,Italy,2010,35.5,CPI2015,Total population,92.99553
+3678,Italy,2010,35.5,CPI2015,Total population,92.99553
+3683,Italy,2011,35.8,CPI2010,Total population,102.780639
+3684,Italy,2011,35.8,CPI2010,Total population,102.780639
+3693,Italy,2011,35.8,CPI2015,Total population,95.5814
+3696,Italy,2011,35.8,CPI2015,Total population,95.5814
+3701,Italy,2012,36.3,CPI2010,Total population,105.9065635
+3702,Italy,2012,36.3,CPI2010,Total population,105.9065635
+3711,Italy,2012,36.3,CPI2015,Total population,98.48837
+3714,Italy,2012,36.3,CPI2015,Total population,98.48837
+3719,Italy,2013,36.8,CPI2010,Total population,107.1986256
+3720,Italy,2013,36.8,CPI2010,Total population,107.1986256
+3729,Italy,2013,36.8,CPI2015,Total population,99.68993
+3732,Italy,2013,36.8,CPI2015,Total population,99.68993
+3736,Italy,2014,36.4,CPI2010,Total population,107.4570251
+3741,Italy,2014,36.4,CPI2015,Total population,99.93023
+3745,Italy,2015,35.7,CPI2010,Total population,107.4987045
+3750,Italy,2015,35.7,CPI2015,Total population,99.96899
+3754,Italy,2016,34.4,CPI2010,Total population,107.3976351
+3759,Italy,2016,34.4,CPI2015,Total population,99.875
+3763,Italy,2017,34.3,CPI2010,Total population,108.7149027
+3768,Italy,2017,34.3,CPI2015,Total population,101.1
+3773,Ireland,2012,30.1,CPI2010,Total population,104.2967829
+3774,Ireland,2012,30.1,CPI2010,Total population,104.2967829
+3783,Ireland,2012,30.1,CPI2015,Total population,99.6013
+3787,Ireland,2012,30.1,CPI2015,Total population,99.6013
+3790,Ireland,2014,26.3,CPI2010,Total population,105.0186831
+3796,Ireland,2014,26.3,CPI2015,Total population,100.2907
+3799,Ireland,2015,25.4,CPI2010,Total population,104.7142787
+3805,Ireland,2015,25.4,CPI2015,Total population,100.0
+3808,Lithuania,2009,10.0,CPI2010,Total population,98.69795408
+3814,Lithuania,2009,10.0,CPI2010,Total population,98.69795408
+3819,Lithuania,2009,10.0,CPI2015,Total population,91.70551
+3822,Lithuania,2009,10.0,CPI2015,Total population,91.70551
+3826,Lithuania,2010,10.1,CPI2010,Total population,100.0
+3832,Lithuania,2010,10.1,CPI2010,Total population,100.0
+3837,Lithuania,2010,10.1,CPI2015,Total population,92.91531
+3840,Lithuania,2010,10.1,CPI2015,Total population,92.91531
+3844,Lithuania,2011,9.7,CPI2010,Total population,104.1302773
+3850,Lithuania,2011,9.7,CPI2010,Total population,104.1302773
+3855,Lithuania,2011,9.7,CPI2015,Total population,96.75297
+3858,Lithuania,2011,9.7,CPI2015,Total population,96.75297
+3862,Lithuania,2012,9.0,CPI2010,Total population,107.3478741
+3868,Lithuania,2012,9.0,CPI2010,Total population,107.3478741
+3873,Lithuania,2012,9.0,CPI2015,Total population,99.74261
+3876,Lithuania,2012,9.0,CPI2015,Total population,99.74261
+3880,Lithuania,2013,8.4,CPI2010,Total population,108.4723282
+3886,Lithuania,2013,8.4,CPI2010,Total population,108.4723282
+3891,Lithuania,2013,8.4,CPI2015,Total population,100.7874
+3894,Lithuania,2013,8.4,CPI2015,Total population,100.7874
+3898,Lithuania,2014,8.1,CPI2010,Total population,108.5849038
+3903,Lithuania,2014,8.1,CPI2015,Total population,100.892
+3907,Lithuania,2015,7.9,CPI2010,Total population,107.624879
+3912,Lithuania,2015,7.9,CPI2015,Total population,99.99999
+3916,Lithuania,2016,7.7,CPI2010,Total population,108.5994332
+3921,Lithuania,2016,7.7,CPI2015,Total population,100.9055
+3925,Lithuania,2017,7.7,CPI2010,Total population,112.6424698
+3930,Lithuania,2017,7.7,CPI2015,Total population,104.6621
+3934,Lithuania,2018,7.1,CPI2010,Total population,115.6814738
+3939,Lithuania,2018,7.1,CPI2015,Total population,107.4858
+3943,United States,2009,11.8,CPI2010,Total population,98.38642286
+3948,United States,2009,11.8,CPI2015,Total population,90.51545
+3952,United States,2010,11.4,CPI2010,Total population,100.0
+3957,United States,2010,11.4,CPI2015,Total population,91.99994
+3961,United States,2011,11.3,CPI2010,Total population,103.1568499
+3966,United States,2011,11.3,CPI2015,Total population,94.90424
+3970,United States,2012,10.8,CPI2010,Total population,105.2915035
+3975,United States,2012,10.8,CPI2015,Total population,96.86812
+3979,United States,2013,10.8,CPI2010,Total population,106.8338523
+3986,United States,2013,10.8,CPI2015,Total population,98.28708
+3988,United States,2014,10.7,CPI2010,Total population,108.5669404
+3995,United States,2014,10.7,CPI2015,Total population,99.88152
+3997,United States,2015,10.6,CPI2010,Total population,108.6957231
+4004,United States,2015,10.6,CPI2015,Total population,100.0
+4006,United States,2016,10.3,CPI2010,Total population,110.0670283
+4013,United States,2016,10.3,CPI2015,Total population,101.2616
+4015,United States,2017,10.3,CPI2010,Total population,112.4115951
+4022,United States,2017,10.3,CPI2015,Total population,103.4186
