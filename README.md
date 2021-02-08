@@ -4,23 +4,29 @@
 
 #### 02/06/2021
 
+---
+
 ## Key Objective & Hypothesis:
 
-### Objective:
+> ### Objective:
 
-- Analyze the relationship between labor union density and several important economic indicators within the countries of the OECD from 2009 - 2018.
+> - Analyze the relationship between labor union density and several important economic indicators within the countries of the OECD from 2009 - 2018.
 
-### Core Hypothesis:
+> ### Core Hypothesis:
 
-- Countries with higher levels of union density will have lower levels of income inequality.
+> - Countries with higher levels of union density will have lower levels of income inequality.
 
-![image](./images/863px-OECD_member_states_map.svg.png)
+> ![image](./images/863px-OECD_member_states_map.svg.png)
+
+---
 
 ## Motivations
 
-- Over the last forty years the legal and political climate in the United States has become very hostile to labor unions.
-- The driving theory behind this trend is the belief among many policy makers that unions hinder economic growth.
-- The primary motivation behind this project is to analyze what sort of effects union density has on various economic indicators.
+> - Over the last forty years the legal and political climate in the United States has become very hostile to labor unions.
+> - The driving theory behind this trend is the belief among many policy makers that unions hinder economic growth.
+> - The primary motivation behind this project is to analyze what sort of effects union density has on various economic indicators.
+
+---
 
 ## Questions
 
@@ -31,34 +37,45 @@
 > - Identify the Labor Markets demographics.
 > - Does Union have effects on wage gap?
 
+---
+
 ## Questions: What is the relationship between union density and income inequality within the countries of the OECD?
 
 ### Data Needed:
 
-- Information regarding “union density” in OECD countries
-  - “Trade union density” expresses union membership as a proportion of the eligible workforce
-- Information regarding income inequality in OECD countries
-  - The Gini coefficient measures the extent to which the distribution of income among individuals or households within an economy deviates from a perfectly equal distribution
+> - Information regarding “union density” in OECD countries
+>   - “Trade union density” expresses union membership as a proportion of the eligible workforce
+> - Information regarding income inequality in OECD countries
+>   - The Gini coefficient measures the extent to which the distribution of income among individuals or households within an economy deviates from a perfectly equal distribution
 
-### Sources:
+> ### Sources:
 
-- Union Density Data Source: OECD (2021), Trade Union (database), stats.oecd.org
-- Gini Coefficient Data Source: OECD (2021), Income Distribution (database), stats.oecd.org
+> - Union Density Data Source: OECD (2021), Trade Union (database), stats.oecd.org
+> - Gini Coefficient Data Source: OECD (2021), Income Distribution (database), stats.oecd.org
 
-### Analysis:
+> ### Analysis:
 
-- When all of the countries of the OECD are included in the analysis there is a moderate negative correlation between union density and income inequality.
+> - When all of the countries of the OECD are included in the analysis there is a moderate negative correlation between union density and income inequality.
+
+---
 
 ## Questions: What is the relationship between union density and income inequality within the countries of the OECD?
 
-![Gini vs. Union % Global](./images/gini_and_union_1.png#picture)
-img[src*="#picture"] {width: 500px}
+<img src="images/gini_and_union_1.png" width="500">
+
+<!-- ![Gini vs. Union % Global](./images/gini_and_union_1.png#picture) -->
+<!-- img[src*="#picture"] {width: 500px} -->
 
 [comment]: <> (<img src="/images/gini_and_union_1.png" alt="Gini vs.Union % Global" width="150"/>)
 
+---
+
 ## Gini Coefficient and Union Density by Region
 
-![Gini vs. Union by region](./images/gini_union_by_region.png)
+<img src="images/gini_union_by_region.png">
+<!-- ![Gini vs. Union by region](./images/gini_union_by_region.png) -->
+
+---
 
 ## Latin American Outliers
 
@@ -69,6 +86,8 @@ img[src*="#picture"] {width: 500px}
 ## Gini Coefficient vs. Union Density - OECD
 
 ![Gini Union with or without outlier](./images/gini_union_2.png)
+
+---
 
 ## Questions: Is there a correlation between union density and the value of a country’s currency?
 
@@ -84,6 +103,8 @@ img[src*="#picture"] {width: 500px}
   - CPI Data Source: OECD (2021), Income distribution, OECD Social and Welfare Statistics (database), https://doi.org/10.1787/data-00654-en
   - GDP Data Source: OECD (2021), Gross domestic product (GDP) (indicator). doi: 10.1787/dc2f7aec-en (Accessed on 04 February 2021)
 
+---
+
 ## Union Density vs CPI - all Regions
 
 <img style="float: right" src="images/cpiUnion.png" alt="drawing" width="500"/>
@@ -95,12 +116,16 @@ img[src*="#picture"] {width: 500px}
 - CPI is a broad type of measurement, so it’s not necessarily surprising that there is no correlation between CPI and Union Density.
 - There is little variation in CPI from one year to the next when looking at the data by year. Perhaps there might be more variation if the time period analyzed was greater, however, there would still likely be no correlation between CPI and Union Density.
 
+---
+
 ## Regional Breakdown
 
 ### Union Density vs. CPI per Region
 
 - These graphs show the breakdown per region of the 36 countries, for all years of data. These graphs are intended to zoom in on the various regions before showing as one full graph.
   <img src="images/cpi_union_by_region.png">
+
+---
 
 ## Union Density vs. GDP
 
@@ -115,6 +140,8 @@ img[src*="#picture"] {width: 500px}
 
 <img src="images/gdp_union_wo_outliter.png" align="left"/>
 
+---
+
 ## Questions: Does the distribution of government spending have an impact on union density?
 
 - Data Needed:
@@ -122,6 +149,8 @@ img[src*="#picture"] {width: 500px}
     - Team pivoted due to limited data sources.
 - Sources:
   - OECD (2021), Adult education level (indicator). Doi: 10.1787/36bce3fe-en (Accessed on 05 February 2021)
+
+---
 
 ## All OECD Countries
 
@@ -133,17 +162,23 @@ img[src*="#picture"] {width: 500px}
   - three levels: below upper-secondary, upper secondary and tertiary education.
   - The measure is % of same age population.
 
+---
+
 ## All OECD Countries
 
 | Below Upper-Secondary          | Highest Tertiary Level         |
-| ------------------------------ | ------------------------------ |
+| :----------------------------- | :----------------------------- |
 | <img src="images/below.png" /> | <img src="images/highest.png"> |
+
+---
 
 ## Regional Breakdown
 
 ### Union Density vs. GDP per Region
 
 <img src="images/gdp_union_region.png">
+
+---
 
 ## Questions: How does the political and legal environment within each country affect income inequality?
 
@@ -158,6 +193,8 @@ img[src*="#picture"] {width: 500px}
 
 <img src="images/gvr.png">
 
+---
+
 ## Questions: What is the average age of the workforce?
 
 - Nominal variance of the workforce population among the regions.
@@ -166,6 +203,8 @@ img[src*="#picture"] {width: 500px}
   - Working Age Population Source: OECD (2021), Working age population (indicator). doi: 10.1787/d339918b-en (Accessed on 04 February 2021)
 
 <img src="images/age.png">
+
+---
 
 ## Questions: What does labor market and wages looks like?
 
@@ -177,17 +216,23 @@ img[src*="#picture"] {width: 500px}
 
 ##### Data Source: https://stats.oecd.org/
 
+---
+
 ## Labor Force Participation Rate
 
 ### The graph shows the average labor participation rate as a percentage of total population across region over 10 years.
 
 <img src="images/labor.png">
 
+---
+
 ## Unemployment Data
 
 ### Unemployment rate as a percentage of total population over 10 years.
 
 <img src="images/unemploy.png">
+
+---
 
 ## Does higher union density leads to lower wage gap?
 
@@ -199,6 +244,8 @@ img[src*="#picture"] {width: 500px}
 - Countries with higher union density had lesser wage gap.
 
 <img src="images/wage.png">
+
+---
 
 ## Data Cleanup & Exploration:
 
@@ -216,6 +263,8 @@ img[src*="#picture"] {width: 500px}
 
 <img src="images/clean.png">
 
+---
+
 ## Conclusions and Implications
 
 - We found a moderate to low correlation between union density and the Gini coefficient, GDP per capita, and wage gap for the countries of the OECD. This suggests that countries with higher union participation have lower levels of income inequality and higher GDP per capita.
@@ -223,6 +272,8 @@ img[src*="#picture"] {width: 500px}
 - It appears that countries with a political and legal climate that is more accommodating to unions tend to have a lower level of income inequality.
 - It appears there is not a significant correlation between union density and a country’s CPI or education level.
 - Potential implications for economic and legal policy based on this analysis would include the conclusion that countries wishing to lower income inequality and increase GDP per capita should implement policies and laws that create a favorable legal and political climate for labor unions.
+
+---
 
 ## Resources
 
