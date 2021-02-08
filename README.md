@@ -112,7 +112,8 @@ img[src*="#picture"] {width: 500px}
 - The Union Density IQR is: 22.3
 - The GDP IQR is: 15697
 - Coefficient of Correlation: .49
-  <img src="images/gdp_union_wo_outliter.png"/>
+
+<img src="images/gdp_union_wo_outliter.png" align="left"/>
 
 ## Questions: Does the distribution of government spending have an impact on union density?
 
@@ -201,9 +202,6 @@ img[src*="#picture"] {width: 500px}
 
 ## Data Cleanup & Exploration:
 
-|     |     |
-| --- | --- |
-
 | - Abundance of data required us to maintain focus
 
 - Check each columns by column report
@@ -215,7 +213,8 @@ img[src*="#picture"] {width: 500px}
 - Merge rows
   - Gini data and CPI data in different rows
   - Merge the two data to the same row by country and year
-    | <img src="images/clean.png"> |
+
+<img src="images/clean.png">
 
 ## Conclusions and Implications
 
