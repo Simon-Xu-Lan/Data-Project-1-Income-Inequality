@@ -61,7 +61,7 @@
 
 ## Questions: What is the relationship between union density and income inequality within the countries of the OECD?
 
-<img src="images/gini_and_union_1.png" width="500">
+<img src="images/gini_and_union_1.png" width="800">
 
 <!-- ![Gini vs. Union % Global](./images/gini_and_union_1.png#picture) -->
 <!-- img[src*="#picture"] {width: 500px} -->
