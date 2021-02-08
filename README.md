@@ -15,8 +15,7 @@
 ### Core Hypothesis:
 
 - Countries with higher levels of union density will have lower levels of income inequality.
-
-![image](./images/863px-OECD_member_states_map.svg.png)
+  <img src="images/863px-OECD_member_states_map.svg.png" width="1000">
 
 ---
 
