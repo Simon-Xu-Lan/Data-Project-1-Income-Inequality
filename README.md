@@ -61,19 +61,13 @@
 
 ## Questions: What is the relationship between union density and income inequality within the countries of the OECD?
 
-<img src="images/gini_and_union_1.png" width="500">
-
-<!-- ![Gini vs. Union % Global](./images/gini_and_union_1.png#picture) -->
-<!-- img[src*="#picture"] {width: 500px} -->
-
-[comment]: <(<img src="/images/gini_and_union_1.png" alt="Gini vs.Union % Global" width="150"/>)
+<img src="images/gini_and_union_1.png" width="1000">
 
 ---
 
 ## Gini Coefficient and Union Density by Region
 
-<img src="images/gini_union_by_region.png">
-<!-- ![Gini vs. Union by region](./images/gini_union_by_region.png) -->
+<img src="images/gini_union_by_region.png" width="1000">
 
 ---
 
@@ -81,11 +75,13 @@
 
 - As a region, the Gini coefficient of the Latin American countries of the OECD are statistical outliers.
 - When the Latin American countries are removed from the dataset the correlation coefficient between union density and Gini coefficient strengthens from -.47 to -.52, i.e. as union density increases the level of income inequality decreases.
-  ![Latin Outliers](./images/latin.png)
+  <img src="images/latin.png" width="1000">
+
+---
 
 ## Gini Coefficient vs. Union Density - OECD
 
-![Gini Union with or without outlier](./images/gini_union_2.png)
+<img src="images/gini_union_2.png" width="1000">
 
 ---
 
@@ -107,7 +103,7 @@
 
 ## Union Density vs CPI - all Regions
 
-<img style="float: right" src="images/cpiUnion.png" alt="drawing" width="500"/>
+<img src="images/cpiUnion.png" alt="drawing" width="1000"/>
 
 - There appears to be no linear correlation between union density and CPI across the various regions.
 
@@ -123,14 +119,14 @@
 ### Union Density vs. CPI per Region
 
 - These graphs show the breakdown per region of the 36 countries, for all years of data. These graphs are intended to zoom in on the various regions before showing as one full graph.
-  <img src="images/cpi_union_by_region.png">
+  <img src="images/cpi_union_by_region.png" width="1000">
 
 ---
 
 ## Union Density vs. GDP
 
 - There is a limited correlation between Union Density and GDP based upon the r value (.36)
-  <img src="images/gdp_union.png">
+  <img src="images/gdp_union.png" width="1000">
 
 ---
 
@@ -140,7 +136,7 @@
 - The GDP IQR is: 15697
 - Coefficient of Correlation: .49
 
-<img src="images/gdp_union_wo_outliter.png"/>
+<img src="images/gdp_union_wo_outliter.png" width="1000"/>
 
 ---
 
@@ -156,7 +152,7 @@
 
 ## All OECD Countries
 
-<img src="images/education.png" >
+<img src="images/education.png" width="1000" >
 
 - Analysis:
 
@@ -178,7 +174,7 @@
 
 ### Union Density vs. GDP per Region
 
-<img src="images/gdp_union_region.png">
+<img src="images/gdp_union_region.png" width="1000">
 
 ---
 
@@ -193,7 +189,7 @@
 - Analysis:
   - OECD countries where the political and legal systems are more friendly to labor unions tend to have a lower average Gini coefficient. Interestingly, this is not true for the three - countries rated most poorly
 
-<img src="images/gvr.png">
+<img src="images/gvr.png" width="1000">
 
 ---
 
@@ -204,7 +200,7 @@
   - Utilized data sources found with the OECD website.
   - Working Age Population Source: OECD (2021), Working age population (indicator). doi: 10.1787/d339918b-en (Accessed on 04 February 2021)
 
-<img src="images/age.png">
+<img src="images/age.png" width="1000">
 
 ---
 
@@ -224,7 +220,7 @@
 
 ### The graph shows the average labor participation rate as a percentage of total population across region over 10 years.
 
-<img src="images/labor.png">
+<img src="images/labor.png" width="1000">
 
 ---
 
@@ -232,7 +228,7 @@
 
 ### Unemployment rate as a percentage of total population over 10 years.
 
-<img src="images/unemploy.png">
+<img src="images/unemploy.png" width="1000">
 
 ---
 
@@ -245,25 +241,15 @@
 
 - Countries with higher union density had lesser wage gap.
 
-<img src="images/wage.png">
+<img src="images/wage.png" width="1000">
 
 ---
 
 ## Data Cleanup & Exploration:
 
-| - Abundance of data required us to maintain focus
-
-- Check each columns by column report
-  - Remove redundant columns
-  - Remove unrelated columns
-- Merge data
-  - One dataset has 11 years of Gini and CPI from 2009 ~2019
-  - Another has 21 years of union data from 1998 ~ 2018
-- Merge rows
-  - Gini data and CPI data in different rows
-  - Merge the two data to the same row by country and year
-
-<img src="images/clean.png">
+|                                                                                                                                                                                                                                                                                                                                                                                                   |                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 1. **Check each columns by column report** <br/>- Remove redundant columns <br/>- Remove unrelated columns <br/>2. **Merge data** <br/>- One dataset has 11 years of Gini and CPI from 2009 ~2019 <br/>- Another has 21 years of union data from 1998 ~ 2018 <br/>3. **Merge rows** <br/>- Gini data and CPI data in different rows <br/>- Merge the two data to the same row by country and year | <img src="images/clean.png"> |
 
 ---
 
@@ -282,6 +268,6 @@
 ### Data
 
 - https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
-- Stats.oecd.org
+- http://www.stats.oecd.org
 - https://www.ituc-csi.org/
 - https://www.ituc-csi.org/IMG/pdf/ituc_globalrightsindex_2020_en.pdf
