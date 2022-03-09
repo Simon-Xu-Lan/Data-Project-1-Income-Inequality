@@ -1,3 +1,4 @@
+https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/
 # Union Density & Economic Indicators
 
 #### Team: Anna Kantor, Elizabeth Conway, Matthew Berry, Renuka Kafle, Simon Xu, & Tricia Harris
